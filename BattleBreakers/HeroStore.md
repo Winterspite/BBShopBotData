@@ -1,0 +1,21 @@
+| Title | Dev Name | Item Granted | Quantity | Currency | Currency Sub Type | Price |
+|  | Dark Cloudpuff 1 | Character:Pet_SR1_Cloudpuff_Dark_T05 | 1 | GameItem | Reagent:Reagent_SupplyPoints_Elite | 800 |
+|  | Dark Cloudpuff 2 | Character:Pet_SR1_Cloudpuff_Dark_T05 | 1 | GameItem | Reagent:Reagent_SupplyPoints_Elite | 800 |
+|  | Fire Cloudpuff 1 | Character:Pet_SR1_Cloudpuff_Fire_T05 | 1 | GameItem | Reagent:Reagent_SupplyPoints_Elite | 800 |
+|  | Fire Cloudpuff 2 | Character:Pet_SR1_Cloudpuff_Fire_T05 | 1 | GameItem | Reagent:Reagent_SupplyPoints_Elite | 800 |
+|  | Light Cloudpuff 1 | Character:Pet_SR1_Cloudpuff_Light_T05 | 1 | GameItem | Reagent:Reagent_SupplyPoints_Elite | 800 |
+|  | Light Cloudpuff 2 | Character:Pet_SR1_Cloudpuff_Light_T05 | 1 | GameItem | Reagent:Reagent_SupplyPoints_Elite | 800 |
+|  | Nature Cloudpuff 1 | Character:Pet_SR1_Cloudpuff_Nature_T05 | 1 | GameItem | Reagent:Reagent_SupplyPoints_Elite | 800 |
+|  | Nature Cloudpuff 2 | Character:Pet_SR1_Cloudpuff_Nature_T05 | 1 | GameItem | Reagent:Reagent_SupplyPoints_Elite | 800 |
+|  | Water Cloudpuff 1 | Character:Pet_SR1_Cloudpuff_Water_T05 | 1 | GameItem | Reagent:Reagent_SupplyPoints_Elite | 800 |
+|  | Water Cloudpuff 2 | Character:Pet_SR1_Cloudpuff_Water_T05 | 1 | GameItem | Reagent:Reagent_SupplyPoints_Elite | 800 |
+|  | [VIRTUAL]1 x Conduit Bright-Burst for -1 GameItem : Reagent:Reagent_Hero_Event | Character:Mage_VR1_Light_LightningBolt_T04 | -1 | GameItem | Reagent:Reagent_Hero_Event | 2000 |
+|  | [VIRTUAL]1 x Illusory Tiger for -1 GameItem : Reagent:Reagent_SupplyPoints_Elite | Character:Pet_SR2_SpectralTiger_Light_T05 | -1 | GameItem | Reagent:Reagent_SupplyPoints_Elite | 200 |
+|  | [VIRTUAL]1 x Impaler Gang Bao for -1 GameItem : Reagent:Reagent_Hero_Event | Character:Warrior_VR1_Dark_Impale_T04 | -1 | GameItem | Reagent:Reagent_Hero_Event | 2000 |
+|  | [VIRTUAL]1 x Lightseeker Thalen for -1 GameItem : Reagent:Reagent_Hero_Event | Character:TreasureHunter_VR1_Light_SunStrike_T04 | -1 | GameItem | Reagent:Reagent_Hero_Event | 2000 |
+|  | [VIRTUAL]1 x Mistwalker, Fading Light for -1 GameItem : Reagent:Reagent_Hero_Event | Character:Ninja_VR1_Dark_ShadowStance_T04 | -1 | GameItem | Reagent:Reagent_Hero_Event | 2000 |
+|  | [VIRTUAL]1 x Mollyball Mousecat for -1 GameItem : Reagent:Reagent_SupplyPoints_Elite | Character:Pet_VR1_Water_Mousecat_T04 | -1 | GameItem | Reagent:Reagent_SupplyPoints_Elite | 100 |
+|  | [VIRTUAL]1 x Sir Lancelot for -1 GameItem : Reagent:Reagent_Hero_Event | Character:Knight_VR1_Water_ShieldStance_T04 | -1 | GameItem | Reagent:Reagent_Hero_Event | 2000 |
+|  | [VIRTUAL]1 x Sneek for -1 GameItem : Reagent:Reagent_SupplyPoints_Elite | Character:Pet_VR1_Sneek_Light_T04 | -1 | GameItem | Reagent:Reagent_SupplyPoints_Elite | 100 |
+|  | [VIRTUAL]1 x Tiny Laser Dino for -1 GameItem : Reagent:Reagent_SupplyPoints_Elite | Character:Pet_VR1_Water_LaserDino_T04 | -1 | GameItem | Reagent:Reagent_SupplyPoints_Elite | 100 |
+|  | [VIRTUAL]1 x Voidwalker Andre for -1 GameItem : Reagent:Reagent_Hero_Event | Character:Warmage_SR2_Dark_Shadowflame_T04 | -1 | GameItem | Reagent:Reagent_Hero_Event | 5000 |
