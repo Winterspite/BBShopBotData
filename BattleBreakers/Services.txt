@@ -1,28 +1,28 @@
- (ResetLaborPool - ) - Qty -1 - Cost MtxCurrency  100
- (Respec Account Reward Perks 200-299 - ) - Qty -1 - Cost MtxCurrency  600
- (Respec Account Reward Perks 300-399 - ) - Qty -1 - Cost MtxCurrency  650
- (EnergyRefill 4 - ) - Qty 5 - Cost MtxCurrency  100
- (Respec Account Reward Perks 125-149 - ) - Qty -1 - Cost MtxCurrency  450
- (SecretShop Page 2 - ) - Qty -1 - Cost MtxCurrency  100
- (Respec Account Reward Perks 75-99 - ) - Qty -1 - Cost MtxCurrency  350
- (SecretShop Page 1 - FREE - ) - Qty -1 - Cost MtxCurrency  0
- (Respec Account Reward Perks 150-174 - ) - Qty -1 - Cost MtxCurrency  500
- (EnergyRefill 6 - ) - Qty 7 - Cost MtxCurrency  200
- (SecretShop Page 3 - ) - Qty -1 - Cost MtxCurrency  200
- (Respec Account Reward Perks 50-74 - ) - Qty -1 - Cost MtxCurrency  300
- (GameContinue - ) - Qty -1 - Cost MtxCurrency  40
- (Respec Account Reward Perks 175-199 - ) - Qty -1 - Cost MtxCurrency  550
- (Market Page 3 - ) - Qty -1 - Cost MtxCurrency  100
- (Respec Account Reward Perks 1-24 - ) - Qty -1 - Cost MtxCurrency  200
- (FriendLimitIncrease - ) - Qty -1 - Cost MtxCurrency  100
- (Respec Account Reward Perks Monthly Discount - ) - Qty -1 - Cost MtxCurrency  100
- (Respec Account Reward Perks 400-499 - ) - Qty -1 - Cost MtxCurrency  700
- (EnergyRefill 5 - ) - Qty 5 - Cost MtxCurrency  150
- (Respec Account Reward Perks 100-124 - ) - Qty -1 - Cost MtxCurrency  400
- (Market Page 2 - ) - Qty -1 - Cost MtxCurrency  50
- (SecretShop Page 1 - ) - Qty -1 - Cost MtxCurrency  100
- (Respec Account Reward Perks 500+ - ) - Qty -1 - Cost MtxCurrency  750
- (EnergyRefill 3 - ) - Qty 1 - Cost MtxCurrency  75
- (Respec Account Reward Perks 25-49 - ) - Qty -1 - Cost MtxCurrency  250
  (EnergyRefill 1 - ) - Qty 1 - Cost MtxCurrency  0
  (EnergyRefill 2 - ) - Qty 1 - Cost MtxCurrency  50
+ (EnergyRefill 3 - ) - Qty 1 - Cost MtxCurrency  75
+ (EnergyRefill 4 - ) - Qty 5 - Cost MtxCurrency  100
+ (EnergyRefill 5 - ) - Qty 5 - Cost MtxCurrency  150
+ (EnergyRefill 6 - ) - Qty 7 - Cost MtxCurrency  200
+ (FriendLimitIncrease - ) - Qty -1 - Cost MtxCurrency  100
+ (GameContinue - ) - Qty -1 - Cost MtxCurrency  40
+ (Market Page 2 - ) - Qty -1 - Cost MtxCurrency  50
+ (Market Page 3 - ) - Qty -1 - Cost MtxCurrency  100
+ (ResetLaborPool - ) - Qty -1 - Cost MtxCurrency  100
+ (Respec Account Reward Perks 1-24 - ) - Qty -1 - Cost MtxCurrency  200
+ (Respec Account Reward Perks 100-124 - ) - Qty -1 - Cost MtxCurrency  400
+ (Respec Account Reward Perks 125-149 - ) - Qty -1 - Cost MtxCurrency  450
+ (Respec Account Reward Perks 150-174 - ) - Qty -1 - Cost MtxCurrency  500
+ (Respec Account Reward Perks 175-199 - ) - Qty -1 - Cost MtxCurrency  550
+ (Respec Account Reward Perks 200-299 - ) - Qty -1 - Cost MtxCurrency  600
+ (Respec Account Reward Perks 25-49 - ) - Qty -1 - Cost MtxCurrency  250
+ (Respec Account Reward Perks 300-399 - ) - Qty -1 - Cost MtxCurrency  650
+ (Respec Account Reward Perks 400-499 - ) - Qty -1 - Cost MtxCurrency  700
+ (Respec Account Reward Perks 50-74 - ) - Qty -1 - Cost MtxCurrency  300
+ (Respec Account Reward Perks 500+ - ) - Qty -1 - Cost MtxCurrency  750
+ (Respec Account Reward Perks 75-99 - ) - Qty -1 - Cost MtxCurrency  350
+ (Respec Account Reward Perks Monthly Discount - ) - Qty -1 - Cost MtxCurrency  100
+ (SecretShop Page 1 - ) - Qty -1 - Cost MtxCurrency  100
+ (SecretShop Page 1 - FREE - ) - Qty -1 - Cost MtxCurrency  0
+ (SecretShop Page 2 - ) - Qty -1 - Cost MtxCurrency  100
+ (SecretShop Page 3 - ) - Qty -1 - Cost MtxCurrency  200

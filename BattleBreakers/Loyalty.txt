@@ -1,24 +1,24 @@
- (Loyalty.Core.08 - Currency:MtxGiveaway) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
  (Loyalty.Core.01 - Reagent:Reagent_Shard_Dark) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
- (Loyalty.Core.11 - Voucher:Voucher_Chest_Gold) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 5
- (Loyalty.Core.04 - Reagent:Reagent_Shard_Nature) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
- (Loyalty.Core.10 - UpgradePotion:UpgradeMana) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
- (Loyalty.Core.22 - Currency:Gold) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
- (Loyalty.Core.20 - Reagent:Reagent_RXT_Parts_Small) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
- (Loyalty.Core.21 - Reagent:Reagent_SupplyPoints_BuildingUpgrade) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
  (Loyalty.Core.02 - Reagent:Reagent_Shard_Fire) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
- (Loyalty.Core.24 - Reagent:Reagent_Foil) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
  (Loyalty.Core.03 - Reagent:Reagent_Shard_Light) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
- (Loyalty.Core.23 - Currency:SkillXP) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
- (Loyalty.Core.16 - Reagent:Reagent_Misc_CeremonialShield) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 7
- (Loyalty.Core.17 - Reagent:Reagent_Misc_CeremonialSword) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 2
- (Loyalty.Core.09 - Ore:Ore_Magicite) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
- (Loyalty.Core.12 - Reagent:Reagent_HeroMap_Bronze) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 3
- (Loyalty.Core.13 - Reagent:Reagent_HeroMap_Elemental) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
+ (Loyalty.Core.04 - Reagent:Reagent_Shard_Nature) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
  (Loyalty.Core.05 - Reagent:Reagent_Shard_Water) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
  (Loyalty.Core.06 - Reagent:Reagent_Shared_T02) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
+ (Loyalty.Core.07 - Currency:Hammer) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
+ (Loyalty.Core.08 - Currency:MtxGiveaway) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
+ (Loyalty.Core.09 - Ore:Ore_Magicite) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
+ (Loyalty.Core.10 - UpgradePotion:UpgradeMana) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
+ (Loyalty.Core.11 - Voucher:Voucher_Chest_Gold) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 5
+ (Loyalty.Core.12 - Reagent:Reagent_HeroMap_Bronze) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 3
+ (Loyalty.Core.13 - Reagent:Reagent_HeroMap_Elemental) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
  (Loyalty.Core.14 - Reagent:Reagent_HeroMap_SuperRare) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 3
+ (Loyalty.Core.15 - Reagent:Reagent_Misc_CeremonialArmor) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 25
+ (Loyalty.Core.16 - Reagent:Reagent_Misc_CeremonialShield) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 7
+ (Loyalty.Core.17 - Reagent:Reagent_Misc_CeremonialSword) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 2
  (Loyalty.Core.18 - Reagent:Reagent_Shared_MysteryGoo) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 15
  (Loyalty.Core.19 - Reagent:Reagent_RXT_Parts_Large) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 10
- (Loyalty.Core.15 - Reagent:Reagent_Misc_CeremonialArmor) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 25
- (Loyalty.Core.07 - Currency:Hammer) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
+ (Loyalty.Core.20 - Reagent:Reagent_RXT_Parts_Small) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
+ (Loyalty.Core.21 - Reagent:Reagent_SupplyPoints_BuildingUpgrade) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
+ (Loyalty.Core.22 - Currency:Gold) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
+ (Loyalty.Core.23 - Currency:SkillXP) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
+ (Loyalty.Core.24 - Reagent:Reagent_Foil) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
