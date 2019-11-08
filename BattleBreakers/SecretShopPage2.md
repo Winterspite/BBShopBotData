@@ -1,6 +1,6 @@
 | Title | Dev Name | Quantity | Currency | Currency Sub Type | Price |
 | ----- | -------- | -------- | -------- | ----------------- | ----- |
-| +100  | SecretShop.Page02.Misc.06 | 5000 | GameItem | Currency:Gold | 170 |
+| +100 Currency:HeroXp_Basic | SecretShop.Page02.Misc.06 | 5000 | GameItem | Currency:Gold | 170 |
 | Ore:Ore_Magicite | SecretShop.Page02.Ore.02 | 3 | MtxCurrency |  | 10 |
 | Reagent:Reagent_Misc_CeremonialSword | SecretShop.Page02.CharShard.02 | 1 | GameItem | Currency:Gold | 1000000 |
 | Reagent:Reagent_RXT_Parts_Small | SecretShop.Page02.Misc.09 | 1 | GameItem | Currency:Gold | 50000 |

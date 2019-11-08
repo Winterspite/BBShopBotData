@@ -1,6 +1,6 @@
 | Title | Dev Name | Quantity | Currency | Currency Sub Type | Price |
 | ----- | -------- | -------- | -------- | ----------------- | ----- |
-| +100  | SecretShop.Page04.Misc.26 | 5000 | GameItem | Currency:Gold | 170 |
+| +100 Currency:HeroXp_Basic | SecretShop.Page04.Misc.26 | 5000 | GameItem | Currency:Gold | 170 |
 | Currency:Hammer | SecretShop.Page04.Free.40 | 3 | GameItem | Currency:Gold | 0 |
 | Ore:Ore_Magicite | SecretShop.Page04.Ore.06 | 10 | MtxCurrency |  | 10 |
 | Reagent:Reagent_RXT_Parts_Small | SecretShop.Page04.Misc.29 | 2 | GameItem | Currency:Gold | 50000 |

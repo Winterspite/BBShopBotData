@@ -1,6 +1,6 @@
 | Title | Dev Name | Quantity | Currency | Currency Sub Type | Price |
 | ----- | -------- | -------- | -------- | ----------------- | ----- |
-| +100  | Marketplace.L02.Page03.XP.03 | 100000 | GameItem | Currency:Gold | 200 |
+| +100 Currency:HeroXp_Basic | Marketplace.L02.Page03.XP.03 | 100000 | GameItem | Currency:Gold | 200 |
 | Reagent:Reagent_HeroMap_Bronze | Marketplace.L18.Page03.Hero.09 | 1 | GameItem | Currency:Gold | 300000 |
 | Reagent:Reagent_HeroMap_Elemental | Marketplace.L06.Page03.Token.17 | 6 | GameItem | Currency:Gold | 35000 |
 | Reagent:Reagent_Shard_Nature | Marketplace.L12.Page03.Reagent.29 | 2 | MtxCurrency |  | 200 |

@@ -1,6 +1,6 @@
 | Title | Dev Name | Quantity | Currency | Currency Sub Type | Price |
 | ----- | -------- | -------- | -------- | ----------------- | ----- |
-| +100  | Event.NinjasAttack.12 | -1 | GameItem | Reagent:Reagent_Event_NinjasAttack_NinjaStars | 5000 |
+| +100 Currency:HeroXp_Basic | Event.NinjasAttack.12 | -1 | GameItem | Reagent:Reagent_Event_NinjasAttack_NinjaStars | 5000 |
 | Character:MageKnight_SR1_Nature_RockForm_T05 | Event.NinjasAttack.17 | -1 | GameItem | Reagent:Reagent_NinjasAttack_Whetstones | 100 |
 | Currency:MtxGiveaway | Event.NinjasAttack.01 | -1 | GameItem | Reagent:Reagent_Event_NinjasAttack_NinjaStars | 80 |
 | Currency:SkillXP | Event.NinjasAttack.11 | -1 | GameItem | Reagent:Reagent_Event_NinjasAttack_NinjaStars | 4 |

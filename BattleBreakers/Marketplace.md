@@ -1,6 +1,6 @@
 | Title | Dev Name | Quantity | Currency | Currency Sub Type | Price |
 | ----- | -------- | -------- | -------- | ----------------- | ----- |
-| +100  | Marketplace.L02.Page01.XP.01 | 100000 | GameItem | Currency:Gold | 200 |
+| +100 Currency:HeroXp_Basic | Marketplace.L02.Page01.XP.01 | 100000 | GameItem | Currency:Gold | 200 |
 | Currency:SkillXP | Marketplace.L13.Page01.MapsMisc.03 | 2 | GameItem | Currency:Gold | 10000 |
 | Reagent:Reagent_HeroMap_Bronze | Marketplace.L18.Page01.Hero.01 | 1 | GameItem | Currency:Gold | 300000 |
 | Reagent:Reagent_RXT_Parts_Large | Marketplace.L19.Page01.Misc.05 | 1 | GameItem | Currency:Gold | 10000000 |
