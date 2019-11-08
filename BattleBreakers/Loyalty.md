@@ -1,26 +1,26 @@
-| Title | Dev Name | Item Granted | Quantity | Currency | Currency Sub Type | Price |
-| ----- | -------- | ------------ | -------- | -------- | ----------------- | ----- |
-| Currency:Gold | Loyalty.Core.22 | Currency:Gold | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
-| Currency:Hammer | Loyalty.Core.07 | Currency:Hammer | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
-| Currency:MtxGiveaway | Loyalty.Core.08 | Currency:MtxGiveaway | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
-| Currency:SkillXP | Loyalty.Core.23 | Currency:SkillXP | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
-| Ore:Ore_Magicite | Loyalty.Core.09 | Ore:Ore_Magicite | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
-| Reagent:Reagent_Foil | Loyalty.Core.24 | Reagent:Reagent_Foil | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
-| Reagent:Reagent_HeroMap_Bronze | Loyalty.Core.12 | Reagent:Reagent_HeroMap_Bronze | -1 | GameItem | Reagent:Reagent_Loyalty | 3 |
-| Reagent:Reagent_HeroMap_Elemental | Loyalty.Core.13 | Reagent:Reagent_HeroMap_Elemental | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
-| Reagent:Reagent_HeroMap_SuperRare | Loyalty.Core.14 | Reagent:Reagent_HeroMap_SuperRare | -1 | GameItem | Reagent:Reagent_Loyalty | 3 |
-| Reagent:Reagent_Misc_CeremonialArmor | Loyalty.Core.15 | Reagent:Reagent_Misc_CeremonialArmor | -1 | GameItem | Reagent:Reagent_Loyalty | 25 |
-| Reagent:Reagent_Misc_CeremonialShield | Loyalty.Core.16 | Reagent:Reagent_Misc_CeremonialShield | -1 | GameItem | Reagent:Reagent_Loyalty | 7 |
-| Reagent:Reagent_Misc_CeremonialSword | Loyalty.Core.17 | Reagent:Reagent_Misc_CeremonialSword | -1 | GameItem | Reagent:Reagent_Loyalty | 2 |
-| Reagent:Reagent_RXT_Parts_Large | Loyalty.Core.19 | Reagent:Reagent_RXT_Parts_Large | -1 | GameItem | Reagent:Reagent_Loyalty | 10 |
-| Reagent:Reagent_RXT_Parts_Small | Loyalty.Core.20 | Reagent:Reagent_RXT_Parts_Small | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
-| Reagent:Reagent_Shard_Dark | Loyalty.Core.01 | Reagent:Reagent_Shard_Dark | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
-| Reagent:Reagent_Shard_Fire | Loyalty.Core.02 | Reagent:Reagent_Shard_Fire | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
-| Reagent:Reagent_Shard_Light | Loyalty.Core.03 | Reagent:Reagent_Shard_Light | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
-| Reagent:Reagent_Shard_Nature | Loyalty.Core.04 | Reagent:Reagent_Shard_Nature | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
-| Reagent:Reagent_Shard_Water | Loyalty.Core.05 | Reagent:Reagent_Shard_Water | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
-| Reagent:Reagent_Shared_MysteryGoo | Loyalty.Core.18 | Reagent:Reagent_Shared_MysteryGoo | -1 | GameItem | Reagent:Reagent_Loyalty | 15 |
-| Reagent:Reagent_Shared_T02 | Loyalty.Core.06 | Reagent:Reagent_Shared_T02 | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
-| Reagent:Reagent_SupplyPoints_BuildingUpgrade | Loyalty.Core.21 | Reagent:Reagent_SupplyPoints_BuildingUpgrade | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
-| UpgradePotion:UpgradeMana | Loyalty.Core.10 | UpgradePotion:UpgradeMana | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
-| Voucher:Voucher_Chest_Gold | Loyalty.Core.11 | Voucher:Voucher_Chest_Gold | -1 | GameItem | Reagent:Reagent_Loyalty | 5 |
+| Title | Dev Name | Quantity | Currency | Currency Sub Type | Price |
+| ----- | -------- | -------- | -------- | ----------------- | ----- |
+| Currency:Gold | Loyalty.Core.22 | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
+| Currency:Hammer | Loyalty.Core.07 | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
+| Currency:MtxGiveaway | Loyalty.Core.08 | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
+| Currency:SkillXP | Loyalty.Core.23 | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
+| Ore:Ore_Magicite | Loyalty.Core.09 | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
+| Reagent:Reagent_Foil | Loyalty.Core.24 | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
+| Reagent:Reagent_HeroMap_Bronze | Loyalty.Core.12 | -1 | GameItem | Reagent:Reagent_Loyalty | 3 |
+| Reagent:Reagent_HeroMap_Elemental | Loyalty.Core.13 | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
+| Reagent:Reagent_HeroMap_SuperRare | Loyalty.Core.14 | -1 | GameItem | Reagent:Reagent_Loyalty | 3 |
+| Reagent:Reagent_Misc_CeremonialArmor | Loyalty.Core.15 | -1 | GameItem | Reagent:Reagent_Loyalty | 25 |
+| Reagent:Reagent_Misc_CeremonialShield | Loyalty.Core.16 | -1 | GameItem | Reagent:Reagent_Loyalty | 7 |
+| Reagent:Reagent_Misc_CeremonialSword | Loyalty.Core.17 | -1 | GameItem | Reagent:Reagent_Loyalty | 2 |
+| Reagent:Reagent_RXT_Parts_Large | Loyalty.Core.19 | -1 | GameItem | Reagent:Reagent_Loyalty | 10 |
+| Reagent:Reagent_RXT_Parts_Small | Loyalty.Core.20 | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
+| Reagent:Reagent_Shard_Dark | Loyalty.Core.01 | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
+| Reagent:Reagent_Shard_Fire | Loyalty.Core.02 | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
+| Reagent:Reagent_Shard_Light | Loyalty.Core.03 | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
+| Reagent:Reagent_Shard_Nature | Loyalty.Core.04 | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
+| Reagent:Reagent_Shard_Water | Loyalty.Core.05 | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
+| Reagent:Reagent_Shared_MysteryGoo | Loyalty.Core.18 | -1 | GameItem | Reagent:Reagent_Loyalty | 15 |
+| Reagent:Reagent_Shared_T02 | Loyalty.Core.06 | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
+| Reagent:Reagent_SupplyPoints_BuildingUpgrade | Loyalty.Core.21 | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
+| UpgradePotion:UpgradeMana | Loyalty.Core.10 | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
+| Voucher:Voucher_Chest_Gold | Loyalty.Core.11 | -1 | GameItem | Reagent:Reagent_Loyalty | 5 |
