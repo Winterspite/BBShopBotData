@@ -1,4 +1,4 @@
- (Marketplace.L10.Page02.PowerSource.05 - Reagent:Reagent_Shared_T02) - Qty 15 - Cost GameItem Currency:Gold 2500
+ (Marketplace.L12.Page02.Reagent.19 - Reagent:Reagent_Shard_Nature) - Qty 2 - Cost MtxCurrency  200
  (Marketplace.L16.Page02.TreasureMap.05 - TreasureMap:TM_MapResource) - Qty 10 - Cost GameItem Currency:Gold 20000
  (Marketplace.L13.Page02.MapsMisc.20 - TreasureMap:TM_Special_PlanetCore) - Qty 1 - Cost GameItem Currency:Gold 500000
  (Marketplace.L01.Page2.VIP5.FreeBonus.46 - TreasureMap:TM_Special_UnderwaterForest) - Qty 1 - Cost GameItem Currency:Gold 0
@@ -15,6 +15,6 @@
  (Marketplace.L05.Page02.PowerSource.02 - Reagent:Reagent_Shared_T02) - Qty 10 - Cost GameItem Currency:Gold 2500
  (Marketplace.L09.Page02.MajorElixir.07 - UpgradePotion:UpgradeStrengthMajor) - Qty 4 - Cost GameItem Currency:Gold 50000
  (Marketplace.L01.Page02.Free.14 - Reagent:Reagent_Shared_T02) - Qty 10 - Cost GameItem Currency:Gold 0
-+100  (Marketplace.L02.Page02.XP.02 - Currency:HeroXp_Basic) - Qty 100000 - Cost GameItem Currency:Gold 200
+ (Marketplace.L10.Page02.PowerSource.05 - Reagent:Reagent_Shared_T02) - Qty 15 - Cost GameItem Currency:Gold 2500
  (Marketplace.L08.Page02.Free.48 - Reagent:Reagent_Shard_Nature) - Qty 1 - Cost GameItem Currency:Gold 0
- (Marketplace.L12.Page02.Reagent.19 - Reagent:Reagent_Shard_Nature) - Qty 2 - Cost MtxCurrency  200
++100  (Marketplace.L02.Page02.XP.02 - Currency:HeroXp_Basic) - Qty 100000 - Cost GameItem Currency:Gold 200

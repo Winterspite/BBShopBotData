@@ -1,4 +1,4 @@
- (Fire Cloudpuff 1 - Character:Pet_SR1_Cloudpuff_Fire_T05) - Qty 1 - Cost GameItem Reagent:Reagent_SupplyPoints_Elite 800
+ (Light Cloudpuff 2 - Character:Pet_SR1_Cloudpuff_Light_T05) - Qty 1 - Cost GameItem Reagent:Reagent_SupplyPoints_Elite 800
  (Nature Cloudpuff 2 - Character:Pet_SR1_Cloudpuff_Nature_T05) - Qty 1 - Cost GameItem Reagent:Reagent_SupplyPoints_Elite 800
  (Light Cloudpuff 1 - Character:Pet_SR1_Cloudpuff_Light_T05) - Qty 1 - Cost GameItem Reagent:Reagent_SupplyPoints_Elite 800
  (Fire Cloudpuff 2 - Character:Pet_SR1_Cloudpuff_Fire_T05) - Qty 1 - Cost GameItem Reagent:Reagent_SupplyPoints_Elite 800
@@ -17,4 +17,4 @@
  ([VIRTUAL]1 x Sneek for -1 GameItem : Reagent:Reagent_SupplyPoints_Elite - Character:Pet_VR1_Sneek_Light_T04) - Qty -1 - Cost GameItem Reagent:Reagent_SupplyPoints_Elite 100
  (Dark Cloudpuff 2 - Character:Pet_SR1_Cloudpuff_Dark_T05) - Qty 1 - Cost GameItem Reagent:Reagent_SupplyPoints_Elite 800
  ([VIRTUAL]1 x Mollyball Mousecat for -1 GameItem : Reagent:Reagent_SupplyPoints_Elite - Character:Pet_VR1_Water_Mousecat_T04) - Qty -1 - Cost GameItem Reagent:Reagent_SupplyPoints_Elite 100
- (Light Cloudpuff 2 - Character:Pet_SR1_Cloudpuff_Light_T05) - Qty 1 - Cost GameItem Reagent:Reagent_SupplyPoints_Elite 800
+ (Fire Cloudpuff 1 - Character:Pet_SR1_Cloudpuff_Fire_T05) - Qty 1 - Cost GameItem Reagent:Reagent_SupplyPoints_Elite 800

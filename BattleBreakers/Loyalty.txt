@@ -1,4 +1,4 @@
- (Loyalty.Core.07 - Currency:Hammer) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
+ (Loyalty.Core.08 - Currency:MtxGiveaway) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
  (Loyalty.Core.01 - Reagent:Reagent_Shard_Dark) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
  (Loyalty.Core.11 - Voucher:Voucher_Chest_Gold) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 5
  (Loyalty.Core.04 - Reagent:Reagent_Shard_Nature) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
@@ -21,4 +21,4 @@
  (Loyalty.Core.18 - Reagent:Reagent_Shared_MysteryGoo) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 15
  (Loyalty.Core.19 - Reagent:Reagent_RXT_Parts_Large) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 10
  (Loyalty.Core.15 - Reagent:Reagent_Misc_CeremonialArmor) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 25
- (Loyalty.Core.08 - Currency:MtxGiveaway) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1
+ (Loyalty.Core.07 - Currency:Hammer) - Qty -1 - Cost GameItem Reagent:Reagent_Loyalty 1

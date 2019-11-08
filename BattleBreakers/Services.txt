@@ -1,4 +1,4 @@
- (EnergyRefill 2 - ) - Qty 1 - Cost MtxCurrency  50
+ (ResetLaborPool - ) - Qty -1 - Cost MtxCurrency  100
  (Respec Account Reward Perks 200-299 - ) - Qty -1 - Cost MtxCurrency  600
  (Respec Account Reward Perks 300-399 - ) - Qty -1 - Cost MtxCurrency  650
  (EnergyRefill 4 - ) - Qty 5 - Cost MtxCurrency  100
@@ -25,4 +25,4 @@
  (EnergyRefill 3 - ) - Qty 1 - Cost MtxCurrency  75
  (Respec Account Reward Perks 25-49 - ) - Qty -1 - Cost MtxCurrency  250
  (EnergyRefill 1 - ) - Qty 1 - Cost MtxCurrency  0
- (ResetLaborPool - ) - Qty -1 - Cost MtxCurrency  100
+ (EnergyRefill 2 - ) - Qty 1 - Cost MtxCurrency  50

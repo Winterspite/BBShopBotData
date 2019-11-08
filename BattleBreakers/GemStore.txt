@@ -1,4 +1,4 @@
-Castle Treasury (Castle Treasury - Currency:MtxPurchased) - Qty -1 - Cost RealMoney  0
 Bag of Gems (Bag of Gems - Currency:MtxPurchased) - Qty -1 - Cost RealMoney  0
-Pouch of Gems (Pouch of Gems - Currency:MtxPurchased) - Qty -1 - Cost RealMoney  0
+Castle Treasury (Castle Treasury - Currency:MtxPurchased) - Qty -1 - Cost RealMoney  0
 Chest of Gems (Chest of Gems - Currency:MtxPurchased) - Qty -1 - Cost RealMoney  0
+Pouch of Gems (Pouch of Gems - Currency:MtxPurchased) - Qty -1 - Cost RealMoney  0

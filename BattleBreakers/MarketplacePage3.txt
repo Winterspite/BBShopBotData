@@ -1,4 +1,4 @@
-+100  (Marketplace.L02.Page03.XP.03 - Currency:HeroXp_Basic) - Qty 100000 - Cost GameItem Currency:Gold 200
+ (Marketplace.L11.Page03.TreasureMap.03 - TreasureMap:TM_MapResource) - Qty 7 - Cost GameItem Currency:Gold 20000
  (Marketplace.L09.Page03.MajorElixir.09 - UpgradePotion:UpgradeHealthMajor) - Qty 4 - Cost GameItem Currency:Gold 50000
  (Marketplace.L04.Page03.MinorElixir.09 - UpgradePotion:UpgradeHealthMinor) - Qty 4 - Cost GameItem Currency:Gold 4000
  (Marketplace.L05.Page03.PowerSource.03 - Reagent:Reagent_Shared_T02) - Qty 10 - Cost GameItem Currency:Gold 2500
@@ -17,4 +17,4 @@
  (Marketplace.L08.Page03.Free.32 - UpgradePotion:UpgradeStrengthMajor) - Qty 3 - Cost GameItem Currency:Gold 0
  (Marketplace.L01.Page03.Free.15 - Reagent:Reagent_Shared_T02) - Qty 10 - Cost GameItem Currency:Gold 0
  (Marketplace.L12.Page03.Reagent.29 - Reagent:Reagent_Shard_Nature) - Qty 2 - Cost MtxCurrency  200
- (Marketplace.L11.Page03.TreasureMap.03 - TreasureMap:TM_MapResource) - Qty 7 - Cost GameItem Currency:Gold 20000
++100  (Marketplace.L02.Page03.XP.03 - Currency:HeroXp_Basic) - Qty 100000 - Cost GameItem Currency:Gold 200
