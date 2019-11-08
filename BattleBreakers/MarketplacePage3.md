@@ -1,4 +1,5 @@
 | Title | Dev Name | Item Granted | Quantity | Currency | Currency Sub Type | Price |
+| ----- | -------- | ------------ | -------- | -------- | ----------------- | ----- |
 |  | Marketplace.L01.Page03.Free.15 | Reagent:Reagent_Shared_T02 | 10 | GameItem | Currency:Gold | 0 |
 |  | Marketplace.L01.Page3.VIP5.FreeBonus.79 | Token:TK_Knight_VR1_Dark_DarkEmbrace_T04 | 2 | GameItem | Currency:Gold | 0 |
 |  | Marketplace.L03.Page03.MapFragments.03 | TreasureMap:TM_MapResource | 3 | GameItem | Currency:Gold | 20000 |

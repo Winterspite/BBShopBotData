@@ -1,4 +1,5 @@
 | Title | Dev Name | Item Granted | Quantity | Currency | Currency Sub Type | Price |
+| ----- | -------- | ------------ | -------- | -------- | ----------------- | ----- |
 |  | Dark Cloudpuff 1 | Character:Pet_SR1_Cloudpuff_Dark_T05 | 1 | GameItem | Reagent:Reagent_SupplyPoints_Elite | 800 |
 |  | Dark Cloudpuff 2 | Character:Pet_SR1_Cloudpuff_Dark_T05 | 1 | GameItem | Reagent:Reagent_SupplyPoints_Elite | 800 |
 |  | Fire Cloudpuff 1 | Character:Pet_SR1_Cloudpuff_Fire_T05 | 1 | GameItem | Reagent:Reagent_SupplyPoints_Elite | 800 |

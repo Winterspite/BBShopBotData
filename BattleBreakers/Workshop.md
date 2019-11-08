@@ -1,4 +1,5 @@
 | Title | Dev Name | Item Granted | Quantity | Currency | Currency Sub Type | Price |
+| ----- | -------- | ------------ | -------- | -------- | ----------------- | ----- |
 |  | Workshop.L01.Page01.BuildRockbeast.01 | Character:Pet_R1_Rockbeast_Dark_T03 | -1 | GameItem | Reagent:Reagent_Pet_Rockbeast | 1 |
 |  | Workshop.L01.Page01.BuildRockbeast.02 | Character:Pet_R1_Rockbeast_Fire_T03 | -1 | GameItem | Reagent:Reagent_Pet_Rockbeast | 1 |
 |  | Workshop.L01.Page01.BuildRockbeast.03 | Character:Pet_R1_Rockbeast_Light_T03 | -1 | GameItem | Reagent:Reagent_Pet_Rockbeast | 1 |

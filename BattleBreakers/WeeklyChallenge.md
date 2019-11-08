@@ -1,4 +1,5 @@
 | Title | Dev Name | Item Granted | Quantity | Currency | Currency Sub Type | Price |
+| ----- | -------- | ------------ | -------- | -------- | ----------------- | ----- |
 |  | WeeklyChallenge.WCStore.01 | Reagent:Reagent_Shared_T02 | -1 | GameItem | Reagent:WCCoins | 1 |
 |  | WeeklyChallenge.WCStore.02 | Currency:SkillXP | -1 | GameItem | Reagent:WCCoins | 3 |
 |  | WeeklyChallenge.WCStore.03 | Reagent:Reagent_Shard_Fire | -1 | GameItem | Reagent:WCCoins | 10 |

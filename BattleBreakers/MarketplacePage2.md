@@ -1,4 +1,5 @@
 | Title | Dev Name | Item Granted | Quantity | Currency | Currency Sub Type | Price |
+| ----- | -------- | ------------ | -------- | -------- | ----------------- | ----- |
 |  | Marketplace.L01.Page02.Free.14 | Reagent:Reagent_Shared_T02 | 10 | GameItem | Currency:Gold | 0 |
 |  | Marketplace.L01.Page2.VIP5.FreeBonus.46 | TreasureMap:TM_Special_UnderwaterForest | 1 | GameItem | Currency:Gold | 0 |
 |  | Marketplace.L03.Page02.MapFragments.02 | TreasureMap:TM_MapResource | 3 | GameItem | Currency:Gold | 20000 |

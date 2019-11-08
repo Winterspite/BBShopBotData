@@ -1,4 +1,5 @@
 | Title | Dev Name | Item Granted | Quantity | Currency | Currency Sub Type | Price |
+| ----- | -------- | ------------ | -------- | -------- | ----------------- | ----- |
 |  | SecretShop.Page02.CharShard.02 | Reagent:Reagent_Misc_CeremonialSword | 1 | GameItem | Currency:Gold | 1000000 |
 |  | SecretShop.Page02.Elixir.01 | UpgradePotion:UpgradeHealthMajor | 5 | GameItem | Currency:Gold | 42500 |
 |  | SecretShop.Page02.Elixir.08 | UpgradePotion:UpgradeMana | 2 | MtxCurrency |  | 85 |

@@ -1,4 +1,5 @@
 | Title | Dev Name | Item Granted | Quantity | Currency | Currency Sub Type | Price |
+| ----- | -------- | ------------ | -------- | -------- | ----------------- | ----- |
 |  | Loyalty.Core.01 | Reagent:Reagent_Shard_Dark | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
 |  | Loyalty.Core.02 | Reagent:Reagent_Shard_Fire | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |
 |  | Loyalty.Core.03 | Reagent:Reagent_Shard_Light | -1 | GameItem | Reagent:Reagent_Loyalty | 1 |

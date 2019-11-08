@@ -1,4 +1,5 @@
 | Title | Dev Name | Item Granted | Quantity | Currency | Currency Sub Type | Price |
+| ----- | -------- | ------------ | -------- | -------- | ----------------- | ----- |
 |  | Event.NinjasAttack.01 | Currency:MtxGiveaway | -1 | GameItem | Reagent:Reagent_Event_NinjasAttack_NinjaStars | 80 |
 |  | Event.NinjasAttack.02 | Voucher:Voucher_Chest_Gold | -1 | GameItem | Reagent:Reagent_Event_NinjasAttack_NinjaStars | 15000 |
 |  | Event.NinjasAttack.03 | Voucher:Voucher_Chest_Gold | -1 | GameItem | Reagent:Reagent_Event_NinjasAttack_NinjaStars | 20000 |

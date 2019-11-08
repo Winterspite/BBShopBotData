@@ -1,4 +1,5 @@
 | Title | Dev Name | Item Granted | Quantity | Currency | Currency Sub Type | Price |
+| ----- | -------- | ------------ | -------- | -------- | ----------------- | ----- |
 |  | SecretShop.Page03.CharShard.17 | Voucher:Voucher_Chest_Gold | 1 | GameItem | Currency:Gold | 7500000 |
 |  | SecretShop.Page03.Elixir.17 | UpgradePotion:UpgradeHealthMinor | 15 | MtxCurrency |  | 4 |
 |  | SecretShop.Page03.Elixir.19 | UpgradePotion:UpgradeStrengthMajor | 5 | MtxCurrency |  | 25 |

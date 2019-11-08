@@ -1,4 +1,5 @@
 | Title | Dev Name | Item Granted | Quantity | Currency | Currency Sub Type | Price |
+| ----- | -------- | ------------ | -------- | -------- | ----------------- | ----- |
 |  | Marketplace.L01.Page01.Free.04 | UpgradePotion:UpgradeStrengthMinor | 10 | GameItem | Currency:Gold | 0 |
 |  | Marketplace.L01.Page1.VIP5.FreeBonus.06 | TreasureMap:TM_Special_BridgeOfLight | 1 | GameItem | Currency:Gold | 0 |
 |  | Marketplace.L03.Page01.MapFragments.01 | TreasureMap:TM_MapResource | 3 | GameItem | Currency:Gold | 20000 |

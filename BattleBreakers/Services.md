@@ -1,4 +1,5 @@
 | Title | Dev Name | Item Granted | Quantity | Currency | Currency Sub Type | Price |
+| ----- | -------- | ------------ | -------- | -------- | ----------------- | ----- |
 |  | EnergyRefill 1 |  | 1 | MtxCurrency |  | 0 |
 |  | EnergyRefill 2 |  | 1 | MtxCurrency |  | 50 |
 |  | EnergyRefill 3 |  | 1 | MtxCurrency |  | 75 |
