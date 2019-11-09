@@ -18,36 +18,35 @@
 | Character:TreasureHunter_R2_Fire_PowerEfflux_T03 | PowerEfflux Fire | -1 | Voucher:Voucher_Hero_TreasureHunter_Fire_PowerEfflux | 1 |
 | Character:TreasureHunter_R2_Nature_PowerEfflux_T03 | PowerEfflux Nature | -1 | Voucher:Voucher_Hero_TreasureHunter_Nature_PowerEfflux | 1 |
 | Character:TreasureHunter_R2_Water_PowerEfflux_T03 | PowerEfflux Water | -1 | Voucher:Voucher_Hero_TreasureHunter_Water_PowerEfflux | 1 |
-| Dark Evo Bundle | RandomNonRMTSale.EvoBundleDark.04 | 1 | Gems | 600 |
 | Dark Hero | Dark Hero | -1 | Voucher:Voucher_HeroSilver_Dark | 1 |
 | Diamond Hero | Diamond Hero | -1 | Voucher:Voucher_HeroDiamond | 1 |
 | Drake | Drake | -1 | Voucher:Voucher_Hero_Mage_Fire_BurningSword | 1 |
 | Elemental Heroes | Elemental Hero Resources | -1 | Gems | 500 |
-| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.120 | 1 | Gems | 500 |
-| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.127 | 1 | Gems | 500 |
-| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.141 | 1 | Gems | 500 |
-| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.153 | 1 | Gems | 500 |
+| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.103 | 1 | Gems | 500 |
+| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.110 | 1 | Gems | 500 |
+| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.112 | 1 | Gems | 500 |
+| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.123 | 1 | Gems | 500 |
+| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.154 | 1 | Gems | 500 |
 | Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.156 | 1 | Gems | 500 |
-| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.201 | 1 | Gems | 500 |
+| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.157 | 1 | Gems | 500 |
+| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.161 | 1 | Gems | 500 |
+| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.167 | 1 | Gems | 500 |
+| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.189 | 1 | Gems | 500 |
+| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.212 | 1 | Gems | 500 |
+| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.218 | 1 | Gems | 500 |
 | Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.228 | 1 | Gems | 500 |
-| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.265 | 1 | Gems | 500 |
-| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.279 | 1 | Gems | 500 |
-| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.284 | 1 | Gems | 500 |
-| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.303 | 1 | Gems | 500 |
-| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.308 | 1 | Gems | 500 |
-| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.338 | 1 | Gems | 500 |
-| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.341 | 1 | Gems | 500 |
-| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.342 | 1 | Gems | 500 |
-| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.37 | 1 | Gems | 500 |
-| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.383 | 1 | Gems | 500 |
-| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.406 | 1 | Gems | 500 |
-| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.422 | 1 | Gems | 500 |
-| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.437 | 1 | Gems | 500 |
-| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.47 | 1 | Gems | 500 |
-| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.51 | 1 | Gems | 500 |
-| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.65 | 1 | Gems | 500 |
-| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.82 | 1 | Gems | 500 |
-| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.86 | 1 | Gems | 500 |
+| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.25 | 1 | Gems | 500 |
+| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.27 | 1 | Gems | 500 |
+| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.274 | 1 | Gems | 500 |
+| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.282 | 1 | Gems | 500 |
+| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.313 | 1 | Gems | 500 |
+| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.322 | 1 | Gems | 500 |
+| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.343 | 1 | Gems | 500 |
+| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.363 | 1 | Gems | 500 |
+| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.368 | 1 | Gems | 500 |
+| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.405 | 1 | Gems | 500 |
+| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.444 | 1 | Gems | 500 |
+| Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.88 | 1 | Gems | 500 |
 | Factory Crystal | Factory Crystal | -1 | Voucher:Voucher_Hero_Workshop | 1 |
 | Fire Hero | Fire Hero | -1 | Voucher:Voucher_HeroSilver_Fire | 1 |
 | Forgotten Crystal | Forgotten Crystal | -1 | Voucher:Voucher_Hero_Custom_Interceptor | 1 |
@@ -63,6 +62,7 @@
 | Mega Magic Chest | Mega Magic Chest (Weekly) | -1 | Gems | 2000 |
 | Mining Crystal | Mining Crystal | -1 | Voucher:Voucher_Hero_Mine | 1 |
 | Nature Hero | Nature Hero | -1 | Voucher:Voucher_HeroSilver_Nature | 1 |
+| Power Source Bundle | RandomNonRMTSale.PowerSourceBundle.02 | 5 | Gems | 450 |
 | Rare Meeg Crystal | Rare Meeg Crystal | -1 | Voucher:Voucher_HeroMeegRare | 1 |
 | Silver Hero | Silver Hero | -1 | Voucher:Voucher_HeroSilver | 1 |
 | Super Magic Chest | StorefrontLevel.L100000.LevelUpChest.01 | 1 | Gems | 5000 |
