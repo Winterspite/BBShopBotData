@@ -8,16 +8,16 @@
 | 12hr Basic Chest | 12HR Basic Chest (Silver) - 75 | 1 | Gems | 75 |
 | 12hr Elemental Heroes | Elemental Hero Resources (Master of the Hoard) | 1 | Gems | 350 |
 | 12hr Magic Chest | 12hr Magic Chest (Gold) (Master of the Hoard) (Disabled) | 1 | Gems | 400 |
-| 12hr Treasure Hunt | 12hr Treasure Hunt | 1 | Currency:Gold | 0 |
+| 12hr Treasure Hunt | 12hr Treasure Hunt | 1 | Gold | 0 |
 | Basic Chest | Basic Chest (Silver) | 1 | Gems | 100 |
 | Battle Breaker Collection | Battle Breaker (T1) | -1 | RealMoney | 0 |
 | Battle Breaker Collection | Battle Breaker (T1) - Free | -1 | Gems | 0 |
-| Battle Hero | Battle Hero | -1 | Voucher:Voucher_HeroBattle | 1 |
+| Battle Hero | Battle Hero | -1 | Voucher_HeroBattle | 1 |
 | Battle Pass | Battle Pass (Free) | -1 | Gems | 0 |
 | Battle Pass | Battle Pass (Recurring) | -1 | RealMoney | 0 |
-| Dark Hero | Dark Hero | -1 | Voucher:Voucher_HeroSilver_Dark | 1 |
-| Diamond Hero | Diamond Hero | -1 | Voucher:Voucher_HeroDiamond | 1 |
-| Drake | Drake | -1 | Voucher:Voucher_Hero_Mage_Fire_BurningSword | 1 |
+| Dark Hero | Dark Hero | -1 | Voucher_HeroSilver_Dark | 1 |
+| Diamond Hero | Diamond Hero | -1 | Voucher_HeroDiamond | 1 |
+| Drake | Drake | -1 | Voucher_Hero_Mage_Fire_BurningSword | 1 |
 | Elemental Heroes | Elemental Hero Resources | -1 | Gems | 500 |
 | Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.09 | 1 | Gems | 500 |
 | Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.132 | 1 | Gems | 500 |
@@ -44,23 +44,23 @@
 | Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.60 | 1 | Gems | 500 |
 | Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.89 | 1 | Gems | 500 |
 | Elemental Heroes | StorefrontStacked.Page01.ElementalHeroes.95 | 1 | Gems | 500 |
-| Factory Crystal | Factory Crystal | -1 | Voucher:Voucher_Hero_Workshop | 1 |
-| Fire Hero | Fire Hero | -1 | Voucher:Voucher_HeroSilver_Fire | 1 |
-| Forgotten Crystal | Forgotten Crystal | -1 | Voucher:Voucher_Hero_Custom_Interceptor | 1 |
-| Gold Hero | Gold Hero | -1 | Voucher:Voucher_HeroGold | 1 |
+| Factory Crystal | Factory Crystal | -1 | Voucher_Hero_Workshop | 1 |
+| Fire Hero | Fire Hero | -1 | Voucher_HeroSilver_Fire | 1 |
+| Forgotten Crystal | Forgotten Crystal | -1 | Voucher_Hero_Custom_Interceptor | 1 |
+| Gold Hero | Gold Hero | -1 | Voucher_HeroGold | 1 |
 | Heroic Chest | Heroic Chest (Monthly) | -1 | Gems | 1500 |
-| Kailani | Kailani (Light) | -1 | Voucher:Voucher_Hero_Blademaster_Light_Bladestorm | 1 |
+| Kailani | Kailani (Light) | -1 | Voucher_Hero_Blademaster_Light_Bladestorm | 1 |
 | Level-Up Pack | Account Level Up Package - Basic (Release) | 1 | RealMoney | 0 |
-| Light Hero | Light Hero | -1 | Voucher:Voucher_HeroSilver_Light | 1 |
-| Magic Chest | Magic Chest (Voucher) | -1 | Voucher:Voucher_Chest_Gold | 1 |
+| Light Hero | Light Hero | -1 | Voucher_HeroSilver_Light | 1 |
+| Magic Chest | Magic Chest (Voucher) | -1 | Voucher_Chest_Gold | 1 |
 | Master of the Hoard | Master of the Hoard (T5) | -1 | RealMoney | 0 |
 | Master of the Hoard | Master of the Hoard (T5) - Free | -1 | Gems | 0 |
-| Meeg Crystal | Meeg Crystal | -1 | Voucher:Voucher_HeroMeeg | 1 |
+| Meeg Crystal | Meeg Crystal | -1 | Voucher_HeroMeeg | 1 |
 | Mega Magic Chest | Mega Magic Chest (Weekly) | -1 | Gems | 2000 |
-| Mining Crystal | Mining Crystal | -1 | Voucher:Voucher_Hero_Mine | 1 |
-| Nature Hero | Nature Hero | -1 | Voucher:Voucher_HeroSilver_Nature | 1 |
-| Rare Meeg Crystal | Rare Meeg Crystal | -1 | Voucher:Voucher_HeroMeegRare | 1 |
-| Silver Hero | Silver Hero | -1 | Voucher:Voucher_HeroSilver | 1 |
+| Mining Crystal | Mining Crystal | -1 | Voucher_Hero_Mine | 1 |
+| Nature Hero | Nature Hero | -1 | Voucher_HeroSilver_Nature | 1 |
+| Rare Meeg Crystal | Rare Meeg Crystal | -1 | Voucher_HeroMeegRare | 1 |
+| Silver Hero | Silver Hero | -1 | Voucher_HeroSilver | 1 |
 | Super Magic Chest | StorefrontLevel.L100000.LevelUpChest.01 | 1 | Gems | 5000 |
 | Super Magic Chest | StorefrontLevel.L115000.LevelUpChest.02 | 1 | Gems | 5000 |
 | Super Magic Chest | StorefrontLevel.L130000.LevelUpChest.03 | 1 | Gems | 5000 |
@@ -205,11 +205,11 @@
 | Support Gift 99 | StorefrontMtx.L880000.MtxGift.98 | 1 | Gems | 0 |
 | Treasure Hunter Collection | Treasure Hunter (T2) | -1 | RealMoney | 0 |
 | Treasure Hunter Collection | Treasure Hunter (T2) - Free | -1 | Gems | 0 |
-| TreasureHunter_R2_Fire_PowerEfflux_T03 | PowerEfflux Fire | -1 | Voucher:Voucher_Hero_TreasureHunter_Fire_PowerEfflux | 1 |
-| TreasureHunter_R2_Nature_PowerEfflux_T03 | PowerEfflux Nature | -1 | Voucher:Voucher_Hero_TreasureHunter_Nature_PowerEfflux | 1 |
-| TreasureHunter_R2_Water_PowerEfflux_T03 | PowerEfflux Water | -1 | Voucher:Voucher_Hero_TreasureHunter_Water_PowerEfflux | 1 |
+| TreasureHunter_R2_Fire_PowerEfflux_T03 | PowerEfflux Fire | -1 | Voucher_Hero_TreasureHunter_Fire_PowerEfflux | 1 |
+| TreasureHunter_R2_Nature_PowerEfflux_T03 | PowerEfflux Nature | -1 | Voucher_Hero_TreasureHunter_Nature_PowerEfflux | 1 |
+| TreasureHunter_R2_Water_PowerEfflux_T03 | PowerEfflux Water | -1 | Voucher_Hero_TreasureHunter_Water_PowerEfflux | 1 |
 | Underworld Trader Collection | Underworld Trader (T3) | -1 | RealMoney | 0 |
 | Underworld Trader Collection | Underworld Trader (T3) - Free | -1 | Gems | 0 |
 | Unwavering Guardian Collection | Unwavering Guardian (T4) | -1 | RealMoney | 0 |
 | Unwavering Guardian Collection | Unwavering Guardian (T4) - Free | -1 | Gems | 0 |
-| Water Hero | Water Hero | -1 | Voucher:Voucher_HeroSilver_Water | 1 |
+| Water Hero | Water Hero | -1 | Voucher_HeroSilver_Water | 1 |
