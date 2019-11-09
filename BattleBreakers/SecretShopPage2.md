@@ -1,6 +1,7 @@
 | Title | Dev Name | Quantity | Currency |  Price |
 | ----- | -------- | -------- | -------- |  ----- |
 | HeroXp_Basic | SecretShop.Page02.Misc.06 | 5000 | Gold | 170 |
+| Major Health Elixir | SecretShop.Page02.Elixir.01 | 5 | Gold | 42500 |
 | Ore_Magicite | SecretShop.Page02.Ore.02 | 3 | Gems | 10 |
 | Ore_Magicite | SecretShop.Page02.UnderworldTrader.01 | 20 | Gems | 7 |
 | Reagent_Foil | SecretShop.Page02.CharShard.01 | 5 | Gold | 100000 |
@@ -15,7 +16,6 @@
 | Reagent_Shared_T02 | SecretShop.Page02.UnderworldTrader.19 | 40 | Gems | 1 |
 | Reagent_Shared_T02 | SecretShop.Page02.UnderworldTraderGold.01 | 30 | Gold | 1500 |
 | TM_WaterfallValley_Map7 | SecretShop.Page02.TreasureMap.11 | 1 | Gems | 350 |
-| UpgradeHealthMajor | SecretShop.Page02.Elixir.01 | 5 | Gold | 42500 |
 | UpgradeMana | SecretShop.Page02.Elixir.03 | 2 | Gold | 340000 |
 | UpgradeMana | SecretShop.Page02.Elixir.08 | 2 | Gems | 85 |
 | Voucher_HeroSilver | SecretShop.Page02.UnderworldTrader.10 | 1 | Gems | 340 |

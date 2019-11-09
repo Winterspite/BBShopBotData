@@ -1,6 +1,11 @@
 | Title | Dev Name | Quantity | Currency |  Price |
 | ----- | -------- | -------- | -------- |  ----- |
 | HeroXp_Basic | Marketplace.L02.Page02.XP.02 | 100000 | Gold | 200 |
+| Major Health Elixir | Marketplace.L08.Page02.Free.26 | 3 | Gold | 0 |
+| Major Health Elixir | Marketplace.L09.Page02.MajorElixir.06 | 8 | Gold | 50000 |
+| Major Health Elixir | Marketplace.L14.Page02.ElixirAll.06 | 3 | Gold | 50000 |
+| Minor Health Elixir | Marketplace.L04.Page02.MinorElixir.05 | 4 | Gold | 4000 |
+| Minor Strength Elixir | Marketplace.L01.Page02.Free.07 | 5 | Gold | 0 |
 | Reagent_HeroMap_Bronze | Marketplace.L18.Page02.Hero.05 | 1 | Gold | 300000 |
 | Reagent_Shard_Fire | Marketplace.L12.Page02.Reagent.17 | 2 | Gems | 200 |
 | Reagent_Shard_Nature | Marketplace.L17.Page02.Shard.19 | 2 | Gold | 300000 |
@@ -15,8 +20,3 @@
 | TM_MapResource | Marketplace.L16.Page02.TreasureMap.05 | 10 | Gold | 20000 |
 | TM_MapResource | Marketplace.L20.Page02.Free.95 | 4 | Gold | 0 |
 | TM_Special_EasterEggDesert | Marketplace.L13.Page02.MapsMisc.23 | 1 | Gems | 200 |
-| UpgradeHealthMajor | Marketplace.L08.Page02.Free.26 | 3 | Gold | 0 |
-| UpgradeHealthMajor | Marketplace.L09.Page02.MajorElixir.06 | 8 | Gold | 50000 |
-| UpgradeHealthMajor | Marketplace.L14.Page02.ElixirAll.06 | 3 | Gold | 50000 |
-| UpgradeHealthMinor | Marketplace.L04.Page02.MinorElixir.05 | 4 | Gold | 4000 |
-| UpgradeStrengthMinor | Marketplace.L01.Page02.Free.07 | 5 | Gold | 0 |

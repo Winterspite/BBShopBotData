@@ -2,6 +2,9 @@
 | ----- | -------- | -------- | -------- |  ----- |
 | HeroXp_Basic | SecretShop.Page04.Misc.25 | 1000 | Gold | 170 |
 | HeroXp_Basic | SecretShop.Page04.Misc.26 | 5000 | Gold | 170 |
+| Major Health Elixir | SecretShop.Page04.Elixir.26 | 10 | Gems | 25 |
+| Major Strength Elixir | SecretShop.Page04.UnderworldTrader.89 | 10 | Gems | 21 |
+| Minor Health Elixir | SecretShop.Page04.UnderworldTraderGold.13 | 15 | Gold | 2800 |
 | Ore_Magicite | SecretShop.Page04.Ore.05 | 3 | Gold | 21250 |
 | Reagent_HeroMap_SuperRare | SecretShop.Page04.UnderworldTrader.91 | 1 | Gems | 5000 |
 | Reagent_Shard_Dark | SecretShop.Page04.Reagent.81 | 2 | Gems | 170 |
@@ -19,9 +22,6 @@
 | TM_Special_EasterEggDesert | SecretShop.Page04.UnderworldTrader.78 | 1 | Gems | 140 |
 | TM_Special_UnderwaterForest | SecretShop.Page04.TreasureMap.30 | 1 | Gold | 425000 |
 | TM_Special_UnderwaterTunnel | SecretShop.Page04.TreasureMap.31 | 1 | Gold | 425000 |
-| UpgradeHealthMajor | SecretShop.Page04.Elixir.26 | 10 | Gems | 25 |
-| UpgradeHealthMinor | SecretShop.Page04.UnderworldTraderGold.13 | 15 | Gold | 2800 |
 | UpgradeMana | SecretShop.Page04.Elixir.23 | 4 | Gold | 340000 |
 | UpgradeMana | SecretShop.Page04.Elixir.28 | 4 | Gems | 85 |
-| UpgradeStrengthMajor | SecretShop.Page04.UnderworldTrader.89 | 10 | Gems | 21 |
 | Voucher_Chest_Gold | SecretShop.Page04.CharShard.22 | 1 | Gold | 7500000 |
