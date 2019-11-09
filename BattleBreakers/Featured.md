@@ -15,9 +15,6 @@
 | Battle Hero | Battle Hero | -1 | Voucher:Voucher_HeroBattle | 1 |
 | Battle Pass | Battle Pass (Free) | -1 | Gems | 0 |
 | Battle Pass | Battle Pass (Recurring) | -1 | RealMoney | 0 |
-| Character:TreasureHunter_R2_Fire_PowerEfflux_T03 | PowerEfflux Fire | -1 | Voucher:Voucher_Hero_TreasureHunter_Fire_PowerEfflux | 1 |
-| Character:TreasureHunter_R2_Nature_PowerEfflux_T03 | PowerEfflux Nature | -1 | Voucher:Voucher_Hero_TreasureHunter_Nature_PowerEfflux | 1 |
-| Character:TreasureHunter_R2_Water_PowerEfflux_T03 | PowerEfflux Water | -1 | Voucher:Voucher_Hero_TreasureHunter_Water_PowerEfflux | 1 |
 | Dark Hero | Dark Hero | -1 | Voucher:Voucher_HeroSilver_Dark | 1 |
 | Diamond Hero | Diamond Hero | -1 | Voucher:Voucher_HeroDiamond | 1 |
 | Drake | Drake | -1 | Voucher:Voucher_Hero_Mage_Fire_BurningSword | 1 |
@@ -208,6 +205,9 @@
 | Support Gift 99 | StorefrontMtx.L880000.MtxGift.98 | 1 | Gems | 0 |
 | Treasure Hunter Collection | Treasure Hunter (T2) | -1 | RealMoney | 0 |
 | Treasure Hunter Collection | Treasure Hunter (T2) - Free | -1 | Gems | 0 |
+| TreasureHunter_R2_Fire_PowerEfflux_T03 | PowerEfflux Fire | -1 | Voucher:Voucher_Hero_TreasureHunter_Fire_PowerEfflux | 1 |
+| TreasureHunter_R2_Nature_PowerEfflux_T03 | PowerEfflux Nature | -1 | Voucher:Voucher_Hero_TreasureHunter_Nature_PowerEfflux | 1 |
+| TreasureHunter_R2_Water_PowerEfflux_T03 | PowerEfflux Water | -1 | Voucher:Voucher_Hero_TreasureHunter_Water_PowerEfflux | 1 |
 | Underworld Trader Collection | Underworld Trader (T3) | -1 | RealMoney | 0 |
 | Underworld Trader Collection | Underworld Trader (T3) - Free | -1 | Gems | 0 |
 | Unwavering Guardian Collection | Unwavering Guardian (T4) | -1 | RealMoney | 0 |
