@@ -5,6 +5,7 @@
 | Fire Essence | Loyalty.Core.02 | -1 | Reagent_Loyalty | 1 |
 | Gold | Loyalty.Core.22 | -1 | Reagent_Loyalty | 1 |
 | Hammer | Loyalty.Core.07 | -1 | Reagent_Loyalty | 1 |
+| Legendary Hero Traces | Loyalty.Core.14 | -1 | Reagent_Loyalty | 3 |
 | Light Essence | Loyalty.Core.03 | -1 | Reagent_Loyalty | 1 |
 | Magic Chest | Loyalty.Core.11 | -1 | Reagent_Loyalty | 5 |
 | Magicite | Loyalty.Core.09 | -1 | Reagent_Loyalty | 1 |
@@ -14,7 +15,6 @@
 | Reagent_Foil | Loyalty.Core.24 | -1 | Reagent_Loyalty | 1 |
 | Reagent_HeroMap_Bronze | Loyalty.Core.12 | -1 | Reagent_Loyalty | 3 |
 | Reagent_HeroMap_Elemental | Loyalty.Core.13 | -1 | Reagent_Loyalty | 1 |
-| Reagent_HeroMap_SuperRare | Loyalty.Core.14 | -1 | Reagent_Loyalty | 3 |
 | Reagent_Misc_CeremonialArmor | Loyalty.Core.15 | -1 | Reagent_Loyalty | 25 |
 | Reagent_Misc_CeremonialShield | Loyalty.Core.16 | -1 | Reagent_Loyalty | 7 |
 | Reagent_RXT_Parts_Large | Loyalty.Core.19 | -1 | Reagent_Loyalty | 10 |

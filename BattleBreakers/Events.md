@@ -3,7 +3,7 @@
 | Ceremonial Sword | Event.NinjasAttack.07 | -1 | Reagent_Event_NinjasAttack_NinjaStars | 3750 |
 | Dark Essence | Event.NinjasAttack.10 | -1 | Reagent_Event_NinjasAttack_NinjaStars | 2250 |
 | Fire Essence | Event.NinjasAttack.09 | -1 | Reagent_Event_NinjasAttack_NinjaStars | 2250 |
-| HeroXp_Basic | Event.NinjasAttack.12 | -1 | Reagent_Event_NinjasAttack_NinjaStars | 5000 |
+| Hero XP | Event.NinjasAttack.12 | -1 | Reagent_Event_NinjasAttack_NinjaStars | 5000 |
 | MageKnight_SR1_Nature_RockForm_T05 | Event.NinjasAttack.17 | -1 | Reagent_NinjasAttack_Whetstones | 100 |
 | Magic Chest | Event.NinjasAttack.02 | -1 | Reagent_Event_NinjasAttack_NinjaStars | 15000 |
 | Magic Chest | Event.NinjasAttack.03 | -1 | Reagent_Event_NinjasAttack_NinjaStars | 20000 |

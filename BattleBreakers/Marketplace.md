@@ -1,6 +1,6 @@
 | Title | Dev Name | Quantity | Currency |  Price |
 | ----- | -------- | -------- | -------- |  ----- |
-| HeroXp_Basic | Marketplace.L02.Page01.XP.01 | 100000 | Gold | 200 |
+| Hero XP | Marketplace.L02.Page01.XP.01 | 100000 | Gold | 200 |
 | Major Strength Elixir | Marketplace.L08.Page01.Free.24 | 3 | Gold | 0 |
 | Major Strength Elixir | Marketplace.L09.Page01.MajorElixir.03 | 4 | Gold | 50000 |
 | Minor Health Elixir | Marketplace.L04.Page01.MinorElixir.02 | 8 | Gold | 4000 |

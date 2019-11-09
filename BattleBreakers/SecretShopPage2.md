@@ -1,7 +1,7 @@
 | Title | Dev Name | Quantity | Currency |  Price |
 | ----- | -------- | -------- | -------- |  ----- |
 | Dark Essence | SecretShop.Page02.Free.11 | 2 | Gems | 0 |
-| HeroXp_Basic | SecretShop.Page02.Misc.06 | 5000 | Gold | 170 |
+| Hero XP | SecretShop.Page02.Misc.06 | 5000 | Gold | 170 |
 | Light Essence | SecretShop.Page02.Reagent.28 | 1 | Gems | 170 |
 | Magicite | SecretShop.Page02.Ore.02 | 3 | Gems | 10 |
 | Magicite | SecretShop.Page02.UnderworldTrader.01 | 20 | Gems | 7 |
@@ -17,5 +17,5 @@
 | Reagent_Shared_T02 | SecretShop.Page02.UnderworldTraderGold.01 | 30 | Gold | 1500 |
 | RxT Parts | SecretShop.Page02.Misc.09 | 1 | Gold | 50000 |
 | Secret Waterfall Map | SecretShop.Page02.TreasureMap.11 | 1 | Gems | 350 |
-| Voucher_HeroSilver | SecretShop.Page02.UnderworldTrader.10 | 1 | Gems | 340 |
+| Silver Hero Crystal | SecretShop.Page02.UnderworldTrader.10 | 1 | Gems | 340 |
 | Water Essence | SecretShop.Page02.Shard.05 | 1 | Gold | 255000 |
