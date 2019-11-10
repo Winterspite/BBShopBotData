@@ -5,9 +5,9 @@
 | Core Hero Traces | WeeklyChallenge.WCStore.10 | -1 | WCCoins | 50 |
 | Dark Essence | WeeklyChallenge.WCStore.07 | -1 | WCCoins | 10 |
 | Fire Essence | WeeklyChallenge.WCStore.03 | -1 | WCCoins | 10 |
+| Gems | WeeklyChallenge.WCStore.08 | -1 | WCCoins | 75 |
 | Light Essence | WeeklyChallenge.WCStore.06 | -1 | WCCoins | 10 |
 | Magicite | WeeklyChallenge.WCStore.09 | -1 | WCCoins | 6 |
-| MtxGiveaway | WeeklyChallenge.WCStore.08 | -1 | WCCoins | 75 |
 | Nature Essence | WeeklyChallenge.WCStore.04 | -1 | WCCoins | 10 |
 | Power Source | WeeklyChallenge.WCStore.01 | -1 | WCCoins | 1 |
 | Reagent_WC_Hero_TripleCombo | WeeklyChallenge.WCStore.12 | -1 | WCCoins | 5 |
