@@ -1,5 +1,8 @@
 | Title | Dev Name | Quantity | Currency |  Price |
 | ----- | -------- | -------- | -------- |  ----- |
+| Bridge of Light Map | SecretShop.Page02.TreasureMap.03 | 1 | Gems | 20 |
+| Castle Treasury Map | SecretShop.Page02.UnderworldTrader.22 | 1 | Gems | 140 |
+| Ceremonial Armor | SecretShop.Page02.CharShard.04 | 1 | Gold | 15000000 |
 | Dark Essence | SecretShop.Page02.UnderworldTrader.02 | 1 | Gems | 140 |
 | Fire Essence | SecretShop.Page02.Reagent.21 | 1 | Gems | 170 |
 | Fire Essence | SecretShop.Page02.Reagent.27 | 1 | Gems | 170 |
@@ -15,7 +18,4 @@
 | Power Source | SecretShop.Page02.Reagent.05 | 10 | Gold | 2125 |
 | Power Source | SecretShop.Page02.UnderworldTraderGold.01 | 30 | Gold | 1500 |
 | Proximity Locator | SecretShop.Page02.Misc.01 | 1 | Gold | 300000 |
-| Reagent_Misc_CeremonialArmor | SecretShop.Page02.CharShard.04 | 1 | Gold | 15000000 |
 | RxT Parts | SecretShop.Page02.Misc.09 | 1 | Gold | 50000 |
-| TM_OvergrownCastle_Map8 | SecretShop.Page02.UnderworldTrader.22 | 1 | Gems | 140 |
-| TM_Special_BridgeOfLight | SecretShop.Page02.TreasureMap.03 | 1 | Gems | 20 |

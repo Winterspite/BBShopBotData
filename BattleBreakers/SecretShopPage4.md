@@ -1,5 +1,7 @@
 | Title | Dev Name | Quantity | Currency |  Price |
 | ----- | -------- | -------- | -------- |  ----- |
+| Bridge of Light Map | SecretShop.Page04.TreasureMap.24 | 1 | Gold | 34000 |
+| Castle Treasury Map | SecretShop.Page04.TreasureMap.32 | 1 | Gems | 170 |
 | Dark Essence | SecretShop.Page04.Shard.26 | 1 | Gems | 170 |
 | Dark Essence | SecretShop.Page04.UnderworldTrader.62 | 1 | Gems | 140 |
 | Fire Essence | SecretShop.Page04.Reagent.68 | 1 | Gold | 255000 |
@@ -21,7 +23,5 @@
 | Power Source | SecretShop.Page04.Reagent.79 | 10 | Gems | 1 |
 | Power Source | SecretShop.Page04.UnderworldTrader.73 | 40 | Gems | 1 |
 | RxT Parts | SecretShop.Page04.Misc.29 | 2 | Gold | 50000 |
-| TM_OvergrownCastle_Map8 | SecretShop.Page04.TreasureMap.32 | 1 | Gems | 170 |
-| TM_Special_BridgeOfLight | SecretShop.Page04.TreasureMap.24 | 1 | Gold | 34000 |
 | Water Essence | SecretShop.Page04.Reagent.80 | 2 | Gems | 170 |
 | Water Essence | SecretShop.Page04.Shard.25 | 1 | Gold | 255000 |

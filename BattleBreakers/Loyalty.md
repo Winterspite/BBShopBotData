@@ -1,5 +1,6 @@
 | Title | Dev Name | Quantity | Currency |  Price |
 | ----- | -------- | -------- | -------- |  ----- |
+| Ceremonial Armor | Loyalty.Core.15 | -1 | Reagent_Loyalty | 25 |
 | Ceremonial Sword | Loyalty.Core.17 | -1 | Reagent_Loyalty | 2 |
 | Core Hero Traces | Loyalty.Core.13 | -1 | Reagent_Loyalty | 1 |
 | Dark Essence | Loyalty.Core.01 | -1 | Reagent_Loyalty | 1 |
@@ -16,7 +17,6 @@
 | Power Source | Loyalty.Core.06 | -1 | Reagent_Loyalty | 1 |
 | Proximity Locator | Loyalty.Core.12 | -1 | Reagent_Loyalty | 3 |
 | Reagent_Foil | Loyalty.Core.24 | -1 | Reagent_Loyalty | 1 |
-| Reagent_Misc_CeremonialArmor | Loyalty.Core.15 | -1 | Reagent_Loyalty | 25 |
 | Reagent_Misc_CeremonialShield | Loyalty.Core.16 | -1 | Reagent_Loyalty | 7 |
 | Reagent_RXT_Parts_Large | Loyalty.Core.19 | -1 | Reagent_Loyalty | 10 |
 | Reagent_Shared_MysteryGoo | Loyalty.Core.18 | -1 | Reagent_Loyalty | 15 |
