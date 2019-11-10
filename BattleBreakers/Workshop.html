@@ -1,0 +1,146 @@
+            <!DOCTYPE html>
+            <html lang="en">
+            <head>
+              <title>BB Commander</title>
+              <meta charset="utf-8">
+              <meta name="viewport" content="width=device-width, initial-scale=1">
+              <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+              <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+              <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+              <style>
+                /* Remove the navbar's default margin-bottom and rounded borders */
+                .navbar {
+                  margin-bottom: 0;
+                  border-radius: 0;
+                }
+            
+                /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+                .row.content {height: 450px}
+            
+                /* Set gray background color and 100% height */
+                .sidenav {
+                  padding-top: 20px;
+                  background-color: #f1f1f1;
+                  height: 100%;
+                }
+            
+                /* Set black background color, white text and some padding */
+                footer {
+                  background-color: #555;
+                  color: white;
+                  padding: 15px;
+                }
+            
+                /* On small screens, set height to 'auto' for sidenav and grid */
+                @media screen and (max-width: 767px) {
+                  .sidenav {
+                    height: auto;
+                    padding: 15px;
+                  }
+                  .row.content {height:auto;}
+                }
+              </style>
+            </head>
+            <body>
+            
+            <nav class="navbar navbar-inverse">
+              <div class="container-fluid">
+                <div class="navbar-header">
+                  <a class="navbar-brand" href="#">BBCommander</a>
+                </div>
+                <div class="collapse navbar-collapse" id="myNavbar">
+                  <ul class="nav navbar-nav">
+                    <li class="active"><a href="/index.html">Home</a></li>
+                    <li><a href="/storefronts.html">Storefronts</a></li>
+                  </ul>
+                </div>
+              </div>
+            </nav>
+            
+            <div class="container-fluid text-center">
+              <div class="row content">
+                <div class="col-sm-8 text-left">
+<p>| Title | Dev Name | Quantity | Currency |  Price |<br>
+| ----- | -------- | -------- | -------- |  ----- |<br>
+| Build Random Item | Workshop.L01.Page01.BuildRandomItem.01 | 1 | Other | 0 |<br>
+| Build Random Item | Workshop.L03.Page01.BuildRandomItem.02 | 1 | Other | 50 |<br>
+| Build Random Item | Workshop.L05.Page01.BuildRandomItem.03 | 2 | Other | 50 |<br>
+| Build Random Item | Workshop.L07.Page01.BuildRandomItem.04 | 3 | Other | 50 |<br>
+| Build Random Item | Workshop.L10.Page01.BuildRandomItem.05 | 4 | Other | 50 |<br>
+| Build Random Item | Workshop.L12.Page01.BuildRandomItem.06 | 5 | Other | 50 |<br>
+| Build Random Item | Workshop.L14.Page01.BuildRandomItem.07 | 6 | Other | 50 |<br>
+| Build Random Item | Workshop.L16.Page01.BuildRandomItem.08 | 7 | Other | 50 |<br>
+| Build Random Item | Workshop.L18.Page01.BuildRandomItem.09 | 8 | Other | 50 |<br>
+| Build Random Item | Workshop.L20.Page01.BuildRandomItem.10 | 9 | Other | 50 |<br>
+| Build Random Item | Workshop.L22.Page01.BuildRandomItem.11 | 10 | Other | 50 |<br>
+| Build Random Item | Workshop.L24.Page01.BuildRandomItem.12 | 11 | Other | 50 |<br>
+| Build Random Item | Workshop.L26.Page01.BuildRandomItem.13 | 12 | Other | 50 |<br>
+| Build Random Item | Workshop.L28.Page01.BuildRandomItem.14 | 13 | Other | 50 |<br>
+| Build Random Item | Workshop.L30.Page01.BuildRandomItem.15 | 14 | Other | 50 |<br>
+| MartialArtist<em>SR2</em>Fire<em>TripleCombo</em>T04 | Workshop.L01.Page01.BuildWCHero.01 | -1 | Reagent<em>WC</em>Hero<em>TripleCombo | 100 |<br>
+| MartialArtist</em>SR2<em>Nature</em>TripleCombo<em>T04 | Workshop.L01.Page01.BuildWCHero.02 | -1 | Reagent</em>WC<em>Hero</em>TripleCombo | 100 |<br>
+| MartialArtist<em>SR2</em>Water<em>TripleCombo</em>T04 | Workshop.L01.Page01.BuildWCHero.03 | -1 | Reagent<em>WC</em>Hero<em>TripleCombo | 100 |<br>
+| Pet</em>R1<em>Rockbeast</em>Dark<em>T03 | Workshop.L01.Page01.BuildRockbeast.01 | -1 | Reagent</em>Pet<em>Rockbeast | 1 |<br>
+| Pet</em>R1<em>Rockbeast</em>Fire<em>T03 | Workshop.L01.Page01.BuildRockbeast.02 | -1 | Reagent</em>Pet<em>Rockbeast | 1 |<br>
+| Pet</em>R1<em>Rockbeast</em>Light<em>T03 | Workshop.L01.Page01.BuildRockbeast.03 | -1 | Reagent</em>Pet<em>Rockbeast | 1 |<br>
+| Pet</em>R1<em>Rockbeast</em>Nature<em>T03 | Workshop.L01.Page01.BuildRockbeast.04 | -1 | Reagent</em>Pet<em>Rockbeast | 1 |<br>
+| Pet</em>R1<em>Rockbeast</em>Water<em>T03 | Workshop.L01.Page01.BuildRockbeast.05 | -1 | Reagent</em>Pet<em>Rockbeast | 1 |<br>
+| Reagent</em>ClassTraining<em>Agility | Workshop.Page01.ClassTraining.01 | 1 | Reagent</em>Misc<em>ShadowEssence | 1 |<br>
+| Reagent</em>ClassTraining<em>Agility | Workshop.Page01.ClassTraining.02 | 1 | Reagent</em>Misc<em>ShadowEssence | 2 |<br>
+| Reagent</em>ClassTraining<em>Agility | Workshop.Page01.ClassTraining.03 | 1 | Reagent</em>Misc<em>ShadowEssence | 3 |<br>
+| Reagent</em>ClassTraining<em>Agility | Workshop.Page01.ClassTraining.04 | 1 | Reagent</em>Misc<em>ShadowEssence | 4 |<br>
+| Reagent</em>ClassTraining<em>Agility | Workshop.Page01.ClassTraining.05 | 1 | Reagent</em>Misc<em>ShadowEssence | 4 |<br>
+| Reagent</em>ClassTraining<em>Agility | Workshop.Page01.ClassTraining.06 | 1 | Reagent</em>Misc<em>ShadowEssence | 4 |<br>
+| Reagent</em>ClassTraining<em>Agility | Workshop.Page01.ClassTraining.07 | 1 | Reagent</em>Misc<em>ShadowEssence | 5 |<br>
+| Reagent</em>ClassTraining<em>Agility | Workshop.Page01.ClassTraining.08 | 1 | Reagent</em>Misc<em>ShadowEssence | 5 |<br>
+| Reagent</em>ClassTraining<em>Endurance | Workshop.Page01.ClassTraining.09 | 1 | Reagent</em>Misc<em>ShadowEssence | 1 |<br>
+| Reagent</em>ClassTraining<em>Endurance | Workshop.Page01.ClassTraining.10 | 1 | Reagent</em>Misc<em>ShadowEssence | 2 |<br>
+| Reagent</em>ClassTraining<em>Endurance | Workshop.Page01.ClassTraining.11 | 1 | Reagent</em>Misc<em>ShadowEssence | 3 |<br>
+| Reagent</em>ClassTraining<em>Endurance | Workshop.Page01.ClassTraining.12 | 1 | Reagent</em>Misc<em>ShadowEssence | 4 |<br>
+| Reagent</em>ClassTraining<em>Endurance | Workshop.Page01.ClassTraining.13 | 1 | Reagent</em>Misc<em>ShadowEssence | 4 |<br>
+| Reagent</em>ClassTraining<em>Endurance | Workshop.Page01.ClassTraining.14 | 1 | Reagent</em>Misc<em>ShadowEssence | 4 |<br>
+| Reagent</em>ClassTraining<em>Endurance | Workshop.Page01.ClassTraining.15 | 1 | Reagent</em>Misc<em>ShadowEssence | 5 |<br>
+| Reagent</em>ClassTraining<em>Endurance | Workshop.Page01.ClassTraining.16 | 1 | Reagent</em>Misc<em>ShadowEssence | 5 |<br>
+| Reagent</em>ClassTraining<em>Insight | Workshop.Page01.ClassTraining.17 | 1 | Reagent</em>Misc<em>ShadowEssence | 1 |<br>
+| Reagent</em>ClassTraining<em>Insight | Workshop.Page01.ClassTraining.18 | 1 | Reagent</em>Misc<em>ShadowEssence | 2 |<br>
+| Reagent</em>ClassTraining<em>Insight | Workshop.Page01.ClassTraining.19 | 1 | Reagent</em>Misc<em>ShadowEssence | 3 |<br>
+| Reagent</em>ClassTraining<em>Insight | Workshop.Page01.ClassTraining.20 | 1 | Reagent</em>Misc<em>ShadowEssence | 4 |<br>
+| Reagent</em>ClassTraining<em>Insight | Workshop.Page01.ClassTraining.21 | 1 | Reagent</em>Misc<em>ShadowEssence | 4 |<br>
+| Reagent</em>ClassTraining<em>Insight | Workshop.Page01.ClassTraining.22 | 1 | Reagent</em>Misc<em>ShadowEssence | 4 |<br>
+| Reagent</em>ClassTraining<em>Insight | Workshop.Page01.ClassTraining.23 | 1 | Reagent</em>Misc<em>ShadowEssence | 5 |<br>
+| Reagent</em>ClassTraining<em>Insight | Workshop.Page01.ClassTraining.24 | 1 | Reagent</em>Misc<em>ShadowEssence | 5 |<br>
+| Reagent</em>ClassTraining<em>Strength | Workshop.Page01.ClassTraining.25 | 1 | Reagent</em>Misc<em>ShadowEssence | 1 |<br>
+| Reagent</em>ClassTraining<em>Strength | Workshop.Page01.ClassTraining.26 | 1 | Reagent</em>Misc<em>ShadowEssence | 2 |<br>
+| Reagent</em>ClassTraining<em>Strength | Workshop.Page01.ClassTraining.27 | 1 | Reagent</em>Misc<em>ShadowEssence | 3 |<br>
+| Reagent</em>ClassTraining<em>Strength | Workshop.Page01.ClassTraining.28 | 1 | Reagent</em>Misc<em>ShadowEssence | 4 |<br>
+| Reagent</em>ClassTraining<em>Strength | Workshop.Page01.ClassTraining.29 | 1 | Reagent</em>Misc<em>ShadowEssence | 4 |<br>
+| Reagent</em>ClassTraining<em>Strength | Workshop.Page01.ClassTraining.30 | 1 | Reagent</em>Misc<em>ShadowEssence | 4 |<br>
+| Reagent</em>ClassTraining<em>Strength | Workshop.Page01.ClassTraining.31 | 1 | Reagent</em>Misc<em>ShadowEssence | 5 |<br>
+| Reagent</em>ClassTraining<em>Strength | Workshop.Page01.ClassTraining.32 | 1 | Reagent</em>Misc<em>ShadowEssence | 5 |<br>
+| Reagent</em>SupplyPoints<em>BuildingUpgrade | Workshop.L07.Page01.BuildingMaterials.01 | -1 | Other | 200 |<br>
+| Reagent</em>SupplyPoints<em>BuildingUpgrade | Workshop.L07.Page01.BuildingMaterials.02 | -1 | Ore</em>Magicite | 10 |<br>
+| Reagent<em>SupplyPoints</em>BuildingUpgrade | Workshop.L07.Page01.BuildingMaterials.03 | 1 | Other | 100 |<br>
+| Reagent<em>SupplyPoints</em>BuildingUpgrade | Workshop.L08.Page01.BuildingMaterials.04 | 2 | Other | 100 |<br>
+| Reagent<em>SupplyPoints</em>BuildingUpgrade | Workshop.L10.Page01.BuildingMaterials.05 | 3 | Other | 100 |<br>
+| Reagent<em>SupplyPoints</em>BuildingUpgrade | Workshop.L12.Page01.BuildingMaterials.06 | 4 | Other | 100 |<br>
+| Reagent<em>SupplyPoints</em>BuildingUpgrade | Workshop.L16.Page01.BuildingMaterials.07 | 5 | Other | 100 |<br>
+| Reagent<em>SupplyPoints</em>BuildingUpgrade | Workshop.L20.Page01.BuildingMaterials.08 | 6 | Other | 100 |<br>
+| Reagent<em>SupplyPoints</em>BuildingUpgrade | Workshop.L22.Page01.BuildingMaterials.09 | 7 | Other | 100 |<br>
+| Reagent<em>SupplyPoints</em>BuildingUpgrade | Workshop.L24.Page01.BuildingMaterials.10 | 8 | Other | 100 |<br>
+| Reagent<em>SupplyPoints</em>BuildingUpgrade | Workshop.L26.Page01.BuildingMaterials.11 | 9 | Other | 100 |<br>
+| Rocket Fuel | Rocket Fuel (Ancient Factory) | 1 | Other | 50 |<br>
+| Starter Pets | Workshop.L01.Page01.BuildStarterPets.01 | 1 | Other | 12 |<br>
+| Warrior<em>SR2</em>Dark<em>RoboGuy</em>T05 | Workshop.L01.Page01.BuildRxT.01 | -1 | Reagent<em>RXT</em>Parts<em>Small | 100 |<br>
+| Warrior</em>SR2<em>Fire</em>RoboGuy<em>T05 | Workshop.L01.Page01.BuildRxT.02 | -1 | Reagent</em>RXT<em>Parts</em>Small | 100 |<br>
+| Warrior<em>SR2</em>Light<em>RoboGuy</em>T05 | Workshop.L01.Page01.BuildRxT.03 | -1 | Reagent<em>RXT</em>Parts<em>Small | 100 |<br>
+| Warrior</em>SR2<em>Nature</em>RoboGuy<em>T05 | Workshop.L01.Page01.BuildRxT.04 | -1 | Reagent</em>RXT<em>Parts</em>Small | 100 |<br>
+| Warrior<em>SR2</em>Water<em>RoboGuy</em>T05 | Workshop.L01.Page01.BuildRxT.05 | -1 | Reagent<em>RXT</em>Parts_Small | 100 |</p>
+            </div>
+            <div class="col-sm-2 sidenav">
+        
+            </div>
+          </div>
+        </div>
+        
+        </body>
+        </html>
