@@ -13,7 +13,7 @@
 | Minor Health Elixir | Event.NinjasAttack.15 | -1 | Reagent_Event_NinjasAttack_NinjaStars | 20 |
 | Minor Strength Elixir | Event.NinjasAttack.13 | -1 | Reagent_Event_NinjasAttack_NinjaStars | 20 |
 | MtxGiveaway | Event.NinjasAttack.01 | -1 | Reagent_Event_NinjasAttack_NinjaStars | 80 |
-| SkillXP | Event.NinjasAttack.11 | -1 | Reagent_Event_NinjasAttack_NinjaStars | 4 |
+| Skill XP | Event.NinjasAttack.11 | -1 | Reagent_Event_NinjasAttack_NinjaStars | 4 |
 | Voucher_HeroSilver_Dark | Event.NinjasAttack.06 | -1 | Reagent_Event_NinjasAttack_NinjaStars | 12000 |
 | Voucher_HeroSilver_Fire | Event.NinjasAttack.05 | -1 | Reagent_Event_NinjasAttack_NinjaStars | 7000 |
 | Voucher_HeroSilver_Water | Event.NinjasAttack.04 | -1 | Reagent_Event_NinjasAttack_NinjaStars | 7000 |
