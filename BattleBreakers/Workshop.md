@@ -15,6 +15,17 @@
 | Build Random Item | Workshop.L26.Page01.BuildRandomItem.13 | 12 | Other | 50 |
 | Build Random Item | Workshop.L28.Page01.BuildRandomItem.14 | 13 | Other | 50 |
 | Build Random Item | Workshop.L30.Page01.BuildRandomItem.15 | 14 | Other | 50 |
+| Building Upgrade | Workshop.L07.Page01.BuildingMaterials.01 | -1 | Other | 200 |
+| Building Upgrade | Workshop.L07.Page01.BuildingMaterials.02 | -1 | Ore_Magicite | 10 |
+| Building Upgrade | Workshop.L07.Page01.BuildingMaterials.03 | 1 | Other | 100 |
+| Building Upgrade | Workshop.L08.Page01.BuildingMaterials.04 | 2 | Other | 100 |
+| Building Upgrade | Workshop.L10.Page01.BuildingMaterials.05 | 3 | Other | 100 |
+| Building Upgrade | Workshop.L12.Page01.BuildingMaterials.06 | 4 | Other | 100 |
+| Building Upgrade | Workshop.L16.Page01.BuildingMaterials.07 | 5 | Other | 100 |
+| Building Upgrade | Workshop.L20.Page01.BuildingMaterials.08 | 6 | Other | 100 |
+| Building Upgrade | Workshop.L22.Page01.BuildingMaterials.09 | 7 | Other | 100 |
+| Building Upgrade | Workshop.L24.Page01.BuildingMaterials.10 | 8 | Other | 100 |
+| Building Upgrade | Workshop.L26.Page01.BuildingMaterials.11 | 9 | Other | 100 |
 | MartialArtist_SR2_Fire_TripleCombo_T04 | Workshop.L01.Page01.BuildWCHero.01 | -1 | Reagent_WC_Hero_TripleCombo | 100 |
 | MartialArtist_SR2_Nature_TripleCombo_T04 | Workshop.L01.Page01.BuildWCHero.02 | -1 | Reagent_WC_Hero_TripleCombo | 100 |
 | MartialArtist_SR2_Water_TripleCombo_T04 | Workshop.L01.Page01.BuildWCHero.03 | -1 | Reagent_WC_Hero_TripleCombo | 100 |
@@ -55,17 +66,6 @@
 | Reagent_ClassTraining_Strength | Workshop.Page01.ClassTraining.30 | 1 | Reagent_Misc_ShadowEssence | 4 |
 | Reagent_ClassTraining_Strength | Workshop.Page01.ClassTraining.31 | 1 | Reagent_Misc_ShadowEssence | 5 |
 | Reagent_ClassTraining_Strength | Workshop.Page01.ClassTraining.32 | 1 | Reagent_Misc_ShadowEssence | 5 |
-| Reagent_SupplyPoints_BuildingUpgrade | Workshop.L07.Page01.BuildingMaterials.01 | -1 | Other | 200 |
-| Reagent_SupplyPoints_BuildingUpgrade | Workshop.L07.Page01.BuildingMaterials.02 | -1 | Ore_Magicite | 10 |
-| Reagent_SupplyPoints_BuildingUpgrade | Workshop.L07.Page01.BuildingMaterials.03 | 1 | Other | 100 |
-| Reagent_SupplyPoints_BuildingUpgrade | Workshop.L08.Page01.BuildingMaterials.04 | 2 | Other | 100 |
-| Reagent_SupplyPoints_BuildingUpgrade | Workshop.L10.Page01.BuildingMaterials.05 | 3 | Other | 100 |
-| Reagent_SupplyPoints_BuildingUpgrade | Workshop.L12.Page01.BuildingMaterials.06 | 4 | Other | 100 |
-| Reagent_SupplyPoints_BuildingUpgrade | Workshop.L16.Page01.BuildingMaterials.07 | 5 | Other | 100 |
-| Reagent_SupplyPoints_BuildingUpgrade | Workshop.L20.Page01.BuildingMaterials.08 | 6 | Other | 100 |
-| Reagent_SupplyPoints_BuildingUpgrade | Workshop.L22.Page01.BuildingMaterials.09 | 7 | Other | 100 |
-| Reagent_SupplyPoints_BuildingUpgrade | Workshop.L24.Page01.BuildingMaterials.10 | 8 | Other | 100 |
-| Reagent_SupplyPoints_BuildingUpgrade | Workshop.L26.Page01.BuildingMaterials.11 | 9 | Other | 100 |
 | Rocket Fuel | Rocket Fuel (Ancient Factory) | 1 | Other | 50 |
 | Starter Pets | Workshop.L01.Page01.BuildStarterPets.01 | 1 | Other | 12 |
 | Warrior_SR2_Dark_RoboGuy_T05 | Workshop.L01.Page01.BuildRxT.01 | -1 | Reagent_RXT_Parts_Small | 100 |
