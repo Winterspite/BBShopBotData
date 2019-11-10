@@ -1,30 +1,30 @@
-| Title | Dev Name | Quantity | Currency |  Price |
-| ----- | -------- | -------- | -------- |  ----- |
-|  | EnergyRefill 1 | 1 | Gems | 0 |
-|  | EnergyRefill 2 | 1 | Gems | 50 |
-|  | EnergyRefill 3 | 1 | Gems | 75 |
-|  | EnergyRefill 4 | 5 | Gems | 100 |
-|  | EnergyRefill 5 | 5 | Gems | 150 |
-|  | EnergyRefill 6 | 7 | Gems | 200 |
-|  | FriendLimitIncrease | -1 | Gems | 100 |
-|  | GameContinue | -1 | Gems | 40 |
-|  | Market Page 2 | -1 | Gems | 50 |
-|  | Market Page 3 | -1 | Gems | 100 |
-|  | ResetLaborPool | -1 | Gems | 100 |
-|  | Respec Account Reward Perks 1-24 | -1 | Gems | 200 |
-|  | Respec Account Reward Perks 100-124 | -1 | Gems | 400 |
-|  | Respec Account Reward Perks 125-149 | -1 | Gems | 450 |
-|  | Respec Account Reward Perks 150-174 | -1 | Gems | 500 |
-|  | Respec Account Reward Perks 175-199 | -1 | Gems | 550 |
-|  | Respec Account Reward Perks 200-299 | -1 | Gems | 600 |
-|  | Respec Account Reward Perks 25-49 | -1 | Gems | 250 |
-|  | Respec Account Reward Perks 300-399 | -1 | Gems | 650 |
-|  | Respec Account Reward Perks 400-499 | -1 | Gems | 700 |
-|  | Respec Account Reward Perks 50-74 | -1 | Gems | 300 |
-|  | Respec Account Reward Perks 500+ | -1 | Gems | 750 |
-|  | Respec Account Reward Perks 75-99 | -1 | Gems | 350 |
-|  | Respec Account Reward Perks Monthly Discount | -1 | Gems | 100 |
-|  | SecretShop Page 1 | -1 | Gems | 100 |
-|  | SecretShop Page 1 - FREE | -1 | Gems | 0 |
-|  | SecretShop Page 2 | -1 | Gems | 100 |
-|  | SecretShop Page 3 | -1 | Gems | 200 |
+| Quantity | Title | Price | Currency |  Dev Name |
+| -------- | ----- | ----- | -------- |  -------- |
+| 1 |  | 0 | Gems | EnergyRefill 1 |
+| 1 |  | 50 | Gems | EnergyRefill 2 |
+| 1 |  | 75 | Gems | EnergyRefill 3 |
+| 5 |  | 100 | Gems | EnergyRefill 4 |
+| 5 |  | 150 | Gems | EnergyRefill 5 |
+| 7 |  | 200 | Gems | EnergyRefill 6 |
+| Unlimited |  | 100 | Gems | FriendLimitIncrease |
+| Unlimited |  | 40 | Gems | GameContinue |
+| Unlimited |  | 50 | Gems | Market Page 2 |
+| Unlimited |  | 100 | Gems | Market Page 3 |
+| Unlimited |  | 100 | Gems | ResetLaborPool |
+| Unlimited |  | 200 | Gems | Respec Account Reward Perks 1-24 |
+| Unlimited |  | 400 | Gems | Respec Account Reward Perks 100-124 |
+| Unlimited |  | 450 | Gems | Respec Account Reward Perks 125-149 |
+| Unlimited |  | 500 | Gems | Respec Account Reward Perks 150-174 |
+| Unlimited |  | 550 | Gems | Respec Account Reward Perks 175-199 |
+| Unlimited |  | 600 | Gems | Respec Account Reward Perks 200-299 |
+| Unlimited |  | 250 | Gems | Respec Account Reward Perks 25-49 |
+| Unlimited |  | 650 | Gems | Respec Account Reward Perks 300-399 |
+| Unlimited |  | 700 | Gems | Respec Account Reward Perks 400-499 |
+| Unlimited |  | 300 | Gems | Respec Account Reward Perks 50-74 |
+| Unlimited |  | 750 | Gems | Respec Account Reward Perks 500+ |
+| Unlimited |  | 350 | Gems | Respec Account Reward Perks 75-99 |
+| Unlimited |  | 100 | Gems | Respec Account Reward Perks Monthly Discount |
+| Unlimited |  | 100 | Gems | SecretShop Page 1 |
+| Unlimited |  | 0 | Gems | SecretShop Page 1 - FREE |
+| Unlimited |  | 100 | Gems | SecretShop Page 2 |
+| Unlimited |  | 200 | Gems | SecretShop Page 3 |

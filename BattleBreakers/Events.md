@@ -1,20 +1,20 @@
-| Title | Dev Name | Quantity | Currency |  Price |
-| ----- | -------- | -------- | -------- |  ----- |
-| Ceremonial Sword | Event.NinjasAttack.07 | -1 | Ninja Stars | 3750 |
-| Dark Essence | Event.NinjasAttack.10 | -1 | Ninja Stars | 2250 |
-| Dark Hero Crystal | Event.NinjasAttack.06 | -1 | Ninja Stars | 12000 |
-| Fire Essence | Event.NinjasAttack.09 | -1 | Ninja Stars | 2250 |
-| Fire Hero Crystal | Event.NinjasAttack.05 | -1 | Ninja Stars | 7000 |
-| Gems | Event.NinjasAttack.01 | -1 | Ninja Stars | 80 |
-| Guan Yu, God of War | Event.NinjasAttack.17 | -1 | Reagent_NinjasAttack_Whetstones | 100 |
-| Hero XP | Event.NinjasAttack.12 | -1 | Ninja Stars | 5000 |
-| Magic Chest | Event.NinjasAttack.02 | -1 | Ninja Stars | 15000 |
-| Magic Chest | Event.NinjasAttack.03 | -1 | Ninja Stars | 20000 |
-| Major Health Elixir | Event.NinjasAttack.16 | -1 | Ninja Stars | 250 |
-| Major Strength Elixir | Event.NinjasAttack.14 | -1 | Ninja Stars | 250 |
-| Mana Elixir | Event.NinjasAttack.18 | -1 | Ninja Stars | 2000 |
-| Minor Health Elixir | Event.NinjasAttack.15 | -1 | Ninja Stars | 20 |
-| Minor Strength Elixir | Event.NinjasAttack.13 | -1 | Ninja Stars | 20 |
-| Skill XP | Event.NinjasAttack.11 | -1 | Ninja Stars | 4 |
-| Water Essence | Event.NinjasAttack.08 | -1 | Ninja Stars | 2250 |
-| Water Hero Crystal | Event.NinjasAttack.04 | -1 | Ninja Stars | 7000 |
+| Quantity | Title | Price | Currency |  Dev Name |
+| -------- | ----- | ----- | -------- |  -------- |
+| Unlimited | Ceremonial Sword | 3750 | Ninja Stars | Event.NinjasAttack.07 |
+| Unlimited | Dark Essence | 2250 | Ninja Stars | Event.NinjasAttack.10 |
+| Unlimited | Dark Hero Crystal | 12000 | Ninja Stars | Event.NinjasAttack.06 |
+| Unlimited | Fire Essence | 2250 | Ninja Stars | Event.NinjasAttack.09 |
+| Unlimited | Fire Hero Crystal | 7000 | Ninja Stars | Event.NinjasAttack.05 |
+| Unlimited | Gems | 80 | Ninja Stars | Event.NinjasAttack.01 |
+| Unlimited | Guan Yu, God of War | 100 | Ninja Whetstones | Event.NinjasAttack.17 |
+| Unlimited | Hero XP | 5000 | Ninja Stars | Event.NinjasAttack.12 |
+| Unlimited | Magic Chest | 15000 | Ninja Stars | Event.NinjasAttack.02 |
+| Unlimited | Magic Chest | 20000 | Ninja Stars | Event.NinjasAttack.03 |
+| Unlimited | Major Health Elixir | 250 | Ninja Stars | Event.NinjasAttack.16 |
+| Unlimited | Major Strength Elixir | 250 | Ninja Stars | Event.NinjasAttack.14 |
+| Unlimited | Mana Elixir | 2000 | Ninja Stars | Event.NinjasAttack.18 |
+| Unlimited | Minor Health Elixir | 20 | Ninja Stars | Event.NinjasAttack.15 |
+| Unlimited | Minor Strength Elixir | 20 | Ninja Stars | Event.NinjasAttack.13 |
+| Unlimited | Skill XP | 4 | Ninja Stars | Event.NinjasAttack.11 |
+| Unlimited | Water Essence | 2250 | Ninja Stars | Event.NinjasAttack.08 |
+| Unlimited | Water Hero Crystal | 7000 | Ninja Stars | Event.NinjasAttack.04 |

@@ -1,16 +1,16 @@
-| Title | Dev Name | Quantity | Currency |  Price |
-| ----- | -------- | -------- | -------- |  ----- |
-| Assassin_R2_Nature_Slasher_T03 | WeeklyChallenge.WCStore.14 | -1 | WCCoins | 20 |
-| Ceremonial Sword | WeeklyChallenge.WCStore.11 | -1 | WCCoins | 10 |
-| Core Hero Traces | WeeklyChallenge.WCStore.10 | -1 | WCCoins | 50 |
-| Dark Essence | WeeklyChallenge.WCStore.07 | -1 | WCCoins | 10 |
-| Fire Essence | WeeklyChallenge.WCStore.03 | -1 | WCCoins | 10 |
-| Gems | WeeklyChallenge.WCStore.08 | -1 | WCCoins | 75 |
-| Light Essence | WeeklyChallenge.WCStore.06 | -1 | WCCoins | 10 |
-| Magicite | WeeklyChallenge.WCStore.09 | -1 | WCCoins | 6 |
-| Nature Essence | WeeklyChallenge.WCStore.04 | -1 | WCCoins | 10 |
-| Power Source | WeeklyChallenge.WCStore.01 | -1 | WCCoins | 1 |
-| Reagent_WC_Hero_TripleCombo | WeeklyChallenge.WCStore.12 | -1 | WCCoins | 5 |
-| Skill XP | WeeklyChallenge.WCStore.02 | -1 | WCCoins | 3 |
-| TK_Voucher_HeroBattle | WeeklyChallenge.WCStore.13 | -1 | WCCoins | 5 |
-| Water Essence | WeeklyChallenge.WCStore.05 | -1 | WCCoins | 10 |
+| Quantity | Title | Price | Currency |  Dev Name |
+| -------- | ----- | ----- | -------- |  -------- |
+| Unlimited | Assassin_R2_Nature_Slasher_T03 | 20 | WCCoins | WeeklyChallenge.WCStore.14 |
+| Unlimited | Ceremonial Sword | 10 | WCCoins | WeeklyChallenge.WCStore.11 |
+| Unlimited | Core Hero Traces | 50 | WCCoins | WeeklyChallenge.WCStore.10 |
+| Unlimited | Dark Essence | 10 | WCCoins | WeeklyChallenge.WCStore.07 |
+| Unlimited | Fire Essence | 10 | WCCoins | WeeklyChallenge.WCStore.03 |
+| Unlimited | Gems | 75 | WCCoins | WeeklyChallenge.WCStore.08 |
+| Unlimited | Light Essence | 10 | WCCoins | WeeklyChallenge.WCStore.06 |
+| Unlimited | Magicite | 6 | WCCoins | WeeklyChallenge.WCStore.09 |
+| Unlimited | Nature Essence | 10 | WCCoins | WeeklyChallenge.WCStore.04 |
+| Unlimited | Power Source | 1 | WCCoins | WeeklyChallenge.WCStore.01 |
+| Unlimited | Reagent_WC_Hero_TripleCombo | 5 | WCCoins | WeeklyChallenge.WCStore.12 |
+| Unlimited | Skill XP | 3 | WCCoins | WeeklyChallenge.WCStore.02 |
+| Unlimited | TK_Voucher_HeroBattle | 5 | WCCoins | WeeklyChallenge.WCStore.13 |
+| Unlimited | Water Essence | 10 | WCCoins | WeeklyChallenge.WCStore.05 |

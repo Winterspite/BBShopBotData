@@ -1,26 +1,26 @@
-| Title | Dev Name | Quantity | Currency |  Price |
-| ----- | -------- | -------- | -------- |  ----- |
-| Building Upgrade | Loyalty.Core.21 | -1 | Reagent_Loyalty | 1 |
-| Ceremonial Armor | Loyalty.Core.15 | -1 | Reagent_Loyalty | 25 |
-| Ceremonial Shield | Loyalty.Core.16 | -1 | Reagent_Loyalty | 7 |
-| Ceremonial Sword | Loyalty.Core.17 | -1 | Reagent_Loyalty | 2 |
-| Core Hero Traces | Loyalty.Core.13 | -1 | Reagent_Loyalty | 1 |
-| Dark Essence | Loyalty.Core.01 | -1 | Reagent_Loyalty | 1 |
-| Fire Essence | Loyalty.Core.02 | -1 | Reagent_Loyalty | 1 |
-| Gems | Loyalty.Core.08 | -1 | Reagent_Loyalty | 1 |
-| Gold | Loyalty.Core.22 | -1 | Reagent_Loyalty | 1 |
-| Hammer | Loyalty.Core.07 | -1 | Reagent_Loyalty | 1 |
-| Legendary Hero Traces | Loyalty.Core.14 | -1 | Reagent_Loyalty | 3 |
-| Light Essence | Loyalty.Core.03 | -1 | Reagent_Loyalty | 1 |
-| Magic Chest | Loyalty.Core.11 | -1 | Reagent_Loyalty | 5 |
-| Magicite | Loyalty.Core.09 | -1 | Reagent_Loyalty | 1 |
-| Mana Elixir | Loyalty.Core.10 | -1 | Reagent_Loyalty | 1 |
-| Nature Essence | Loyalty.Core.04 | -1 | Reagent_Loyalty | 1 |
-| Power Source | Loyalty.Core.06 | -1 | Reagent_Loyalty | 1 |
-| Proximity Locator | Loyalty.Core.12 | -1 | Reagent_Loyalty | 3 |
-| Reagent_Foil | Loyalty.Core.24 | -1 | Reagent_Loyalty | 1 |
-| Reagent_RXT_Parts_Large | Loyalty.Core.19 | -1 | Reagent_Loyalty | 10 |
-| Reagent_Shared_MysteryGoo | Loyalty.Core.18 | -1 | Reagent_Loyalty | 15 |
-| RxT Parts | Loyalty.Core.20 | -1 | Reagent_Loyalty | 1 |
-| Skill XP | Loyalty.Core.23 | -1 | Reagent_Loyalty | 1 |
-| Water Essence | Loyalty.Core.05 | -1 | Reagent_Loyalty | 1 |
+| Quantity | Title | Price | Currency |  Dev Name |
+| -------- | ----- | ----- | -------- |  -------- |
+| Unlimited | Building Upgrade | 1 | Reagent_Loyalty | Loyalty.Core.21 |
+| Unlimited | Ceremonial Armor | 25 | Reagent_Loyalty | Loyalty.Core.15 |
+| Unlimited | Ceremonial Shield | 7 | Reagent_Loyalty | Loyalty.Core.16 |
+| Unlimited | Ceremonial Sword | 2 | Reagent_Loyalty | Loyalty.Core.17 |
+| Unlimited | Core Hero Traces | 1 | Reagent_Loyalty | Loyalty.Core.13 |
+| Unlimited | Dark Essence | 1 | Reagent_Loyalty | Loyalty.Core.01 |
+| Unlimited | Fire Essence | 1 | Reagent_Loyalty | Loyalty.Core.02 |
+| Unlimited | Gems | 1 | Reagent_Loyalty | Loyalty.Core.08 |
+| Unlimited | Gold | 1 | Reagent_Loyalty | Loyalty.Core.22 |
+| Unlimited | Hammer | 1 | Reagent_Loyalty | Loyalty.Core.07 |
+| Unlimited | Legendary Hero Traces | 3 | Reagent_Loyalty | Loyalty.Core.14 |
+| Unlimited | Light Essence | 1 | Reagent_Loyalty | Loyalty.Core.03 |
+| Unlimited | Magic Chest | 5 | Reagent_Loyalty | Loyalty.Core.11 |
+| Unlimited | Magicite | 1 | Reagent_Loyalty | Loyalty.Core.09 |
+| Unlimited | Mana Elixir | 1 | Reagent_Loyalty | Loyalty.Core.10 |
+| Unlimited | Nature Essence | 1 | Reagent_Loyalty | Loyalty.Core.04 |
+| Unlimited | Power Source | 1 | Reagent_Loyalty | Loyalty.Core.06 |
+| Unlimited | Proximity Locator | 3 | Reagent_Loyalty | Loyalty.Core.12 |
+| Unlimited | Reagent_Foil | 1 | Reagent_Loyalty | Loyalty.Core.24 |
+| Unlimited | Reagent_RXT_Parts_Large | 10 | Reagent_Loyalty | Loyalty.Core.19 |
+| Unlimited | Reagent_Shared_MysteryGoo | 15 | Reagent_Loyalty | Loyalty.Core.18 |
+| Unlimited | RxT Parts | 1 | Reagent_Loyalty | Loyalty.Core.20 |
+| Unlimited | Skill XP | 1 | Reagent_Loyalty | Loyalty.Core.23 |
+| Unlimited | Water Essence | 1 | Reagent_Loyalty | Loyalty.Core.05 |

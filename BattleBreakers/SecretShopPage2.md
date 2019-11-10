@@ -1,21 +1,21 @@
-| Title | Dev Name | Quantity | Currency |  Price |
-| ----- | -------- | -------- | -------- |  ----- |
-| Bridge of Light Map | SecretShop.Page02.TreasureMap.03 | 1 | Gems | 20 |
-| Castle Treasury Map | SecretShop.Page02.UnderworldTrader.22 | 1 | Gems | 140 |
-| Ceremonial Armor | SecretShop.Page02.CharShard.04 | 1 | Gold | 15000000 |
-| Dark Essence | SecretShop.Page02.UnderworldTrader.02 | 1 | Gems | 140 |
-| Fire Essence | SecretShop.Page02.Reagent.21 | 1 | Gems | 170 |
-| Fire Essence | SecretShop.Page02.Reagent.27 | 1 | Gems | 170 |
-| Hammer | SecretShop.Page02.Free.06 | 2 | Gold | 0 |
-| Light Essence | SecretShop.Page02.Reagent.23 | 1 | Gems | 170 |
-| Light Essence | SecretShop.Page02.Shard.08 | 1 | Gems | 170 |
-| Magicite | SecretShop.Page02.Ore.01 | 3 | Gold | 21250 |
-| Major Health Elixir | SecretShop.Page02.Elixir.01 | 5 | Gold | 42500 |
-| Major Health Elixir | SecretShop.Page02.Elixir.06 | 5 | Gems | 25 |
-| Major Strength Elixir | SecretShop.Page02.Elixir.09 | 5 | Gems | 25 |
-| Major Strength Elixir | SecretShop.Page02.UnderworldTrader.06 | 10 | Gems | 21 |
-| Minor Strength Elixir | SecretShop.Page02.UnderworldTrader.07 | 15 | Gems | 4 |
-| Power Source | SecretShop.Page02.Reagent.05 | 10 | Gold | 2125 |
-| Power Source | SecretShop.Page02.UnderworldTraderGold.01 | 30 | Gold | 1500 |
-| Proximity Locator | SecretShop.Page02.Misc.01 | 1 | Gold | 300000 |
-| RxT Parts | SecretShop.Page02.Misc.09 | 1 | Gold | 50000 |
+| Quantity | Title | Price | Currency |  Dev Name |
+| -------- | ----- | ----- | -------- |  -------- |
+| 1 | Bridge of Light Map | 20 | Gems | SecretShop.Page02.TreasureMap.03 |
+| 1 | Castle Treasury Map | 140 | Gems | SecretShop.Page02.UnderworldTrader.22 |
+| 1 | Ceremonial Armor | 15000000 | Gold | SecretShop.Page02.CharShard.04 |
+| 1 | Dark Essence | 140 | Gems | SecretShop.Page02.UnderworldTrader.02 |
+| 1 | Fire Essence | 170 | Gems | SecretShop.Page02.Reagent.21 |
+| 1 | Fire Essence | 170 | Gems | SecretShop.Page02.Reagent.27 |
+| 2 | Hammer | 0 | Gold | SecretShop.Page02.Free.06 |
+| 1 | Light Essence | 170 | Gems | SecretShop.Page02.Reagent.23 |
+| 1 | Light Essence | 170 | Gems | SecretShop.Page02.Shard.08 |
+| 3 | Magicite | 21250 | Gold | SecretShop.Page02.Ore.01 |
+| 5 | Major Health Elixir | 42500 | Gold | SecretShop.Page02.Elixir.01 |
+| 5 | Major Health Elixir | 25 | Gems | SecretShop.Page02.Elixir.06 |
+| 5 | Major Strength Elixir | 25 | Gems | SecretShop.Page02.Elixir.09 |
+| 10 | Major Strength Elixir | 21 | Gems | SecretShop.Page02.UnderworldTrader.06 |
+| 15 | Minor Strength Elixir | 4 | Gems | SecretShop.Page02.UnderworldTrader.07 |
+| 10 | Power Source | 2125 | Gold | SecretShop.Page02.Reagent.05 |
+| 30 | Power Source | 1500 | Gold | SecretShop.Page02.UnderworldTraderGold.01 |
+| 1 | Proximity Locator | 300000 | Gold | SecretShop.Page02.Misc.01 |
+| 1 | RxT Parts | 50000 | Gold | SecretShop.Page02.Misc.09 |
