@@ -17,11 +17,11 @@
 | Mana Elixir | SecretShop.Page04.Elixir.23 | 4 | Gold | 340000 |
 | Nature Essence | SecretShop.Page04.Reagent.72 | 1 | Gold | 255000 |
 | Nature Essence | SecretShop.Page04.Shard.29 | 1 | Gems | 170 |
+| Planet's Core Map | SecretShop.Page04.TreasureMap.38 | 1 | Gems | 340 |
 | Power Source | SecretShop.Page04.Reagent.69 | 10 | Gold | 2125 |
 | Power Source | SecretShop.Page04.UnderworldTrader.73 | 40 | Gems | 1 |
 | Power Source | SecretShop.Page04.UnderworldTraderGold.11 | 30 | Gold | 1500 |
 | RxT Parts | SecretShop.Page04.Misc.29 | 2 | Gold | 50000 |
-| TM_Special_PlanetCore | SecretShop.Page04.TreasureMap.38 | 1 | Gems | 340 |
 | Water Essence | SecretShop.Page04.Free.51 | 1 | Gems | 0 |
 | Water Essence | SecretShop.Page04.Reagent.65 | 1 | Gold | 255000 |
 | Water Essence | SecretShop.Page04.UnderworldTrader.74 | 1 | Gems | 140 |
