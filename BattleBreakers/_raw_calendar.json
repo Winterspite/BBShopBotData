@@ -3,7 +3,7 @@
     "news": {
       "states": [
         {
-          "validFrom": "2019-11-11T11:46:10.470Z",
+          "validFrom": "2019-11-11T18:42:41.705Z",
           "activeEvents": [
 
           ],
@@ -32,12 +32,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-11T13:46:10.470Z"
+      "cacheExpire": "2019-11-11T20:42:41.705Z"
     },
     "marketing": {
       "states": [
         {
-          "validFrom": "2019-11-11T11:46:10.470Z",
+          "validFrom": "2019-11-11T18:42:41.705Z",
           "activeEvents": [
 
           ],
@@ -46,12 +46,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-11T13:46:10.470Z"
+      "cacheExpire": "2019-11-11T20:42:41.705Z"
     },
     "rotational-content": {
       "states": [
         {
-          "validFrom": "2019-11-11T11:46:10.470Z",
+          "validFrom": "2019-11-11T18:42:41.705Z",
           "activeEvents": [
 
           ],
@@ -169,7 +169,7 @@
               },
               {
                 "sortPriority": -100,
-                "zoneId": "Zone.Event.BossChallenge.RareMine.Map1",
+                "zoneId": "Zone.Event.BossChallenge.CharacterShard.Map1",
                 "maxRuns": 1,
                 "resetCostMtx": 0,
                 "flags": [
@@ -225,12 +225,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-11T13:46:10.470Z"
+      "cacheExpire": "2019-11-11T20:42:41.705Z"
     },
     "featured-stores-mcp": {
       "states": [
         {
-          "validFrom": "2019-11-11T11:46:10.470Z",
+          "validFrom": "2019-11-11T18:42:41.705Z",
           "activeEvents": [
 
           ],
@@ -243,12 +243,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-11T13:46:10.470Z"
+      "cacheExpire": "2019-11-11T20:42:41.705Z"
     },
     "weekly-challenge": {
       "states": [
         {
-          "validFrom": "2019-11-11T11:46:10.470Z",
+          "validFrom": "2019-11-11T18:42:41.705Z",
           "activeEvents": [
 
           ],
@@ -256,8 +256,8 @@
             "phases": [
               {
                 "zoneId": "Zone.Event.WC.Daily.BossTrio.Map1",
-                "availabilityBegin": "2019-10-21T00:00:00.000Z",
-                "availabilityEnd": "2019-10-23T00:00:00.000Z",
+                "availabilityBegin": "2019-11-11T00:00:00.000Z",
+                "availabilityEnd": "2019-11-13T00:00:00.000Z",
                 "minAccountLevel": 1,
                 "maxAccountLevel": 2147483647,
                 "requirements": {
@@ -266,99 +266,7 @@
                   "requirements": [
                     {
                       "count": 1,
-                      "heroClass": "AnyClass",
-                      "heroElement": "Fire"
-                    },
-                    {
-                      "count": 1,
-                      "heroClass": "AnyClass",
-                      "heroElement": "Water"
-                    }
-                  ],
-                  "excludeClasses": [
-
-                  ],
-                  "excludeElements": [
-
-                  ]
-                }
-              },
-              {
-                "zoneId": "Zone.Event.WC.Daily.BossDuo.Map1",
-                "availabilityBegin": "2019-10-22T00:00:00.000Z",
-                "availabilityEnd": "2019-10-24T00:00:00.000Z",
-                "minAccountLevel": 1,
-                "maxAccountLevel": 2147483647,
-                "requirements": {
-                  "maxPartySize": 5,
-                  "minPartySize": 1,
-                  "requirements": [
-                    {
-                      "count": 3,
-                      "heroClass": "AnyClass",
-                      "heroElement": "Fire"
-                    }
-                  ],
-                  "excludeClasses": [
-
-                  ],
-                  "excludeElements": [
-
-                  ]
-                }
-              },
-              {
-                "zoneId": "Zone.Event.WC.Daily.BossDuo.Map1",
-                "availabilityBegin": "2019-10-23T00:00:00.000Z",
-                "availabilityEnd": "2019-10-25T00:00:00.000Z",
-                "minAccountLevel": 1,
-                "maxAccountLevel": 2147483647,
-                "requirements": {
-                  "maxPartySize": 5,
-                  "minPartySize": 1,
-                  "requirements": [
-                    {
-                      "count": 1,
-                      "heroClass": "AnyClass",
-                      "heroElement": "Fire"
-                    },
-                    {
-                      "count": 1,
-                      "heroClass": "AnyClass",
-                      "heroElement": "Nature"
-                    },
-                    {
-                      "count": 1,
-                      "heroClass": "SpiritWarrior",
-                      "heroElement": "None"
-                    }
-                  ],
-                  "excludeClasses": [
-
-                  ],
-                  "excludeElements": [
-
-                  ]
-                }
-              },
-              {
-                "zoneId": "Zone.Event.WC.Daily.BossDuo.Map1",
-                "availabilityBegin": "2019-10-24T00:00:00.000Z",
-                "availabilityEnd": "2019-10-26T00:00:00.000Z",
-                "minAccountLevel": 1,
-                "maxAccountLevel": 2147483647,
-                "requirements": {
-                  "maxPartySize": 5,
-                  "minPartySize": 1,
-                  "requirements": [
-                    {
-                      "count": 3,
-                      "heroClass": "AnyClass",
-                      "heroElement": "Fire"
-                    },
-                    {
-                      "count": 1,
-                      "heroClass": "SpiritWarrior",
+                      "heroClass": "Archer",
                       "heroElement": "None"
                     }
                   ],
@@ -372,8 +280,8 @@
               },
               {
                 "zoneId": "Zone.Event.WC.Daily.SuperBoss.Map1",
-                "availabilityBegin": "2019-10-25T00:00:00.000Z",
-                "availabilityEnd": "2019-10-27T00:00:00.000Z",
+                "availabilityBegin": "2019-11-12T00:00:00.000Z",
+                "availabilityEnd": "2019-11-14T00:00:00.000Z",
                 "minAccountLevel": 1,
                 "maxAccountLevel": 2147483647,
                 "requirements": {
@@ -381,9 +289,101 @@
                   "minPartySize": 1,
                   "requirements": [
                     {
-                      "count": 5,
+                      "count": 1,
+                      "heroClass": "Archer",
+                      "heroElement": "None"
+                    },
+                    {
+                      "count": 1,
+                      "heroClass": "Mage",
+                      "heroElement": "None"
+                    }
+                  ],
+                  "excludeClasses": [
+
+                  ],
+                  "excludeElements": [
+
+                  ]
+                }
+              },
+              {
+                "zoneId": "Zone.Event.WC.Daily.BossTrio.Map1",
+                "availabilityBegin": "2019-11-13T00:00:00.000Z",
+                "availabilityEnd": "2019-11-15T00:00:00.000Z",
+                "minAccountLevel": 1,
+                "maxAccountLevel": 2147483647,
+                "requirements": {
+                  "maxPartySize": 5,
+                  "minPartySize": 1,
+                  "requirements": [
+                    {
+                      "count": 2,
+                      "heroClass": "Mage",
+                      "heroElement": "None"
+                    },
+                    {
+                      "count": 1,
                       "heroClass": "AnyClass",
-                      "heroElement": "Water"
+                      "heroElement": "Nature"
+                    }
+                  ],
+                  "excludeClasses": [
+
+                  ],
+                  "excludeElements": [
+
+                  ]
+                }
+              },
+              {
+                "zoneId": "Zone.Event.WC.Daily.BossTrio.Map1",
+                "availabilityBegin": "2019-11-14T00:00:00.000Z",
+                "availabilityEnd": "2019-11-16T00:00:00.000Z",
+                "minAccountLevel": 1,
+                "maxAccountLevel": 2147483647,
+                "requirements": {
+                  "maxPartySize": 5,
+                  "minPartySize": 1,
+                  "requirements": [
+                    {
+                      "count": 1,
+                      "heroClass": "Archer",
+                      "heroElement": "None"
+                    },
+                    {
+                      "count": 1,
+                      "heroClass": "Mage",
+                      "heroElement": "None"
+                    },
+                    {
+                      "count": 1,
+                      "heroClass": "AnyClass",
+                      "heroElement": "Nature"
+                    }
+                  ],
+                  "excludeClasses": [
+
+                  ],
+                  "excludeElements": [
+
+                  ]
+                }
+              },
+              {
+                "zoneId": "Zone.Event.WC.Daily.BossTrio.Map1",
+                "availabilityBegin": "2019-11-15T00:00:00.000Z",
+                "availabilityEnd": "2019-11-17T00:00:00.000Z",
+                "minAccountLevel": 1,
+                "maxAccountLevel": 2147483647,
+                "requirements": {
+                  "maxPartySize": 5,
+                  "minPartySize": 1,
+                  "requirements": [
+                    {
+                      "count": 2,
+                      "heroClass": "TreasureHunter",
+                      "heroElement": "None"
                     }
                   ],
                   "excludeClasses": [
@@ -396,27 +396,27 @@
               }
             ],
             "activePhases": [
-              "Weekend"
+              "Monday"
             ],
-            "eventInstanceId": "6efel9g1clh0s6qkscnkrkpi01[0]0",
+            "eventInstanceId": "6efel9g1clh0s6qkscnkrkpi01[0]3",
             "bossZone": {
-              "zoneId": "Zone.Event.WC.Weekend.BossSuper.1.NaturalMagics.Map1",
-              "availabilityBegin": "2019-10-25T00:00:00.000Z",
-              "availabilityEnd": "2020-01-01T00:00:00.000Z",
+              "zoneId": "Zone.Event.WC.Weekend.BossSuper.2.OasisResearch.Map1",
+              "availabilityBegin": "2019-11-15T00:00:00.000Z",
+              "availabilityEnd": "2019-11-18T00:00:00.000Z",
               "minAccountLevel": 1,
               "maxAccountLevel": 2147483647,
               "runLimit": 5
             },
-            "namedWeights": "NaturalMagics"
+            "namedWeights": "OasisResearch"
           }
         }
       ],
-      "cacheExpire": "2019-11-11T13:46:10.470Z"
+      "cacheExpire": "2019-11-11T20:42:41.705Z"
     },
     "battlepass": {
       "states": [
         {
-          "validFrom": "2019-11-11T11:46:10.470Z",
+          "validFrom": "2019-11-11T18:42:41.705Z",
           "activeEvents": [
 
           ],
@@ -426,10 +426,10 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-11T13:46:10.470Z"
+      "cacheExpire": "2019-11-11T20:42:41.705Z"
     }
   },
   "eventsTimeOffsetHrs": 0.0,
   "cacheIntervalMins": 15.0,
-  "currentTime": "2019-11-11T12:01:41.420Z"
+  "currentTime": "2019-11-11T19:05:49.627Z"
 }
