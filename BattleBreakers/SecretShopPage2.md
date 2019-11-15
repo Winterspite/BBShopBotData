@@ -1,21 +1,21 @@
 | Quantity | Title | Price | Currency |  Dev Name |
 | -------- | ----- | ----- | -------- |  -------- |
-| 1 | Buried in the Desert Map | 140 | Gems | SecretShop.Page02.UnderworldTrader.24 |
 | 1 | Ceremonial Sword | 1000000 | Gold | SecretShop.Page02.CharShard.08 |
-| 3 | Cloud 5 Map | 150 | Gems | SecretShop.Page02.UnderworldTrader.23 |
-| 1 | Fire Essence | 255000 | Gold | SecretShop.Page02.Reagent.06 |
-| 1 | Fire Essence | 170 | Gems | SecretShop.Page02.Shard.07 |
-| 1 | Light Essence | 255000 | Gold | SecretShop.Page02.Reagent.13 |
-| 1 | Light Essence | 170 | Gems | SecretShop.Page02.Reagent.23 |
-| 1 | Light Essence | 140 | Gems | SecretShop.Page02.UnderworldTrader.12 |
-| 1 | Lost Meeg City Fragment | 200 | Gems | SecretShop.Page02.TreasureMap.07 |
-| 3 | Magicite | 21250 | Gold | SecretShop.Page02.Ore.01 |
-| 6 | Major Health Elixir | 35000 | Gold | SecretShop.Page02.UnderworldTraderGold.02 |
-| 5 | Major Strength Elixir | 42500 | Gold | SecretShop.Page02.Elixir.04 |
+| 3 | Drifting Ghost Ship Fragment | 35 | Gems | SecretShop.Page02.UnderworldTrader.25 |
+| 1 | Fire Essence | 255000 | Gold | SecretShop.Page02.Reagent.12 |
+| 1000 | Hero XP | 170 | Gold | SecretShop.Page02.Misc.05 |
+| 1 | Light Essence | 255000 | Gold | SecretShop.Page02.Reagent.08 |
+| 3 | Magicite | 10 | Gems | SecretShop.Page02.Ore.02 |
 | 5 | Major Strength Elixir | 25 | Gems | SecretShop.Page02.Elixir.09 |
 | 2 | Mana Elixir | 85 | Gems | SecretShop.Page02.Elixir.08 |
-| 15 | Minor Strength Elixir | 4 | Gems | SecretShop.Page02.UnderworldTrader.07 |
-| 2 | Proximity Locator | 300000 | Gold | SecretShop.Page02.Misc.02 |
+| 15 | Minor Health Elixir | 4 | Gems | SecretShop.Page02.Elixir.07 |
+| 15 | Minor Health Elixir | 4 | Gems | SecretShop.Page02.UnderworldTrader.04 |
+| 15 | Minor Health Elixir | 2800 | Gold | SecretShop.Page02.UnderworldTraderGold.03 |
+| 1 | Nature Essence | 255000 | Gold | SecretShop.Page02.Reagent.10 |
+| 1 | Nature Essence | 140 | Gems | SecretShop.Page02.UnderworldTrader.13 |
+| 1 | Planet's Core Map | 280 | Gems | SecretShop.Page02.UnderworldTrader.27 |
+| 10 | Power Source | 2125 | Gold | SecretShop.Page02.Reagent.07 |
 | 1 | RxT Parts | 50000 | Gold | SecretShop.Page02.Misc.09 |
-| 5 | Treasure Maps | 0 | Gold | SecretShop.Page02.Free.02 |
-| 1 | Water Essence | 255000 | Gold | SecretShop.Page02.Reagent.03 |
+| 1 | Secret Waterfall Map | 350 | Gems | SecretShop.Page02.TreasureMap.11 |
+| 6 | Treasure Maps | 0 | Gold | SecretShop.Page02.Free.03 |
+| 1 | Water Essence | 255000 | Gold | SecretShop.Page02.Shard.05 |
