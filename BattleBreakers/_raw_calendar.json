@@ -3,7 +3,7 @@
     "news": {
       "states": [
         {
-          "validFrom": "2019-11-20T11:55:44.735Z",
+          "validFrom": "2019-11-20T12:57:06.746Z",
           "activeEvents": [
 
           ],
@@ -32,12 +32,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-20T13:55:44.735Z"
+      "cacheExpire": "2019-11-20T14:57:06.746Z"
     },
     "marketing": {
       "states": [
         {
-          "validFrom": "2019-11-20T11:55:44.735Z",
+          "validFrom": "2019-11-20T12:57:06.746Z",
           "activeEvents": [
 
           ],
@@ -46,12 +46,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-20T13:55:44.735Z"
+      "cacheExpire": "2019-11-20T14:57:06.746Z"
     },
     "rotational-content": {
       "states": [
         {
-          "validFrom": "2019-11-20T11:55:44.735Z",
+          "validFrom": "2019-11-20T12:57:06.746Z",
           "activeEvents": [
 
           ],
@@ -129,7 +129,7 @@
               },
               {
                 "sortPriority": -100,
-                "zoneId": "Zone.Event.BossChallenge.ElixirsPack.Map1",
+                "zoneId": "Zone.Event.BossChallenge.Gold.Map1",
                 "maxRuns": 1,
                 "resetCostMtx": 0,
                 "flags": [
@@ -281,12 +281,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-20T13:55:44.735Z"
+      "cacheExpire": "2019-11-20T14:57:06.746Z"
     },
     "featured-stores-mcp": {
       "states": [
         {
-          "validFrom": "2019-11-20T11:55:44.735Z",
+          "validFrom": "2019-11-20T12:57:06.746Z",
           "activeEvents": [
 
           ],
@@ -299,12 +299,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-20T13:55:44.735Z"
+      "cacheExpire": "2019-11-20T14:57:06.746Z"
     },
     "weekly-challenge": {
       "states": [
         {
-          "validFrom": "2019-11-20T11:55:44.735Z",
+          "validFrom": "2019-11-20T12:57:06.746Z",
           "activeEvents": [
 
           ],
@@ -478,25 +478,25 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-20T13:55:44.735Z"
+      "cacheExpire": "2019-11-20T14:57:06.746Z"
     },
     "battlepass": {
       "states": [
         {
-          "validFrom": "2019-11-20T11:55:44.735Z",
+          "validFrom": "2019-11-20T12:57:06.746Z",
           "activeEvents": [
 
           ],
           "state": {
             "seasonId": "2018_1",
-            "seasonEndDate": "2019-12-10T00:00:00Z"
+            "seasonEndDate": "2019-12-16T00:00:00Z"
           }
         }
       ],
-      "cacheExpire": "2019-11-20T13:55:44.735Z"
+      "cacheExpire": "2019-11-20T14:57:06.746Z"
     }
   },
   "eventsTimeOffsetHrs": 0.0,
   "cacheIntervalMins": 15.0,
-  "currentTime": "2019-11-20T12:14:28.789Z"
+  "currentTime": "2019-11-20T13:12:06.746Z"
 }
