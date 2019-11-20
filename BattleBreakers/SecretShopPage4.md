@@ -1,27 +1,27 @@
 | Quantity | Title | Price | Currency |  Dev Name |
 | -------- | ----- | ----- | -------- |  -------- |
-| 1 | Bridge of Light Map | 34000 | Gold | SecretShop.Page04.TreasureMap.24 |
-| 3 | Cloud 5 Map | 150 | Gems | SecretShop.Page04.UnderworldTrader.77 |
-| 1 | Dark Essence | 255000 | Gold | SecretShop.Page04.Shard.21 |
-| 1 | Drifting Ghost Ship Fragment | 43 | Gems | SecretShop.Page04.TreasureMap.36 |
-| 1 | Fire Essence | 255000 | Gold | SecretShop.Page04.Reagent.68 |
-| 2 | Fire Essence | 170 | Gems | SecretShop.Page04.Reagent.83 |
-| 3 | Hammer | 0 | Gold | SecretShop.Page04.Free.40 |
-| 1 | Light Essence | 170 | Gems | SecretShop.Page04.Shard.28 |
+| 1 | Buried in the Desert Map | 200 | Gems | SecretShop.Page04.TreasureMap.35 |
+| 1 | Buried in the Desert Map | 140 | Gems | SecretShop.Page04.UnderworldTrader.78 |
+| 1 | Drifting Ghost Ship Fragment | 63750 | Gold | SecretShop.Page04.TreasureMap.27 |
+| 3 | Fire Essence | 170 | Gems | SecretShop.Page04.Reagent.89 |
+| 4 | Hammer | 0 | Gold | SecretShop.Page04.Free.41 |
+| 5000 | Hero XP | 170 | Gold | SecretShop.Page04.Misc.26 |
+| 2 | Light Essence | 170 | Gems | SecretShop.Page04.Reagent.85 |
 | 1 | Light Essence | 140 | Gems | SecretShop.Page04.UnderworldTrader.66 |
 | 1 | Magic Chest | 7500000 | Gold | SecretShop.Page04.CharShard.22 |
 | 3 | Magicite | 21250 | Gold | SecretShop.Page04.Ore.05 |
-| 20 | Magicite | 7 | Gems | SecretShop.Page04.UnderworldTrader.85 |
-| 10 | Major Health Elixir | 42500 | Gold | SecretShop.Page04.Elixir.21 |
+| 10 | Major Health Elixir | 25 | Gems | SecretShop.Page04.Elixir.26 |
+| 10 | Major Health Elixir | 21 | Gems | SecretShop.Page04.UnderworldTrader.86 |
+| 10 | Major Strength Elixir | 42500 | Gold | SecretShop.Page04.Elixir.24 |
 | 10 | Major Strength Elixir | 25 | Gems | SecretShop.Page04.Elixir.29 |
-| 2 | Mana Elixir | 70 | Gems | SecretShop.Page04.UnderworldTrader.88 |
-| 30 | Minor Strength Elixir | 3400 | Gold | SecretShop.Page04.Elixir.25 |
-| 15 | Minor Strength Elixir | 4 | Gems | SecretShop.Page04.UnderworldTrader.90 |
 | 15 | Minor Strength Elixir | 2800 | Gold | SecretShop.Page04.UnderworldTraderGold.15 |
-| 1 | Nature Essence | 0 | Gems | SecretShop.Page04.Free.45 |
-| 2 | Nature Essence | 170 | Gems | SecretShop.Page04.Reagent.87 |
+| 1 | Nature Essence | 255000 | Gold | SecretShop.Page04.Reagent.72 |
+| 1 | Nature Essence | 170 | Gems | SecretShop.Page04.Shard.29 |
+| 1 | Planet's Core Map | 280 | Gems | SecretShop.Page04.UnderworldTrader.81 |
 | 30 | Power Source | 1500 | Gold | SecretShop.Page04.UnderworldTraderGold.11 |
-| 1 | Proximity Locator | 300000 | Gold | SecretShop.Page04.Misc.21 |
 | 2 | RxT Parts | 50000 | Gold | SecretShop.Page04.Misc.29 |
+| 2 | Water Essence | 0 | Gems | SecretShop.Page04.Free.50 |
 | 2 | Water Essence | 170 | Gems | SecretShop.Page04.Reagent.80 |
+| 1 | Water Essence | 255000 | Gold | SecretShop.Page04.Shard.25 |
+| 1 | Water Essence | 170 | Gems | SecretShop.Page04.UnderworldTrader.72 |
 | 1 | Water Essence | 140 | Gems | SecretShop.Page04.UnderworldTrader.74 |
