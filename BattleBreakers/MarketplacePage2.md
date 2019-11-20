@@ -15,7 +15,7 @@
 | 15 | Power Source | 2500 | Gold | Marketplace.L10.Page02.PowerSource.05 |
 | 20 | Power Source | 2500 | Gold | Marketplace.L15.Page02.PowerSource.08 |
 | 15 | Power Source | 0 | Gold | Marketplace.L20.Page02.Free.109 |
-| 3 | TK_HolyKnight_VR1_Water_Flood_T04 | 0 | Gold | Marketplace.L01.Page2.VIP5.FreeBonus.49 |
+| 3 | Shard: Dryden | 0 | Gold | Marketplace.L01.Page2.VIP5.FreeBonus.49 |
 | 3 | Treasure Maps | 20000 | Gold | Marketplace.L03.Page02.MapFragments.02 |
 | 5 | Treasure Maps | 20000 | Gold | Marketplace.L07.Page02.MapFragments.06 |
 | 7 | Treasure Maps | 20000 | Gold | Marketplace.L11.Page02.TreasureMap.02 |

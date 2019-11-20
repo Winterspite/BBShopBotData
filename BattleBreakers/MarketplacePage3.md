@@ -11,9 +11,9 @@
 | 20 | Power Source | 2500 | Gold | Marketplace.L15.Page03.PowerSource.09 |
 | 1 | Proximity Locator | 300000 | Gold | Marketplace.L18.Page03.Hero.09 |
 | 2 | Reagent_SupplyPoints_Elite | 100000 | Gold | Marketplace.L06.Page03.Token.21 |
+| 3 | Shard: Kain | 0 | Gold | Marketplace.L01.Page3.VIP5.FreeBonus.83 |
 | 4 | Skill XP | 10000 | Gold | Marketplace.L13.Page03.MapsMisc.32 |
 | 3 | TK_MartialArtist_VR1_Nature_EarthenWall_T04 | 0 | Gold | Marketplace.L20.Page03.Free.122 |
-| 3 | TK_SpiritWarrior_VR1_Fire_BlazingPalm_T04 | 0 | Gold | Marketplace.L01.Page3.VIP5.FreeBonus.83 |
 | 4 | Treasure Maps | 0 | Gold | Marketplace.L01.Page03.Free.21 |
 | 3 | Treasure Maps | 20000 | Gold | Marketplace.L03.Page03.MapFragments.03 |
 | 7 | Treasure Maps | 10 | Gems | Marketplace.L07.Page03.MapFragments.09 |
