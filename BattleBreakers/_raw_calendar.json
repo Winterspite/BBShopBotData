@@ -3,7 +3,7 @@
     "news": {
       "states": [
         {
-          "validFrom": "2019-11-23T20:31:37.578Z",
+          "validFrom": "2019-11-23T20:31:34.040Z",
           "activeEvents": [
 
           ],
@@ -32,12 +32,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-23T22:31:37.578Z"
+      "cacheExpire": "2019-11-23T22:31:34.040Z"
     },
     "marketing": {
       "states": [
         {
-          "validFrom": "2019-11-23T20:31:37.578Z",
+          "validFrom": "2019-11-23T20:31:34.040Z",
           "activeEvents": [
 
           ],
@@ -46,12 +46,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-23T22:31:37.578Z"
+      "cacheExpire": "2019-11-23T22:31:34.040Z"
     },
     "rotational-content": {
       "states": [
         {
-          "validFrom": "2019-11-23T20:31:37.578Z",
+          "validFrom": "2019-11-23T20:31:34.040Z",
           "activeEvents": [
 
           ],
@@ -346,12 +346,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-23T22:31:37.578Z"
+      "cacheExpire": "2019-11-23T22:31:34.040Z"
     },
     "featured-stores-mcp": {
       "states": [
         {
-          "validFrom": "2019-11-23T20:31:37.578Z",
+          "validFrom": "2019-11-23T20:31:34.040Z",
           "activeEvents": [
 
           ],
@@ -364,12 +364,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-23T22:31:37.578Z"
+      "cacheExpire": "2019-11-23T22:31:34.040Z"
     },
     "weekly-challenge": {
       "states": [
         {
-          "validFrom": "2019-11-23T20:31:37.578Z",
+          "validFrom": "2019-11-23T20:31:34.040Z",
           "activeEvents": [
 
           ],
@@ -543,12 +543,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-23T22:31:37.578Z"
+      "cacheExpire": "2019-11-23T22:31:34.040Z"
     },
     "battlepass": {
       "states": [
         {
-          "validFrom": "2019-11-23T20:31:37.578Z",
+          "validFrom": "2019-11-23T20:31:34.040Z",
           "activeEvents": [
 
           ],
@@ -558,10 +558,10 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-23T22:31:37.578Z"
+      "cacheExpire": "2019-11-23T22:31:34.040Z"
     }
   },
   "eventsTimeOffsetHrs": 0.0,
   "cacheIntervalMins": 15.0,
-  "currentTime": "2019-11-23T20:54:49.748Z"
+  "currentTime": "2019-11-23T20:55:18.483Z"
 }
