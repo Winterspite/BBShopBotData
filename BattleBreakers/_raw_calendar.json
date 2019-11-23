@@ -3,7 +3,7 @@
     "news": {
       "states": [
         {
-          "validFrom": "2019-11-23T11:33:57.844Z",
+          "validFrom": "2019-11-23T19:48:58.533Z",
           "activeEvents": [
 
           ],
@@ -32,12 +32,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-23T13:33:57.844Z"
+      "cacheExpire": "2019-11-23T21:48:58.533Z"
     },
     "marketing": {
       "states": [
         {
-          "validFrom": "2019-11-23T11:33:57.844Z",
+          "validFrom": "2019-11-23T19:48:58.533Z",
           "activeEvents": [
 
           ],
@@ -46,12 +46,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-23T13:33:57.844Z"
+      "cacheExpire": "2019-11-23T21:48:58.533Z"
     },
     "rotational-content": {
       "states": [
         {
-          "validFrom": "2019-11-23T11:33:57.844Z",
+          "validFrom": "2019-11-23T19:48:58.533Z",
           "activeEvents": [
 
           ],
@@ -328,20 +328,6 @@
                 "dynamicWorldLevel": -1,
                 "expiresAt": "2019-11-24T00:00:00Z",
                 "eventKey": "CSVConvertbd4d7067f9b7c9cbc13f2f546070b64a[0]0+1"
-              },
-              {
-                "sortPriority": 101,
-                "zoneId": "Zone.Event.NinjasAttack.Beard.Map1",
-                "maxRuns": 5,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "2018_1",
-                "dynamicTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2019-11-23T15:00:00Z",
-                "eventKey": "CSVConvertcaa11f3dfa8ae967d3983ce317204e75[0]0+0"
               }
             ],
             "activeEvents": [
@@ -360,12 +346,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-23T13:33:57.844Z"
+      "cacheExpire": "2019-11-23T21:48:58.533Z"
     },
     "featured-stores-mcp": {
       "states": [
         {
-          "validFrom": "2019-11-23T11:33:57.844Z",
+          "validFrom": "2019-11-23T19:48:58.533Z",
           "activeEvents": [
 
           ],
@@ -378,12 +364,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-23T13:33:57.844Z"
+      "cacheExpire": "2019-11-23T21:48:58.533Z"
     },
     "weekly-challenge": {
       "states": [
         {
-          "validFrom": "2019-11-23T11:33:57.844Z",
+          "validFrom": "2019-11-23T19:48:58.533Z",
           "activeEvents": [
 
           ],
@@ -557,12 +543,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-23T13:33:57.844Z"
+      "cacheExpire": "2019-11-23T21:48:58.533Z"
     },
     "battlepass": {
       "states": [
         {
-          "validFrom": "2019-11-23T11:33:57.844Z",
+          "validFrom": "2019-11-23T19:48:58.533Z",
           "activeEvents": [
 
           ],
@@ -572,10 +558,10 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-23T13:33:57.844Z"
+      "cacheExpire": "2019-11-23T21:48:58.533Z"
     }
   },
   "eventsTimeOffsetHrs": 0.0,
   "cacheIntervalMins": 15.0,
-  "currentTime": "2019-11-23T12:01:45.307Z"
+  "currentTime": "2019-11-23T20:13:41.623Z"
 }
