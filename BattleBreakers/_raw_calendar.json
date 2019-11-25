@@ -3,7 +3,7 @@
     "news": {
       "states": [
         {
-          "validFrom": "2019-11-25T13:23:34.117Z",
+          "validFrom": "2019-11-25T13:34:17.319Z",
           "activeEvents": [
 
           ],
@@ -32,12 +32,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-25T15:23:34.117Z"
+      "cacheExpire": "2019-11-25T15:34:17.319Z"
     },
     "marketing": {
       "states": [
         {
-          "validFrom": "2019-11-25T13:23:34.117Z",
+          "validFrom": "2019-11-25T13:34:17.319Z",
           "activeEvents": [
 
           ],
@@ -46,12 +46,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-25T15:23:34.117Z"
+      "cacheExpire": "2019-11-25T15:34:17.319Z"
     },
     "rotational-content": {
       "states": [
         {
-          "validFrom": "2019-11-25T13:23:34.117Z",
+          "validFrom": "2019-11-25T13:34:17.319Z",
           "activeEvents": [
 
           ],
@@ -253,7 +253,7 @@
               },
               {
                 "sortPriority": -100,
-                "zoneId": "Zone.Event.BossChallenge.RareMine.Map1",
+                "zoneId": "Zone.Event.BossChallenge.PowerSources.Map1",
                 "maxRuns": 1,
                 "resetCostMtx": 0,
                 "flags": [
@@ -413,12 +413,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-25T15:23:34.117Z"
+      "cacheExpire": "2019-11-25T15:34:17.319Z"
     },
     "featured-stores-mcp": {
       "states": [
         {
-          "validFrom": "2019-11-25T13:23:34.117Z",
+          "validFrom": "2019-11-25T13:34:17.319Z",
           "activeEvents": [
 
           ],
@@ -431,12 +431,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-25T15:23:34.117Z"
+      "cacheExpire": "2019-11-25T15:34:17.319Z"
     },
     "weekly-challenge": {
       "states": [
         {
-          "validFrom": "2019-11-25T13:23:34.117Z",
+          "validFrom": "2019-11-25T13:34:17.319Z",
           "activeEvents": [
 
           ],
@@ -624,12 +624,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-25T15:23:34.117Z"
+      "cacheExpire": "2019-11-25T15:34:17.319Z"
     },
     "battlepass": {
       "states": [
         {
-          "validFrom": "2019-11-25T13:23:34.117Z",
+          "validFrom": "2019-11-25T13:34:17.319Z",
           "activeEvents": [
 
           ],
@@ -639,10 +639,10 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-25T15:23:34.117Z"
+      "cacheExpire": "2019-11-25T15:34:17.319Z"
     }
   },
   "eventsTimeOffsetHrs": 0.0,
   "cacheIntervalMins": 15.0,
-  "currentTime": "2019-11-25T13:44:50.586Z"
+  "currentTime": "2019-11-25T14:03:33.835Z"
 }
