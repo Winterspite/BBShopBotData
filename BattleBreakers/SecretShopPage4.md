@@ -21,7 +21,7 @@
 | 30 | Power Source | 1500 | Gold | SecretShop.Page04.UnderworldTraderGold.11 |
 | 1 | Proximity Locator | 300000 | Gold | SecretShop.Page04.Misc.21 |
 | 2 | RxT Parts | 50000 | Gold | SecretShop.Page04.Misc.29 |
-| 1 | Silver Hero Crystal | 2975000 | Gold | SecretShop.Page04.UnderworldTrader.64 |
+| 1 | Silver Hero Crystal | 2975000 | Gold | SecretShop.Page04.VIP3.64 |
 | 2 | Water Essence | 0 | Gems | SecretShop.Page04.Free.50 |
 | 1 | Water Essence | 255000 | Gold | SecretShop.Page04.Shard.25 |
 | 1 | Water Essence | 140 | Gems | SecretShop.Page04.UnderworldTrader.74 |
