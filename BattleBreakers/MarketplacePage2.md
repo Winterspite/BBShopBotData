@@ -1,5 +1,5 @@
-| Quantity | Title | Price | Currency |  Dev Name |
-| -------- | ----- | ----- | -------- |  -------- |
+| Quantity | Title | Price | Currency |  Requirement |
+| -------- | ----- | ----- | -------- |  ----------- |
 | 5 | Core Hero Traces | 35000 | Gold | Marketplace Level 06 |
 | 1 | Core Hero Traces | 3500000 | Gold | Marketplace Level 18 |
 | 2 | Dark Essence | 200 | Gems | Marketplace Level 12 |

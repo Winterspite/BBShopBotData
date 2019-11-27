@@ -1,5 +1,5 @@
-| Quantity | Title | Price | Currency |  Dev Name |
-| -------- | ----- | ----- | -------- |  -------- |
+| Quantity | Title | Price | Currency |  Requirement |
+| -------- | ----- | ----- | -------- |  ----------- |
 | 1 | Buried in the Desert Map | 170000 | Gold |  |
 | 1 | Dark Essence | 170 | Gems |  |
 | 1 | Diving for Treasure Map | 0 | Gold |  |

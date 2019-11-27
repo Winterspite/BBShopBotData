@@ -1,5 +1,5 @@
-| Quantity | Title | Price | Currency |  Dev Name |
-| -------- | ----- | ----- | -------- |  -------- |
+| Quantity | Title | Price | Currency |  Requirement |
+| -------- | ----- | ----- | -------- |  ----------- |
 | Unlimited | Building Upgrade | 1 | Loyalty Points |  |
 | Unlimited | Ceremonial Armor | 25 | Loyalty Points |  |
 | Unlimited | Ceremonial Shield | 7 | Loyalty Points |  |

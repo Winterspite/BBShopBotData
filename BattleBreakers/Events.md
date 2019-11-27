@@ -1,5 +1,5 @@
-| Quantity | Title | Price | Currency |  Dev Name |
-| -------- | ----- | ----- | -------- |  -------- |
+| Quantity | Title | Price | Currency |  Requirement |
+| -------- | ----- | ----- | -------- |  ----------- |
 | Unlimited | Ceremonial Sword | 3750 | Ninja Stars |  |
 | Unlimited | Dark Essence | 2250 | Ninja Stars |  |
 | Unlimited | Dark Hero Crystal | 12000 | Ninja Stars |  |

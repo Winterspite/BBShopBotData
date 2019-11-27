@@ -1,5 +1,5 @@
-| Quantity | Title | Price | Currency |  Dev Name |
-| -------- | ----- | ----- | -------- |  -------- |
+| Quantity | Title | Price | Currency |  Requirement |
+| -------- | ----- | ----- | -------- |  ----------- |
 | 1 | Build Random Item | 0 | Other | Marketplace Level 01 |
 | 1 | Build Random Item | 50 | Other | Marketplace Level 03 |
 | 2 | Build Random Item | 50 | Other | Marketplace Level 05 |

@@ -1,5 +1,5 @@
-| Quantity | Title | Price | Currency |  Dev Name |
-| -------- | ----- | ----- | -------- |  -------- |
+| Quantity | Title | Price | Currency |  Requirement |
+| -------- | ----- | ----- | -------- |  ----------- |
 | Unlimited |  | 100 | Gems |  |
 | Unlimited |  | 600 | Gems |  |
 | Unlimited |  | 650 | Gems |  |

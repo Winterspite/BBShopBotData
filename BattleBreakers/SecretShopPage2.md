@@ -1,5 +1,5 @@
-| Quantity | Title | Price | Currency |  Dev Name |
-| -------- | ----- | ----- | -------- |  -------- |
+| Quantity | Title | Price | Currency |  Requirement |
+| -------- | ----- | ----- | -------- |  ----------- |
 | 1 | Castle Treasury Map | 140 | Gems | VIP Pack 3 Required |
 | 1 | Ceremonial Sword | 1000000 | Gold |  |
 | 1 | Dark Essence | 170 | Gems |  |

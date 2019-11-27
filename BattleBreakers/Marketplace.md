@@ -1,5 +1,5 @@
-| Quantity | Title | Price | Currency |  Dev Name |
-| -------- | ----- | ----- | -------- |  -------- |
+| Quantity | Title | Price | Currency |  Requirement |
+| -------- | ----- | ----- | -------- |  ----------- |
 | 6 | Core Hero Traces | 35000 | Gold | Marketplace Level 06 |
 | 1 | Fire Essence | 0 | Gold | Marketplace Level 08 |
 | 1 | Fire Essence | 300000 | Gold | Marketplace Level 12 |

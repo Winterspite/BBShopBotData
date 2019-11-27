@@ -1,5 +1,5 @@
-| Quantity | Title | Price | Currency |  Dev Name |
-| -------- | ----- | ----- | -------- |  -------- |
+| Quantity | Title | Price | Currency |  Requirement |
+| -------- | ----- | ----- | -------- |  ----------- |
 | Unlimited | Assassin_R2_Nature_Slasher_T03 | 20 | WCCoins |  |
 | Unlimited | Ceremonial Sword | 10 | WCCoins |  |
 | Unlimited | Core Hero Traces | 50 | WCCoins |  |

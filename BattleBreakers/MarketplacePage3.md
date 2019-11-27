@@ -1,5 +1,5 @@
-| Quantity | Title | Price | Currency |  Dev Name |
-| -------- | ----- | ----- | -------- |  -------- |
+| Quantity | Title | Price | Currency |  Requirement |
+| -------- | ----- | ----- | -------- |  ----------- |
 | 1 | Buried in the Desert Map | 200 | Gems | Marketplace Level 13 |
 | 6 | Core Hero Traces | 35000 | Gold | Marketplace Level 06 |
 | 2 | Dark Essence | 300000 | Gold | Marketplace Level 17 |

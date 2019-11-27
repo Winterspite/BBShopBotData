@@ -1,5 +1,5 @@
-| Quantity | Title | Price | Currency |  Dev Name |
-| -------- | ----- | ----- | -------- |  -------- |
+| Quantity | Title | Price | Currency |  Requirement |
+| -------- | ----- | ----- | -------- |  ----------- |
 | Unlimited | Blademaster_VR1_Water_BladeStorm_T04 | 2000 | Magic Tickets |  |
 | 1 | Chocolate Cloudpuff | 800 | Cloudpuff Cookies |  |
 | 1 | Chocolate Cloudpuff | 800 | Cloudpuff Cookies |  |

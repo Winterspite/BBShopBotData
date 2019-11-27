@@ -1,5 +1,5 @@
-| Quantity | Title | Price | Currency |  Dev Name |
-| -------- | ----- | ----- | -------- |  -------- |
+| Quantity | Title | Price | Currency |  Requirement |
+| -------- | ----- | ----- | -------- |  ----------- |
 | Unlimited | +1 Team Slot | 150 | Gems |  |
 | Unlimited | +5 Hero Inventory | 75 | Gems |  |
 | 1 | 12hr Basic Chest | 75 | Gems |  |
