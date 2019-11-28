@@ -61,6 +61,7 @@
 | Unlimited | Nature Hero | 1 | Voucher_HeroSilver_Nature |  |
 | Unlimited | Rare Meeg Crystal | 1 | Voucher_HeroMeegRare |  |
 | Unlimited | Silver Hero | 1 | Voucher_HeroSilver |  |
+| 1 | Special Meeg Chest | 3000 | Gems |  |
 | 1 | Super Magic Chest | 5000 | Gems | Marketplace Level 100000 |
 | 1 | Super Magic Chest | 5000 | Gems | Marketplace Level 115000 |
 | 1 | Super Magic Chest | 5000 | Gems | Marketplace Level 130000 |
@@ -91,7 +92,6 @@
 | 1 | Super Magic Chest | 5000 | Gems | Marketplace Level 570000 |
 | 1 | Super Magic Chest | 5000 | Gems | Marketplace Level 65000 |
 | 1 | Super Magic Chest | 5000 | Gems | Marketplace Level 80000 |
-| 2 | Super Nature Evo Bundle | 1800 | Gems |  |
 | 1 | Support Gift 1 | 0 | Gems | Marketplace Level 1000 |
 | 1 | Support Gift 10 | 0 | Gems | Marketplace Level 45000 |
 | 1 | Support Gift 100 | 0 | Gems | Marketplace Level 890000 |
