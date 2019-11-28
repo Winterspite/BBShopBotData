@@ -15,9 +15,9 @@
 | 12 | Build Random Item | 50 | Other | Marketplace Level 26 |
 | 13 | Build Random Item | 50 | Other | Marketplace Level 28 |
 | 14 | Build Random Item | 50 | Other | Marketplace Level 30 |
+| Unlimited | Building Upgrade | 200 | Other | Marketplace Level 07 |
 | Unlimited | Building Upgrade | 10 | Ore_Magicite | Marketplace Level 07 |
 | 1 | Building Upgrade | 100 | Other | Marketplace Level 07 |
-| Unlimited | Building Upgrade | 200 | Other | Marketplace Level 07 |
 | 2 | Building Upgrade | 100 | Other | Marketplace Level 08 |
 | 3 | Building Upgrade | 100 | Other | Marketplace Level 10 |
 | 4 | Building Upgrade | 100 | Other | Marketplace Level 12 |
@@ -34,38 +34,38 @@
 | Unlimited | Pet_R1_Rockbeast_Light_T03 | 1 | Reagent_Pet_Rockbeast | Marketplace Level 01 |
 | Unlimited | Pet_R1_Rockbeast_Nature_T03 | 1 | Reagent_Pet_Rockbeast | Marketplace Level 01 |
 | Unlimited | Pet_R1_Rockbeast_Water_T03 | 1 | Reagent_Pet_Rockbeast | Marketplace Level 01 |
-| 1 | Reagent_ClassTraining_Agility | 5 | Reagent_Misc_ShadowEssence |  |
 | 1 | Reagent_ClassTraining_Agility | 4 | Reagent_Misc_ShadowEssence |  |
+| 1 | Reagent_ClassTraining_Agility | 5 | Reagent_Misc_ShadowEssence |  |
 | 1 | Reagent_ClassTraining_Agility | 3 | Reagent_Misc_ShadowEssence |  |
 | 1 | Reagent_ClassTraining_Agility | 5 | Reagent_Misc_ShadowEssence |  |
 | 1 | Reagent_ClassTraining_Agility | 4 | Reagent_Misc_ShadowEssence |  |
 | 1 | Reagent_ClassTraining_Agility | 4 | Reagent_Misc_ShadowEssence |  |
 | 1 | Reagent_ClassTraining_Agility | 2 | Reagent_Misc_ShadowEssence |  |
 | 1 | Reagent_ClassTraining_Agility | 1 | Reagent_Misc_ShadowEssence |  |
-| 1 | Reagent_ClassTraining_Endurance | 5 | Reagent_Misc_ShadowEssence |  |
+| 1 | Reagent_ClassTraining_Endurance | 3 | Reagent_Misc_ShadowEssence |  |
+| 1 | Reagent_ClassTraining_Endurance | 4 | Reagent_Misc_ShadowEssence |  |
 | 1 | Reagent_ClassTraining_Endurance | 2 | Reagent_Misc_ShadowEssence |  |
+| 1 | Reagent_ClassTraining_Endurance | 5 | Reagent_Misc_ShadowEssence |  |
+| 1 | Reagent_ClassTraining_Endurance | 4 | Reagent_Misc_ShadowEssence |  |
 | 1 | Reagent_ClassTraining_Endurance | 4 | Reagent_Misc_ShadowEssence |  |
 | 1 | Reagent_ClassTraining_Endurance | 1 | Reagent_Misc_ShadowEssence |  |
 | 1 | Reagent_ClassTraining_Endurance | 5 | Reagent_Misc_ShadowEssence |  |
-| 1 | Reagent_ClassTraining_Endurance | 4 | Reagent_Misc_ShadowEssence |  |
-| 1 | Reagent_ClassTraining_Endurance | 3 | Reagent_Misc_ShadowEssence |  |
-| 1 | Reagent_ClassTraining_Endurance | 4 | Reagent_Misc_ShadowEssence |  |
-| 1 | Reagent_ClassTraining_Insight | 5 | Reagent_Misc_ShadowEssence |  |
 | 1 | Reagent_ClassTraining_Insight | 1 | Reagent_Misc_ShadowEssence |  |
 | 1 | Reagent_ClassTraining_Insight | 5 | Reagent_Misc_ShadowEssence |  |
+| 1 | Reagent_ClassTraining_Insight | 4 | Reagent_Misc_ShadowEssence |  |
+| 1 | Reagent_ClassTraining_Insight | 5 | Reagent_Misc_ShadowEssence |  |
+| 1 | Reagent_ClassTraining_Insight | 2 | Reagent_Misc_ShadowEssence |  |
 | 1 | Reagent_ClassTraining_Insight | 3 | Reagent_Misc_ShadowEssence |  |
 | 1 | Reagent_ClassTraining_Insight | 4 | Reagent_Misc_ShadowEssence |  |
 | 1 | Reagent_ClassTraining_Insight | 4 | Reagent_Misc_ShadowEssence |  |
-| 1 | Reagent_ClassTraining_Insight | 4 | Reagent_Misc_ShadowEssence |  |
-| 1 | Reagent_ClassTraining_Insight | 2 | Reagent_Misc_ShadowEssence |  |
-| 1 | Reagent_ClassTraining_Strength | 3 | Reagent_Misc_ShadowEssence |  |
 | 1 | Reagent_ClassTraining_Strength | 5 | Reagent_Misc_ShadowEssence |  |
-| 1 | Reagent_ClassTraining_Strength | 4 | Reagent_Misc_ShadowEssence |  |
-| 1 | Reagent_ClassTraining_Strength | 2 | Reagent_Misc_ShadowEssence |  |
 | 1 | Reagent_ClassTraining_Strength | 4 | Reagent_Misc_ShadowEssence |  |
 | 1 | Reagent_ClassTraining_Strength | 4 | Reagent_Misc_ShadowEssence |  |
 | 1 | Reagent_ClassTraining_Strength | 1 | Reagent_Misc_ShadowEssence |  |
+| 1 | Reagent_ClassTraining_Strength | 3 | Reagent_Misc_ShadowEssence |  |
+| 1 | Reagent_ClassTraining_Strength | 4 | Reagent_Misc_ShadowEssence |  |
 | 1 | Reagent_ClassTraining_Strength | 5 | Reagent_Misc_ShadowEssence |  |
+| 1 | Reagent_ClassTraining_Strength | 2 | Reagent_Misc_ShadowEssence |  |
 | 1 | Rocket Fuel | 50 | Other |  |
 | 1 | Starter Pets | 12 | Other | Marketplace Level 01 |
 | Unlimited | Warrior_SR2_Dark_RoboGuy_T05 | 100 | Reagent_RXT_Parts_Small | Marketplace Level 01 |

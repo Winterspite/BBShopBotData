@@ -1,6 +1,6 @@
 | Quantity | Title | Price | Currency |  Requirement |
 | -------- | ----- | ----- | -------- |  ----------- |
-| Unlimited |  | 100 | Gems |  |
+| 1 |  | 50 | Gems |  |
 | Unlimited |  | 600 | Gems |  |
 | Unlimited |  | 650 | Gems |  |
 | 5 |  | 100 | Gems |  |
@@ -27,4 +27,4 @@
 | 1 |  | 75 | Gems |  |
 | Unlimited |  | 250 | Gems |  |
 | 1 |  | 0 | Gems |  |
-| 1 |  | 50 | Gems |  |
+| Unlimited |  | 100 | Gems |  |

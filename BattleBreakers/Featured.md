@@ -2,26 +2,25 @@
 | -------- | ----- | ----- | -------- |  ----------- |
 | Unlimited | +1 Team Slot | 150 | Gems |  |
 | Unlimited | +5 Hero Inventory | 75 | Gems |  |
-| 1 | 12hr Basic Chest | 75 | Gems |  |
-| 1 | 12hr Basic Chest | 50 | Gems |  |
 | 1 | 12hr Basic Chest | 25 | Gems |  |
 | 1 | 12hr Basic Chest | 0 | Gems |  |
+| 1 | 12hr Basic Chest | 75 | Gems |  |
+| 1 | 12hr Basic Chest | 50 | Gems |  |
 | 1 | 12hr Elemental Heroes | 350 | Gems |  |
 | 1 | 12hr Treasure Hunt | 0 | Gold |  |
 | 1 | Basic Chest | 100 | Gems |  |
-| Unlimited | Battle Breaker Collection | 0 | RealMoney |  |
 | Unlimited | Battle Breaker Collection | 0 | Gems |  |
+| Unlimited | Battle Breaker Collection | 0 | RealMoney |  |
 | Unlimited | Battle Hero | 1 | Voucher_HeroBattle |  |
 | Unlimited | Battle Pass | 0 | Gems |  |
 | Unlimited | Battle Pass | 0 | RealMoney |  |
-| 2 | Dark Evo Bundle | 500 | Gems |  |
 | Unlimited | Dark Hero | 1 | Voucher_HeroSilver_Dark |  |
 | Unlimited | Diamond Hero | 1 | Voucher_HeroDiamond |  |
 | Unlimited | Drake | 1 | Voucher_Hero_Mage_Fire_BurningSword |  |
-| 1 | Elemental Heroes | 500 | Gems |  |
-| 1 | Elemental Heroes | 500 | Gems |  |
-| 1 | Elemental Heroes | 500 | Gems |  |
 | Unlimited | Elemental Heroes | 500 | Gems |  |
+| 1 | Elemental Heroes | 500 | Gems |  |
+| 1 | Elemental Heroes | 500 | Gems |  |
+| 1 | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
@@ -54,8 +53,8 @@
 | 1 | Level-Up Pack | 0 | RealMoney |  |
 | Unlimited | Light Hero | 1 | Voucher_HeroSilver_Light |  |
 | Unlimited | Magic Chest | 1 | Voucher_Chest_Gold |  |
-| Unlimited | Master of the Hoard | 0 | RealMoney |  |
 | Unlimited | Master of the Hoard | 0 | Gems |  |
+| Unlimited | Master of the Hoard | 0 | RealMoney |  |
 | Unlimited | Meeg Crystal | 1 | Voucher_HeroMeeg |  |
 | Unlimited | Mega Magic Chest | 2000 | Gems |  |
 | Unlimited | Mining Crystal | 1 | Voucher_Hero_Mine |  |
@@ -92,6 +91,7 @@
 | 1 | Super Magic Chest | 5000 | Gems | Marketplace Level 570000 |
 | 1 | Super Magic Chest | 5000 | Gems | Marketplace Level 65000 |
 | 1 | Super Magic Chest | 5000 | Gems | Marketplace Level 80000 |
+| 2 | Super Nature Evo Bundle | 1800 | Gems |  |
 | 1 | Support Gift 1 | 0 | Gems | Marketplace Level 1000 |
 | 1 | Support Gift 10 | 0 | Gems | Marketplace Level 45000 |
 | 1 | Support Gift 100 | 0 | Gems | Marketplace Level 890000 |
@@ -203,13 +203,13 @@
 | 1 | Support Gift 97 | 0 | Gems | Marketplace Level 860000 |
 | 1 | Support Gift 98 | 0 | Gems | Marketplace Level 870000 |
 | 1 | Support Gift 99 | 0 | Gems | Marketplace Level 880000 |
-| Unlimited | Treasure Hunter Collection | 0 | RealMoney |  |
 | Unlimited | Treasure Hunter Collection | 0 | Gems |  |
+| Unlimited | Treasure Hunter Collection | 0 | RealMoney |  |
 | Unlimited | TreasureHunter_R2_Fire_PowerEfflux_T03 | 1 | Voucher_Hero_TreasureHunter_Fire_PowerEfflux |  |
 | Unlimited | TreasureHunter_R2_Nature_PowerEfflux_T03 | 1 | Voucher_Hero_TreasureHunter_Nature_PowerEfflux |  |
 | Unlimited | TreasureHunter_R2_Water_PowerEfflux_T03 | 1 | Voucher_Hero_TreasureHunter_Water_PowerEfflux |  |
 | Unlimited | Underworld Trader Collection | 0 | RealMoney |  |
 | Unlimited | Underworld Trader Collection | 0 | Gems |  |
-| Unlimited | Unwavering Guardian Collection | 0 | RealMoney |  |
 | Unlimited | Unwavering Guardian Collection | 0 | Gems |  |
+| Unlimited | Unwavering Guardian Collection | 0 | RealMoney |  |
 | Unlimited | Water Hero | 1 | Voucher_HeroSilver_Water |  |

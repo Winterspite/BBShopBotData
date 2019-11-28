@@ -8,8 +8,8 @@
 | Unlimited | Gems | 80 | Ninja Stars |  |
 | Unlimited | Guan Yu, God of War | 100 | Ninja Whetstones |  |
 | Unlimited | Hero XP | 5000 | Ninja Stars |  |
-| Unlimited | Magic Chest | 20000 | Ninja Stars |  |
 | Unlimited | Magic Chest | 15000 | Ninja Stars |  |
+| Unlimited | Magic Chest | 20000 | Ninja Stars |  |
 | Unlimited | Major Health Elixir | 250 | Ninja Stars |  |
 | Unlimited | Major Strength Elixir | 250 | Ninja Stars |  |
 | Unlimited | Mana Elixir | 2000 | Ninja Stars |  |

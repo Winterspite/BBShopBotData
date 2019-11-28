@@ -3,7 +3,7 @@
     "news": {
       "states": [
         {
-          "validFrom": "2019-11-27T13:00:34.545Z",
+          "validFrom": "2019-11-27T23:37:10.164Z",
           "activeEvents": [
 
           ],
@@ -32,12 +32,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-27T15:00:34.545Z"
+      "cacheExpire": "2019-11-28T01:37:10.164Z"
     },
     "marketing": {
       "states": [
         {
-          "validFrom": "2019-11-27T13:00:34.545Z",
+          "validFrom": "2019-11-27T23:37:10.164Z",
           "activeEvents": [
 
           ],
@@ -46,12 +46,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-27T15:00:34.545Z"
+      "cacheExpire": "2019-11-28T01:37:10.164Z"
     },
     "rotational-content": {
       "states": [
         {
-          "validFrom": "2019-11-27T13:00:34.545Z",
+          "validFrom": "2019-11-27T23:37:10.164Z",
           "activeEvents": [
 
           ],
@@ -213,7 +213,7 @@
               },
               {
                 "sortPriority": -100,
-                "zoneId": "Zone.Event.BossChallenge.RareMine.Map1",
+                "zoneId": "Zone.Event.BossChallenge.PowerSources.Map1",
                 "maxRuns": 1,
                 "resetCostMtx": 0,
                 "flags": [
@@ -411,14 +411,376 @@
             "heroStoreEnd": "2019-12-02T00:00:00.000Z",
             "purchasingEventId": "2018_1"
           }
+        },
+        {
+          "validFrom": "2019-11-28T00:00:00.000Z",
+          "activeEvents": [
+
+          ],
+          "state": {
+            "activeZones": [
+              {
+                "sortPriority": 800,
+                "zoneId": "Zone.Event.GrandArena.Aux.Battleford.Map1",
+                "maxRuns": -1,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "Event.GrandArena",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2020-01-01T00:00:00Z",
+                "eventKey": "7nljvh3bmg5kpakoj7g3960jtf[0]0+0"
+              },
+              {
+                "sortPriority": 800,
+                "zoneId": "Zone.Pvp.Sparring1.Map1",
+                "maxRuns": -1,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "Event.GrandArena",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2020-01-01T00:00:00Z",
+                "eventKey": "7nljvh3bmg5kpakoj7g3960jtf[1]0+0"
+              },
+              {
+                "sortPriority": 98,
+                "zoneId": "Zone.Event.NinjasAttack.Map4",
+                "maxRuns": -1,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "2018_1",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2019-12-09T00:00:00Z",
+                "eventKey": "CSVConvert81cff6be598f5c0f488b66b9cb840584[0]0+0"
+              },
+              {
+                "sortPriority": 96,
+                "zoneId": "Zone.Event.NinjasAttack.Dojo.Map1",
+                "maxRuns": -1,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "2018_1",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2019-12-09T00:00:00Z",
+                "eventKey": "CSVConvert81cff6be598f5c0f488b66b9cb840584[0]0+1"
+              },
+              {
+                "sortPriority": 96,
+                "zoneId": "Zone.Event.NinjasAttack.FourMasters.Knife.Map1",
+                "maxRuns": -1,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "2018_1",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2019-12-09T00:00:00Z",
+                "eventKey": "CSVConvert81cff6be598f5c0f488b66b9cb840584[0]0+2"
+              },
+              {
+                "sortPriority": 100,
+                "zoneId": "Zone.Event.NinjasAttack.Pirate.Map1",
+                "maxRuns": -1,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "2018_1",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2019-12-09T00:00:00Z",
+                "eventKey": "CSVConvertcad5c20687d9f3931e799d38ee970a85[0]0+0"
+              },
+              {
+                "sortPriority": 100,
+                "zoneId": "Zone.Event.NinjasAttack.FourMasters.Spear.Map1",
+                "maxRuns": -1,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "2018_1",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2019-12-09T00:00:00Z",
+                "eventKey": "CSVConvertcad5c20687d9f3931e799d38ee970a85[0]0+1"
+              },
+              {
+                "sortPriority": 150,
+                "zoneId": "Zone.Event.GC.MoltenPeak.Warden.Map1",
+                "maxRuns": 4,
+                "resetCostMtx": 0,
+                "flags": [
+
+                ],
+                "eventId": "Event.GC.MoltenPeak",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2019-12-02T00:00:00Z",
+                "eventKey": "6mf31qdt3qhg3l022hb3aickqh[1]0+0"
+              },
+              {
+                "sortPriority": 140,
+                "zoneId": "Zone.Event.GC.MoltenPeak.Grotto.Map1",
+                "maxRuns": 10,
+                "resetCostMtx": 0,
+                "flags": [
+
+                ],
+                "eventId": "Event.GC.MoltenPeak",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2019-12-02T00:00:00Z",
+                "eventKey": "6mf31qdt3qhg3l022hb3aickqh[1]0+1"
+              },
+              {
+                "sortPriority": 130,
+                "zoneId": "Zone.Event.GC.MoltenPeak.Descent.Map1",
+                "maxRuns": 1,
+                "resetCostMtx": 0,
+                "flags": [
+
+                ],
+                "eventId": "Event.GC.MoltenPeak",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2019-12-02T00:00:00Z",
+                "eventKey": "6mf31qdt3qhg3l022hb3aickqh[1]0+2"
+              },
+              {
+                "sortPriority": 120,
+                "zoneId": "Zone.Event.GC.MoltenPeak.Heart.Map1",
+                "maxRuns": 1,
+                "resetCostMtx": 0,
+                "flags": [
+
+                ],
+                "eventId": "Event.GC.MoltenPeak",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2019-12-02T00:00:00Z",
+                "eventKey": "6mf31qdt3qhg3l022hb3aickqh[1]0+3"
+              },
+              {
+                "sortPriority": -100,
+                "zoneId": "Zone.Event.BossChallenge.PowerSources.Map1",
+                "maxRuns": 1,
+                "resetCostMtx": 0,
+                "flags": [
+
+                ],
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2019-11-30T00:00:00Z",
+                "eventKey": "021lv6t1k5dmuuokgcr3cr1m0s[0]38+0"
+              },
+              {
+                "sortPriority": 100,
+                "zoneId": "Zone.Event.NinjasAttack.Shogun.Map1",
+                "maxRuns": -1,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "2018_1",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2019-12-16T00:00:00Z",
+                "eventKey": "CSVConverte343c74ad5111492fce19138cf38b133[0]0+0"
+              },
+              {
+                "sortPriority": 100,
+                "zoneId": "Zone.Event.NinjasAttack.Peacekeepers.Map1",
+                "maxRuns": 1,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "2018_1",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2019-12-16T00:00:00Z",
+                "eventKey": "CSVConverte343c74ad5111492fce19138cf38b133[0]0+1"
+              },
+              {
+                "sortPriority": 100,
+                "zoneId": "Zone.Event.NinjasAttack.Boiling.Map1",
+                "maxRuns": 2,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "2018_1",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2019-12-16T00:00:00Z",
+                "eventKey": "CSVConverte343c74ad5111492fce19138cf38b133[0]0+2"
+              },
+              {
+                "sortPriority": 100,
+                "zoneId": "Zone.Event.NinjasAttack.Peacekeepers.Hard.Map1",
+                "maxRuns": 2,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "2018_1",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2019-12-01T00:00:00Z",
+                "eventKey": "CSVConvertba1b6902249588647e95859b116e24c5[0]0+0"
+              },
+              {
+                "sortPriority": 150,
+                "zoneId": "Zone.Event.GC.MoltenPeak.Pit.Map1",
+                "maxRuns": 1,
+                "resetCostMtx": 0,
+                "flags": [
+
+                ],
+                "eventId": "Event.GC.MoltenPeak",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2019-11-29T00:00:00Z",
+                "eventKey": "3quipcqm0d14t7dfmf34i6hqae[0]3+0"
+              },
+              {
+                "sortPriority": 0,
+                "zoneId": "Zone.HallsOfFadedGlory.MapLight1",
+                "maxRuns": 1,
+                "resetCostMtx": 25,
+                "flags": [
+
+                ],
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2019-11-29T00:00:00Z",
+                "eventKey": "4gc32rhoebpb4e0onuplqopgjt[0]12+0"
+              },
+              {
+                "sortPriority": 0,
+                "zoneId": "Zone.HallsOfFadedGlory.MapGold1",
+                "maxRuns": 5,
+                "resetCostMtx": 100,
+                "flags": [
+
+                ],
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2019-11-29T00:00:00Z",
+                "eventKey": "6tojdi2dqvmqbeo0st5bvr919m[0]193+0"
+              },
+              {
+                "sortPriority": 100,
+                "zoneId": "Zone.Event.NinjasAttack.Brawl.Map1",
+                "maxRuns": -1,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "2018_1",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2019-11-29T00:00:00Z",
+                "eventKey": "CSVConvert5c33e3511ef2b20290b874c8e00f6609[0]0+0"
+              },
+              {
+                "sortPriority": 100,
+                "zoneId": "Zone.Event.NinjasAttack.Bloody.Map1",
+                "maxRuns": 2,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "2018_1",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2019-11-29T00:00:00Z",
+                "eventKey": "CSVConvert675b612461a5ac5243537b37124a14d5[0]0+0"
+              },
+              {
+                "sortPriority": 100,
+                "zoneId": "Zone.Event.NinjasAttack.Deal.Map1",
+                "maxRuns": 1,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "2018_1",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2019-11-29T00:00:00Z",
+                "eventKey": "CSVConvert675b612461a5ac5243537b37124a14d5[0]0+1"
+              },
+              {
+                "sortPriority": 100,
+                "zoneId": "Zone.Event.NinjasAttack.Map2",
+                "maxRuns": 3,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "2018_1",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2019-11-29T00:00:00Z",
+                "eventKey": "CSVConverte5b0bb21f112c38e30cab5a28a6c04bc[0]0+0"
+              },
+              {
+                "sortPriority": 97,
+                "zoneId": "Zone.Event.NinjasAttack.Pursuit.Map1",
+                "maxRuns": 1,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "2018_1",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2019-11-29T00:00:00Z",
+                "eventKey": "CSVConverte5b0bb21f112c38e30cab5a28a6c04bc[0]0+1"
+              }
+            ],
+            "activeEvents": [
+              {
+                "sortPriority": 999,
+                "eventAsset": "/Game/Campaign/Zones/Events/NinjasAttack/EventDef_NinjasAttack.EventDef_NinjasAttack",
+                "eventId": "2018_1",
+                "expiresAt": "2019-12-10T00:00:00Z"
+              },
+              {
+                "sortPriority": 0,
+                "eventAsset": "/Game/Campaign/Zones/Events/GroupedContent/MoltenPeak/EventDef_MoltenPeak.EventDef_MoltenPeak",
+                "eventId": "Event.GC.MoltenPeak",
+                "expiresAt": "2019-12-02T00:00:00Z"
+              }
+            ],
+            "preregRewardZones": [
+
+            ],
+            "heroStoreEnd": "2019-12-02T00:00:00.000Z",
+            "purchasingEventId": "2018_1"
+          }
         }
       ],
-      "cacheExpire": "2019-11-27T15:00:34.545Z"
+      "cacheExpire": "2019-11-28T01:37:10.164Z"
     },
     "featured-stores-mcp": {
       "states": [
         {
-          "validFrom": "2019-11-27T13:00:34.545Z",
+          "validFrom": "2019-11-27T23:37:10.164Z",
           "activeEvents": [
 
           ],
@@ -431,12 +793,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-27T15:00:34.545Z"
+      "cacheExpire": "2019-11-28T01:37:10.164Z"
     },
     "weekly-challenge": {
       "states": [
         {
-          "validFrom": "2019-11-27T13:00:34.545Z",
+          "validFrom": "2019-11-27T23:37:10.164Z",
           "activeEvents": [
 
           ],
@@ -623,14 +985,203 @@
             },
             "namedWeights": "MorrowLabs"
           }
+        },
+        {
+          "validFrom": "2019-11-28T00:00:00.000Z",
+          "activeEvents": [
+
+          ],
+          "state": {
+            "phases": [
+              {
+                "zoneId": "Zone.Event.WC.Daily.BossDuo.Map1",
+                "availabilityBegin": "2019-11-25T00:00:00.000Z",
+                "availabilityEnd": "2019-11-27T00:00:00.000Z",
+                "minAccountLevel": 1,
+                "maxAccountLevel": 2147483647,
+                "requirements": {
+                  "maxPartySize": 5,
+                  "minPartySize": 1,
+                  "requirements": [
+                    {
+                      "count": 1,
+                      "heroClass": "AnyClass",
+                      "heroElement": "Nature"
+                    },
+                    {
+                      "count": 1,
+                      "heroClass": "AnyClass",
+                      "heroElement": "Dark"
+                    }
+                  ],
+                  "excludeClasses": [
+
+                  ],
+                  "excludeElements": [
+
+                  ]
+                }
+              },
+              {
+                "zoneId": "Zone.Event.WC.Daily.SuperBoss.Map1",
+                "availabilityBegin": "2019-11-26T00:00:00.000Z",
+                "availabilityEnd": "2019-11-28T00:00:00.000Z",
+                "minAccountLevel": 1,
+                "maxAccountLevel": 2147483647,
+                "requirements": {
+                  "maxPartySize": 5,
+                  "minPartySize": 1,
+                  "requirements": [
+                    {
+                      "count": 1,
+                      "heroClass": "AnyClass",
+                      "heroElement": "Dark"
+                    },
+                    {
+                      "count": 1,
+                      "heroClass": "AnyClass",
+                      "heroElement": "Nature"
+                    },
+                    {
+                      "count": 1,
+                      "heroClass": "Shadowknight",
+                      "heroElement": "None"
+                    }
+                  ],
+                  "excludeClasses": [
+
+                  ],
+                  "excludeElements": [
+
+                  ]
+                }
+              },
+              {
+                "zoneId": "Zone.Event.WC.Daily.BossTrio.Map1",
+                "availabilityBegin": "2019-11-27T00:00:00.000Z",
+                "availabilityEnd": "2019-11-29T00:00:00.000Z",
+                "minAccountLevel": 1,
+                "maxAccountLevel": 2147483647,
+                "requirements": {
+                  "maxPartySize": 5,
+                  "minPartySize": 1,
+                  "requirements": [
+                    {
+                      "count": 2,
+                      "heroClass": "AnyClass",
+                      "heroElement": "Nature"
+                    },
+                    {
+                      "count": 1,
+                      "heroClass": "Shadowknight",
+                      "heroElement": "None"
+                    }
+                  ],
+                  "excludeClasses": [
+
+                  ],
+                  "excludeElements": [
+
+                  ]
+                }
+              },
+              {
+                "zoneId": "Zone.Event.WC.Daily.SuperBoss.Map1",
+                "availabilityBegin": "2019-11-28T00:00:00.000Z",
+                "availabilityEnd": "2019-11-30T00:00:00.000Z",
+                "minAccountLevel": 1,
+                "maxAccountLevel": 2147483647,
+                "requirements": {
+                  "maxPartySize": 5,
+                  "minPartySize": 1,
+                  "requirements": [
+                    {
+                      "count": 1,
+                      "heroClass": "AnyClass",
+                      "heroElement": "Nature"
+                    },
+                    {
+                      "count": 1,
+                      "heroClass": "AnyClass",
+                      "heroElement": "Dark"
+                    },
+                    {
+                      "count": 1,
+                      "heroClass": "MageKnight",
+                      "heroElement": "None"
+                    }
+                  ],
+                  "excludeClasses": [
+
+                  ],
+                  "excludeElements": [
+
+                  ]
+                }
+              },
+              {
+                "zoneId": "Zone.Event.WC.Daily.BossDuo.Map1",
+                "availabilityBegin": "2019-11-29T00:00:00.000Z",
+                "availabilityEnd": "2019-12-01T00:00:00.000Z",
+                "minAccountLevel": 1,
+                "maxAccountLevel": 2147483647,
+                "requirements": {
+                  "maxPartySize": 5,
+                  "minPartySize": 1,
+                  "requirements": [
+                    {
+                      "count": 1,
+                      "heroClass": "MageKnight",
+                      "heroElement": "None"
+                    },
+                    {
+                      "count": 1,
+                      "heroClass": "AnyClass",
+                      "heroElement": "Dark"
+                    },
+                    {
+                      "count": 1,
+                      "heroClass": "AnyClass",
+                      "heroElement": "Nature"
+                    },
+                    {
+                      "count": 1,
+                      "heroClass": "Shadowknight",
+                      "heroElement": "None"
+                    }
+                  ],
+                  "excludeClasses": [
+
+                  ],
+                  "excludeElements": [
+
+                  ]
+                }
+              }
+            ],
+            "activePhases": [
+              "Wednesday",
+              "Thursday"
+            ],
+            "eventInstanceId": "6efel9g1clh0s6qkscnkrkpi01[0]5",
+            "bossZone": {
+              "zoneId": "Zone.Event.WC.Weekend.BossSuper.2.MorrowLabs.Map1",
+              "availabilityBegin": "2019-11-29T00:00:00.000Z",
+              "availabilityEnd": "2019-12-02T00:00:00.000Z",
+              "minAccountLevel": 1,
+              "maxAccountLevel": 2147483647,
+              "runLimit": 5
+            },
+            "namedWeights": "MorrowLabs"
+          }
         }
       ],
-      "cacheExpire": "2019-11-27T15:00:34.545Z"
+      "cacheExpire": "2019-11-28T01:37:10.164Z"
     },
     "battlepass": {
       "states": [
         {
-          "validFrom": "2019-11-27T13:00:34.545Z",
+          "validFrom": "2019-11-27T23:37:10.164Z",
           "activeEvents": [
 
           ],
@@ -640,10 +1191,10 @@
           }
         }
       ],
-      "cacheExpire": "2019-11-27T15:00:34.545Z"
+      "cacheExpire": "2019-11-28T01:37:10.164Z"
     }
   },
   "eventsTimeOffsetHrs": 0.0,
   "cacheIntervalMins": 15.0,
-  "currentTime": "2019-11-27T13:19:57.972Z"
+  "currentTime": "2019-11-28T00:01:46.708Z"
 }
