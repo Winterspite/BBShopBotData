@@ -42,7 +42,7 @@
 | 1 | Basic Chest | 100 | Gems |  |
 | Unlimited | +1 Team Slot | 150 | Gems |  |
 | 1 | 12hr Elemental Heroes | 350 | Gems |  |
-| 5 | Power Source Bundle | 450 | Gems |  |
+| 2 | Dark Evo Bundle | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
 | Unlimited | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
