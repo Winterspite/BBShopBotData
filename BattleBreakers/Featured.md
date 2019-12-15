@@ -42,6 +42,7 @@
 | 1 | Basic Chest | 100 | Gems |  |
 | Unlimited | +1 Team Slot | 150 | Gems |  |
 | 1 | 12hr Elemental Heroes | 350 | Gems |  |
+| 1 | Elemental Heroes | 500 | Gems |  |
 | Unlimited | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
@@ -67,9 +68,8 @@
 | 1 | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
-| 1 | Elemental Heroes | 500 | Gems |  |
+| 2 | Super Water Evo Bundle | 1200 | Gems |  |
 | Unlimited | Heroic Chest | 1500 | Gems |  |
-| 2 | Super Light Evo Bundle | 1500 | Gems |  |
 | Unlimited | Mega Magic Chest | 2000 | Gems |  |
 | 1 | Support Gift 1 | 0 | Gems | Marketplace Level 1000 |
 | 1 | Support Gift 3 | 0 | Gems | Marketplace Level 10000 |
