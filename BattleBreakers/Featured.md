@@ -4,8 +4,6 @@
 | 1 | 12hr Treasure Hunt | 0 | Gold |  |
 | Unlimited | Battle Breaker Collection | 0 | Gems |  |
 | Unlimited | Battle Breaker Collection | 0 | RealMoney |  |
-| Unlimited | Battle Pass | 0 | Gems |  |
-| Unlimited | Battle Pass | 0 | RealMoney |  |
 | 1 | Level-Up Pack | 0 | RealMoney |  |
 | Unlimited | Master of the Hoard | 0 | Gems |  |
 | Unlimited | Master of the Hoard | 0 | RealMoney |  |
@@ -68,7 +66,7 @@
 | 1 | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
-| 3 | Elemental Shard Bundle | 1000 | Gems |  |
+| 2 | Elemental Shard Bundle | 600 | Gems |  |
 | Unlimited | Heroic Chest | 1500 | Gems |  |
 | Unlimited | Mega Magic Chest | 2000 | Gems |  |
 | 1 | Support Gift 1 | 0 | Gems | Marketplace Level 1000 |

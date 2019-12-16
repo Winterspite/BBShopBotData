@@ -3,7 +3,7 @@
     "news": {
       "states": [
         {
-          "validFrom": "2019-12-15T11:43:51.198Z",
+          "validFrom": "2019-12-15T23:34:43.399Z",
           "activeEvents": [
 
           ],
@@ -30,14 +30,43 @@
               }
             ]
           }
+        },
+        {
+          "validFrom": "2019-12-16T00:00:00.000Z",
+          "activeEvents": [
+
+          ],
+          "state": {
+            "activeNews": [
+              {
+                "uniqueId": "3mkr5u7co8v0jsocm7d18c1p6q[0]0",
+                "widget": "/Game/UMG/News/W_News_Popup_Main_01.W_News_Popup_Main_01_C",
+                "newsType": 0,
+                "widgetParams": {
+                  "titleText": {
+                    "en": "Deathmaul"
+                  },
+                  "bodyText": {
+                    "en": "Uses alternating combo attacks to deal with different types of enemies. A skilled assassin with a variety of suits of element-infused armor."
+                  },
+                  "foundInText": {
+                    "en": "Hero Store"
+                  },
+                  "linkMenu": "Store",
+                  "linkSubMenuClass": "/Game/UMG/HeroStore/B_HeroStore_Menu.B_HeroStore_Menu_C",
+                  "backgroundImageUrl": "https://cdn2.unrealengine.com/Battle+Breakers%2FNews+Images%2FT_News_Assassin_SR2_Light_DoubleTap-700x1024-49d3550eb2d3e11af33a25668c8a5268c9c153aa.png"
+                }
+              }
+            ]
+          }
         }
       ],
-      "cacheExpire": "2019-12-15T13:43:51.198Z"
+      "cacheExpire": "2019-12-16T01:34:43.399Z"
     },
     "marketing": {
       "states": [
         {
-          "validFrom": "2019-12-15T11:43:51.198Z",
+          "validFrom": "2019-12-15T23:34:43.399Z",
           "activeEvents": [
 
           ],
@@ -46,12 +75,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-12-15T13:43:51.198Z"
+      "cacheExpire": "2019-12-16T01:34:43.399Z"
     },
     "rotational-content": {
       "states": [
         {
-          "validFrom": "2019-12-15T11:43:51.198Z",
+          "validFrom": "2019-12-15T23:34:43.399Z",
           "activeEvents": [
 
           ],
@@ -386,14 +415,98 @@
             "heroStoreEnd": "2019-12-16T00:00:00.000Z",
             "purchasingEventId": "2018_1"
           }
+        },
+        {
+          "validFrom": "2019-12-16T00:00:00.000Z",
+          "activeEvents": [
+
+          ],
+          "state": {
+            "activeZones": [
+              {
+                "sortPriority": 800,
+                "zoneId": "Zone.Event.GrandArena.Aux.Battleford.Map1",
+                "maxRuns": -1,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "Event.GrandArena",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2020-01-01T00:00:00Z",
+                "eventKey": "7nljvh3bmg5kpakoj7g3960jtf[0]0+0"
+              },
+              {
+                "sortPriority": 800,
+                "zoneId": "Zone.Pvp.Sparring1.Map1",
+                "maxRuns": -1,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "Event.GrandArena",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2020-01-01T00:00:00Z",
+                "eventKey": "7nljvh3bmg5kpakoj7g3960jtf[1]0+0"
+              },
+              {
+                "sortPriority": 0,
+                "zoneId": "Zone.HallsOfFadedGlory.MapFire1",
+                "maxRuns": 1,
+                "resetCostMtx": 25,
+                "flags": [
+
+                ],
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2019-12-17T00:00:00Z",
+                "eventKey": "3v7tar55el6m3nj0crh62eloge[0]15+0"
+              },
+              {
+                "sortPriority": 0,
+                "zoneId": "Zone.HallsOfFadedGlory.MapGold1",
+                "maxRuns": 5,
+                "resetCostMtx": 100,
+                "flags": [
+
+                ],
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2019-12-17T00:00:00Z",
+                "eventKey": "6tojdi2dqvmqbeo0st5bvr919m[0]205+0"
+              },
+              {
+                "sortPriority": -100,
+                "zoneId": "Zone.Event.WK.TKVoucher1.Water.Map1",
+                "maxRuns": 8,
+                "resetCostMtx": 500,
+                "flags": [
+
+                ],
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2019-12-21T00:00:00Z",
+                "eventKey": "021lv6t1k5dmuuokgcr3cr1m0s[0]41+0"
+              }
+            ],
+            "activeEvents": [
+
+            ],
+            "preregRewardZones": [
+
+            ],
+            "heroStoreEnd": "2019-12-23T00:00:00.000Z"
+          }
         }
       ],
-      "cacheExpire": "2019-12-15T13:43:51.198Z"
+      "cacheExpire": "2019-12-16T01:34:43.399Z"
     },
     "featured-stores-mcp": {
       "states": [
         {
-          "validFrom": "2019-12-15T11:43:51.198Z",
+          "validFrom": "2019-12-15T23:34:43.399Z",
           "activeEvents": [
 
           ],
@@ -406,12 +519,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-12-15T13:43:51.198Z"
+      "cacheExpire": "2019-12-16T01:34:43.399Z"
     },
     "weekly-challenge": {
       "states": [
         {
-          "validFrom": "2019-12-15T11:43:51.198Z",
+          "validFrom": "2019-12-15T23:34:43.399Z",
           "activeEvents": [
 
           ],
@@ -577,14 +690,177 @@
             },
             "namedWeights": "Hunters"
           }
+        },
+        {
+          "validFrom": "2019-12-16T00:00:00.000Z",
+          "activeEvents": [
+
+          ],
+          "state": {
+            "phases": [
+              {
+                "zoneId": "Zone.Event.WC.Daily.BossTrio.Map1",
+                "availabilityBegin": "2019-12-16T00:00:00.000Z",
+                "availabilityEnd": "2019-12-18T00:00:00.000Z",
+                "minAccountLevel": 1,
+                "maxAccountLevel": 2147483647,
+                "requirements": {
+                  "maxPartySize": 5,
+                  "minPartySize": 1,
+                  "requirements": [
+                    {
+                      "count": 2,
+                      "heroClass": "AnyClass",
+                      "heroElement": "Dark"
+                    }
+                  ],
+                  "excludeClasses": [
+
+                  ],
+                  "excludeElements": [
+
+                  ]
+                }
+              },
+              {
+                "zoneId": "Zone.Event.WC.Daily.BossDuo.Map1",
+                "availabilityBegin": "2019-12-17T00:00:00.000Z",
+                "availabilityEnd": "2019-12-19T00:00:00.000Z",
+                "minAccountLevel": 1,
+                "maxAccountLevel": 2147483647,
+                "requirements": {
+                  "maxPartySize": 5,
+                  "minPartySize": 1,
+                  "requirements": [
+                    {
+                      "count": 3,
+                      "heroClass": "AnyClass",
+                      "heroElement": "Dark"
+                    }
+                  ],
+                  "excludeClasses": [
+
+                  ],
+                  "excludeElements": [
+
+                  ]
+                }
+              },
+              {
+                "zoneId": "Zone.Event.WC.Daily.SuperBoss.Map1",
+                "availabilityBegin": "2019-12-18T00:00:00.000Z",
+                "availabilityEnd": "2019-12-20T00:00:00.000Z",
+                "minAccountLevel": 1,
+                "maxAccountLevel": 2147483647,
+                "requirements": {
+                  "maxPartySize": 5,
+                  "minPartySize": 1,
+                  "requirements": [
+                    {
+                      "count": 3,
+                      "heroClass": "AnyClass",
+                      "heroElement": "Nature"
+                    }
+                  ],
+                  "excludeClasses": [
+
+                  ],
+                  "excludeElements": [
+
+                  ]
+                }
+              },
+              {
+                "zoneId": "Zone.Event.WC.Daily.BossDuo.Map1",
+                "availabilityBegin": "2019-12-19T00:00:00.000Z",
+                "availabilityEnd": "2019-12-21T00:00:00.000Z",
+                "minAccountLevel": 1,
+                "maxAccountLevel": 2147483647,
+                "requirements": {
+                  "maxPartySize": 5,
+                  "minPartySize": 1,
+                  "requirements": [
+                    {
+                      "count": 2,
+                      "heroClass": "Assassin",
+                      "heroElement": "None"
+                    },
+                    {
+                      "count": 1,
+                      "heroClass": "AnyClass",
+                      "heroElement": "Nature"
+                    }
+                  ],
+                  "excludeClasses": [
+
+                  ],
+                  "excludeElements": [
+
+                  ]
+                }
+              },
+              {
+                "zoneId": "Zone.Event.WC.Daily.BossDuo.Map1",
+                "availabilityBegin": "2019-12-20T00:00:00.000Z",
+                "availabilityEnd": "2019-12-22T00:00:00.000Z",
+                "minAccountLevel": 1,
+                "maxAccountLevel": 2147483647,
+                "requirements": {
+                  "maxPartySize": 5,
+                  "minPartySize": 1,
+                  "requirements": [
+                    {
+                      "count": 1,
+                      "heroClass": "AnyClass",
+                      "heroElement": "Dark"
+                    },
+                    {
+                      "count": 1,
+                      "heroClass": "AnyClass",
+                      "heroElement": "Water"
+                    },
+                    {
+                      "count": 1,
+                      "heroClass": "Shadowknight",
+                      "heroElement": "None"
+                    },
+                    {
+                      "count": 1,
+                      "heroClass": "MageKnight",
+                      "heroElement": "None"
+                    }
+                  ],
+                  "excludeClasses": [
+
+                  ],
+                  "excludeElements": [
+
+                  ]
+                }
+              }
+            ],
+            "activePhases": [
+              "Monday"
+            ],
+            "eventInstanceId": "6efel9g1clh0s6qkscnkrkpi01[0]8",
+            "bossZone": {
+              "zoneId": "Zone.Event.WC.Weekend.BossSuper.1.MorrowLabs.Map1",
+              "availabilityBegin": "2019-12-20T00:00:00.000Z",
+              "availabilityEnd": "2019-12-23T00:00:00.000Z",
+              "minAccountLevel": 1,
+              "maxAccountLevel": 2147483647,
+              "runLimit": 5
+            },
+            "namedWeights": "MorrowLabs"
+          }
         }
       ],
-      "cacheExpire": "2019-12-15T13:43:51.198Z"
+      "cacheExpire": "2019-12-16T01:34:43.399Z"
     },
     "battlepass": {
       "states": [
         {
-          "validFrom": "2019-12-15T11:43:51.198Z",
+          "validFrom": "2019-12-15T23:34:43.399Z",
           "activeEvents": [
 
           ],
@@ -592,12 +868,22 @@
             "seasonId": "2018_1",
             "seasonEndDate": "2019-12-16T00:00:00Z"
           }
+        },
+        {
+          "validFrom": "2019-12-16T00:00:00.000Z",
+          "activeEvents": [
+
+          ],
+          "state": {
+            "seasonId": "",
+            "seasonEndDate": "0001-01-01T00:00:00.000Z"
+          }
         }
       ],
-      "cacheExpire": "2019-12-15T13:43:51.198Z"
+      "cacheExpire": "2019-12-16T01:34:43.399Z"
     }
   },
   "eventsTimeOffsetHrs": 0.0,
   "cacheIntervalMins": 15.0,
-  "currentTime": "2019-12-15T12:01:48.452Z"
+  "currentTime": "2019-12-16T00:01:48.978Z"
 }
