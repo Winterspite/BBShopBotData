@@ -2,16 +2,13 @@
 | -------- | ----- | ----- | -------- |  ----------- |
 | 1 | 12hr Basic Chest | 0 | Gems |  |
 | 1 | 12hr Treasure Hunt | 0 | Gold |  |
-| Unlimited | Battle Breaker Collection | 0 | Gems |  |
 | Unlimited | Battle Breaker Collection | 0 | RealMoney |  |
+| Unlimited | Battle Pass | 0 | Gems |  |
+| Unlimited | Battle Pass | 0 | RealMoney |  |
 | 1 | Level-Up Pack | 0 | RealMoney |  |
-| Unlimited | Master of the Hoard | 0 | Gems |  |
 | Unlimited | Master of the Hoard | 0 | RealMoney |  |
-| Unlimited | Treasure Hunter Collection | 0 | Gems |  |
 | Unlimited | Treasure Hunter Collection | 0 | RealMoney |  |
 | Unlimited | Underworld Trader Collection | 0 | RealMoney |  |
-| Unlimited | Underworld Trader Collection | 0 | Gems |  |
-| Unlimited | Unwavering Guardian Collection | 0 | Gems |  |
 | Unlimited | Unwavering Guardian Collection | 0 | RealMoney |  |
 | Unlimited | Battle Hero | 1 | Voucher_HeroBattle |  |
 | Unlimited | Dark Hero | 1 | Voucher_HeroSilver_Dark |  |
@@ -41,7 +38,6 @@
 | Unlimited | +1 Team Slot | 150 | Gems |  |
 | 1 | 12hr Elemental Heroes | 350 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
-| 1 | Elemental Heroes | 500 | Gems |  |
 | Unlimited | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
@@ -66,9 +62,11 @@
 | 1 | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
-| 1 | Dark Evo Bundle | 600 | Gems |  |
+| 1 | Elemental Heroes | 500 | Gems |  |
+| 2 | Nature Evo Bundle | 500 | Gems |  |
 | Unlimited | Heroic Chest | 1500 | Gems |  |
 | Unlimited | Mega Magic Chest | 2000 | Gems |  |
+| 3 | Omni Essences | 2000 | Gems |  |
 | 1 | Support Gift 1 | 0 | Gems | Marketplace Level 1000 |
 | 1 | Support Gift 3 | 0 | Gems | Marketplace Level 10000 |
 | 1 | Support Gift 21 | 0 | Gems | Marketplace Level 100000 |

@@ -1,6 +1,7 @@
 | Quantity | Title | Price | Currency |  Requirement |
 | -------- | ----- | ----- | -------- |  ----------- |
 | Unlimited | Building Upgrade | 1 | Loyalty Points |  |
+| Unlimited | Cloudpuff Cookies | 1 | Loyalty Points |  |
 | Unlimited | Core Hero Traces | 1 | Loyalty Points |  |
 | Unlimited | Dark Essence | 1 | Loyalty Points |  |
 | Unlimited | Fire Essence | 1 | Loyalty Points |  |
