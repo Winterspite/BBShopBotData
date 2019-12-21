@@ -1,14 +1,15 @@
 | Quantity | Title | Price | Currency |  Requirement |
 | -------- | ----- | ----- | -------- |  ----------- |
 | Unlimited |  | 0 | Gems |  |
+| Unlimited |  | 0 | Gems |  |
 | 1 |  | 0 | Gems |  |
+| Unlimited |  | 25 | Gems |  |
 | Unlimited |  | 40 | Gems |  |
 | 1 |  | 50 | Gems |  |
 | Unlimited |  | 50 | Gems |  |
 | 1 |  | 75 | Gems |  |
+| Unlimited |  | 100 | Gems |  |
 | 5 |  | 100 | Gems |  |
-| Unlimited |  | 100 | Gems |  |
-| Unlimited |  | 100 | Gems |  |
 | Unlimited |  | 100 | Gems |  |
 | Unlimited |  | 100 | Gems |  |
 | Unlimited |  | 100 | Gems |  |
@@ -16,15 +17,3 @@
 | 5 |  | 150 | Gems |  |
 | 7 |  | 200 | Gems |  |
 | Unlimited |  | 200 | Gems |  |
-| Unlimited |  | 200 | Gems |  |
-| Unlimited |  | 250 | Gems |  |
-| Unlimited |  | 300 | Gems |  |
-| Unlimited |  | 350 | Gems |  |
-| Unlimited |  | 400 | Gems |  |
-| Unlimited |  | 450 | Gems |  |
-| Unlimited |  | 500 | Gems |  |
-| Unlimited |  | 550 | Gems |  |
-| Unlimited |  | 600 | Gems |  |
-| Unlimited |  | 650 | Gems |  |
-| Unlimited |  | 700 | Gems |  |
-| Unlimited |  | 750 | Gems |  |
