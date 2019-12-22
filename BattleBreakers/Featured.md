@@ -63,7 +63,7 @@
 | 1 | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
-| 2 | Fire Evo Bundle | 600 | Gems |  |
+| 2 | Nature Evo Bundle | 600 | Gems |  |
 | Unlimited | Heroic Chest | 1500 | Gems |  |
 | Unlimited | Mega Magic Chest | 2000 | Gems |  |
 | 3 | Omni Essences | 2000 | Gems |  |
