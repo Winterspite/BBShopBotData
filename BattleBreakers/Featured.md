@@ -65,7 +65,7 @@
 | 1 | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
-| 1 | Dark Evo Bundle | 600 | Gems |  |
+| 2 | Nature Evo Bundle | 750 | Gems |  |
 | Unlimited | Heroic Chest | 1500 | Gems |  |
 | Unlimited | Mega Magic Chest | 2000 | Gems |  |
 | 1 | Oh, Holy Knight! | 5000 | Gems |  |
