@@ -2,6 +2,7 @@
 | -------- | ----- | ----- | -------- |  ----------- |
 | Unlimited | Pet_VR1_Fire_Mousecat_T04 | 100 | Cloudpuff Cookies |  |
 | Unlimited | Pet_VR1_Nature_LaserDino_T04 | 100 | Cloudpuff Cookies |  |
+| Unlimited | Pet_VR2_Spry_Light_T04 | 100 | Cloudpuff Cookies |  |
 | Unlimited | Sneek [Water] | 100 | Cloudpuff Cookies |  |
 | Unlimited | Pet_SR2_SpectralTiger_Fire_T05 | 200 | Cloudpuff Cookies |  |
 | Unlimited | Assassin_R2_Dark_Slasher_T03 | 800 | Magic Tickets |  |
@@ -24,5 +25,5 @@
 | Unlimited | Necromancer Yulang | 2000 | Magic Tickets |  |
 | Unlimited | Sir Lancelot | 2000 | Magic Tickets |  |
 | Unlimited | Spellsword_VR1_Light_EnergyBolt_T04 | 2000 | Magic Tickets |  |
-| Unlimited | Warrior_SR2_Fire_BattleRage_T05 | 4000 | Magic Tickets |  |
+| Unlimited | Ninja_SR2_Fire_SugarClone_T05 | 4000 | Magic Tickets |  |
 | Unlimited | Warrior_Starter_Nature_PowerStrike_T04 | 5000 | Magic Tickets |  |
