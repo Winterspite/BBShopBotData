@@ -23,5 +23,5 @@
 | Unlimited | Lightseeker Thalen | 2000 | Magic Tickets |  |
 | Unlimited | Mage_VR1_Dark_GravityWell_T04 | 2000 | Magic Tickets |  |
 | Unlimited | Mistwalker, Fading Light | 2000 | Magic Tickets |  |
-| Unlimited | HolyKnight_SR2_Fire_Smite_T05 | 4000 | Magic Tickets |  |
+| Unlimited | Shadowknight_VR2_Fire_ShadowLance_T04 | 4000 | Magic Tickets |  |
 | Unlimited | Mage_SR1_Fire_GolemMaster_T05 | 5000 | Magic Tickets |  |

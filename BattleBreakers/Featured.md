@@ -5,10 +5,8 @@
 | Unlimited | Battle Breaker Collection | 0 | RealMoney |  |
 | Unlimited | Battle Pass | 0 | Gems |  |
 | Unlimited | Battle Pass | 0 | RealMoney |  |
-| 1 | Gooey Armor | 0 | RealMoney |  |
 | 1 | Level-Up Pack | 0 | RealMoney |  |
 | Unlimited | Master of the Hoard | 0 | RealMoney |  |
-| 1 | Snowy Gifts | 0 | Gems |  |
 | Unlimited | Treasure Hunter Collection | 0 | RealMoney |  |
 | Unlimited | Underworld Trader Collection | 0 | RealMoney |  |
 | Unlimited | Unwavering Guardian Collection | 0 | RealMoney |  |
@@ -65,10 +63,9 @@
 | 1 | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
+| 3 | Elemental Shard Bundle | 800 | Gems |  |
 | Unlimited | Heroic Chest | 1500 | Gems |  |
 | Unlimited | Mega Magic Chest | 2000 | Gems |  |
-| 1 | Magic Meeg Chest | 2500 | Gems |  |
-| 1 | Oh, Holy Knight! | 5000 | Gems |  |
 | 1 | Support Gift 1 | 0 | Gems | Marketplace Level 1000 |
 | 1 | Support Gift 3 | 0 | Gems | Marketplace Level 10000 |
 | 1 | Support Gift 21 | 0 | Gems | Marketplace Level 100000 |
