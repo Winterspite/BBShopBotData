@@ -3,7 +3,7 @@
     "news": {
       "states": [
         {
-          "validFrom": "2020-01-09T11:36:16.571Z",
+          "validFrom": "2020-01-09T23:34:19.020Z",
           "activeEvents": [
 
           ],
@@ -11,12 +11,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-01-09T13:36:16.571Z"
+      "cacheExpire": "2020-01-10T01:34:19.020Z"
     },
     "marketing": {
       "states": [
         {
-          "validFrom": "2020-01-09T11:36:16.571Z",
+          "validFrom": "2020-01-09T23:34:19.020Z",
           "activeEvents": [
 
           ],
@@ -25,12 +25,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-01-09T13:36:16.571Z"
+      "cacheExpire": "2020-01-10T01:34:19.020Z"
     },
     "rotational-content": {
       "states": [
         {
-          "validFrom": "2020-01-09T11:36:16.571Z",
+          "validFrom": "2020-01-09T23:34:19.020Z",
           "activeEvents": [
 
           ],
@@ -272,14 +272,258 @@
             "heroStoreEnd": "2020-01-13T00:00:00.000Z",
             "purchasingEventId": "Event.DarkFrost"
           }
+        },
+        {
+          "validFrom": "2020-01-10T00:00:00.000Z",
+          "activeEvents": [
+
+          ],
+          "state": {
+            "activeZones": [
+              {
+                "sortPriority": 101,
+                "zoneId": "Zone.Event.DarkFrost.CastleGates.Map1",
+                "maxRuns": -1,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "2019_12",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2020-02-01T00:00:00Z",
+                "eventKey": "3nid8uej5mohfbus2v8hftvjkn[0]0+0"
+              },
+              {
+                "sortPriority": 98,
+                "zoneId": "Zone.Event.DarkFrost.Lower.Foyer.Map1",
+                "maxRuns": -1,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "2019_12",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2020-02-01T00:00:00Z",
+                "eventKey": "3nid8uej5mohfbus2v8hftvjkn[0]0+1"
+              },
+              {
+                "sortPriority": 95,
+                "zoneId": "Zone.Event.DarkFrost.Lower.GreatHall.Map1",
+                "maxRuns": -1,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "2019_12",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2020-02-01T00:00:00Z",
+                "eventKey": "3nid8uej5mohfbus2v8hftvjkn[0]0+2"
+              },
+              {
+                "sortPriority": 90,
+                "zoneId": "Zone.Event.DarkFrost.Lower.EastGarrison.Map1",
+                "maxRuns": -1,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "2019_12",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2020-02-01T00:00:00Z",
+                "eventKey": "3nid8uej5mohfbus2v8hftvjkn[0]0+3"
+              },
+              {
+                "sortPriority": 90,
+                "zoneId": "Zone.Event.DarkFrost.Lower.WestGatehouse.Map1",
+                "maxRuns": -1,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "2019_12",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2020-02-01T00:00:00Z",
+                "eventKey": "3nid8uej5mohfbus2v8hftvjkn[0]0+4"
+              },
+              {
+                "sortPriority": -100,
+                "zoneId": "Zone.Event.BossChallenge.TreasureMp.Map1",
+                "maxRuns": 1,
+                "resetCostMtx": 0,
+                "flags": [
+
+                ],
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2020-01-11T00:00:00Z",
+                "eventKey": "021lv6t1k5dmuuokgcr3cr1m0s[0]44+0"
+              },
+              {
+                "sortPriority": 10,
+                "zoneId": "Zone.Event.DarkFrost.East.MageTower.Hard.Map1",
+                "maxRuns": 3,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "2019_12",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2020-01-13T00:00:00Z",
+                "eventKey": "64jkc427s1pn6kjbk1lu12baj5[0]0+0"
+              },
+              {
+                "sortPriority": 299,
+                "zoneId": "Zone.Event.DarkFrost.East.Library.Map1",
+                "maxRuns": -1,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "2019_12",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2020-02-01T00:00:00Z",
+                "eventKey": "7cu08od8k46kvsavjivman5oko[0]0+0"
+              },
+              {
+                "sortPriority": 280,
+                "zoneId": "Zone.Event.DarkFrost.East.MageTower.Map1",
+                "maxRuns": -1,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "2019_12",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2020-02-01T00:00:00Z",
+                "eventKey": "7cu08od8k46kvsavjivman5oko[0]0+1"
+              },
+              {
+                "sortPriority": 199,
+                "zoneId": "Zone.Event.DarkFrost.West.GuardQuarters.Map1",
+                "maxRuns": -1,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "2019_12",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2020-02-01T00:00:00Z",
+                "eventKey": "7cu08od8k46kvsavjivman5oko[0]0+2"
+              },
+              {
+                "sortPriority": 180,
+                "zoneId": "Zone.Event.DarkFrost.West.TrainingGround.Map1",
+                "maxRuns": -1,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "2019_12",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2020-02-01T00:00:00Z",
+                "eventKey": "7cu08od8k46kvsavjivman5oko[0]0+3"
+              },
+              {
+                "sortPriority": 0,
+                "zoneId": "Zone.HallsOfFadedGlory.MapDark1",
+                "maxRuns": 1,
+                "resetCostMtx": 25,
+                "flags": [
+
+                ],
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2020-01-11T00:00:00Z",
+                "eventKey": "90661350-C3AE-475C-99C3-877CA7930AA1[0]18+0"
+              },
+              {
+                "sortPriority": 0,
+                "zoneId": "Zone.HallsOfFadedGlory.MapGold1",
+                "maxRuns": 5,
+                "resetCostMtx": 100,
+                "flags": [
+
+                ],
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2020-01-11T00:00:00Z",
+                "eventKey": "6tojdi2dqvmqbeo0st5bvr919m[0]224+0"
+              },
+              {
+                "sortPriority": 300,
+                "zoneId": "Zone.Event.DarkFrost.East.Laboratory.Map1",
+                "maxRuns": 3,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "2019_12",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2020-01-11T00:00:00Z",
+                "eventKey": "4qbu105jaf5idh6nf34tjas7sh[0]4+0"
+              },
+              {
+                "sortPriority": 300,
+                "zoneId": "Zone.Event.DarkFrost.West.Armory.Map1",
+                "maxRuns": 3,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "2019_12",
+                "dynamicTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2020-01-11T00:00:00Z",
+                "eventKey": "4qbu105jaf5idh6nf34tjas7sh[0]4+1"
+              },
+              {
+                "sortPriority": 300,
+                "zoneId": "Zone.Event.DarkFrost.Lower.Courtyard.Map1",
+                "maxRuns": 3,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "2019_12",
+                "dynamicTier": 1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2020-01-11T00:00:00Z",
+                "eventKey": "6us1hvu383urf1jmi7cuopgrj6[0]25+0"
+              }
+            ],
+            "activeEvents": [
+              {
+                "sortPriority": 999,
+                "eventAsset": "/Game/Campaign/Zones/Events/DarkFrost/EventDef_DarkFrost.EventDef_DarkFrost",
+                "eventId": "2019_12",
+                "expiresAt": "2020-02-01T00:00:00Z"
+              }
+            ],
+            "preregRewardZones": [
+
+            ],
+            "heroStoreEnd": "2020-01-13T00:00:00.000Z",
+            "purchasingEventId": "Event.DarkFrost"
+          }
         }
       ],
-      "cacheExpire": "2020-01-09T13:36:16.571Z"
+      "cacheExpire": "2020-01-10T01:34:19.020Z"
     },
     "featured-stores-mcp": {
       "states": [
         {
-          "validFrom": "2020-01-09T11:36:16.571Z",
+          "validFrom": "2020-01-09T23:34:19.020Z",
           "activeEvents": [
 
           ],
@@ -292,12 +536,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-01-09T13:36:16.571Z"
+      "cacheExpire": "2020-01-10T01:34:19.020Z"
     },
     "weekly-challenge": {
       "states": [
         {
-          "validFrom": "2020-01-09T11:36:16.571Z",
+          "validFrom": "2020-01-09T23:34:19.020Z",
           "activeEvents": [
 
           ],
@@ -450,12 +694,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-01-09T13:36:16.571Z"
+      "cacheExpire": "2020-01-10T01:34:19.020Z"
     },
     "battlepass": {
       "states": [
         {
-          "validFrom": "2020-01-09T11:36:16.571Z",
+          "validFrom": "2020-01-09T23:34:19.020Z",
           "activeEvents": [
 
           ],
@@ -465,9 +709,9 @@
           }
         }
       ],
-      "cacheExpire": "2020-01-09T13:36:16.571Z"
+      "cacheExpire": "2020-01-10T01:34:19.020Z"
     }
   },
   "cacheIntervalMins": 15.0,
-  "currentTime": "2020-01-09T12:01:51.408Z"
+  "currentTime": "2020-01-10T00:01:51.379Z"
 }
