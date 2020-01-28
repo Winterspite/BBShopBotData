@@ -63,7 +63,7 @@
 | 1 | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
-| 2 | Light Evo Bundle | 500 | Gems |  |
+| 2 | Water Evo Bundle | 500 | Gems |  |
 | Unlimited | Weekly Tickets | 600 | Gems |  |
 | Unlimited | Heroic Chest | 1500 | Gems |  |
 | Unlimited | Mega Magic Chest | 2000 | Gems |  |
