@@ -3,7 +3,7 @@
     "news": {
       "states": [
         {
-          "validFrom": "2020-02-02T11:46:02.203Z",
+          "validFrom": "2020-02-02T23:45:53.245Z",
           "activeEvents": [
 
           ],
@@ -11,12 +11,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-02-02T13:46:02.203Z"
+      "cacheExpire": "2020-02-03T01:45:53.245Z"
     },
     "marketing": {
       "states": [
         {
-          "validFrom": "2020-02-02T11:46:02.203Z",
+          "validFrom": "2020-02-02T23:45:53.245Z",
           "activeEvents": [
 
           ],
@@ -25,12 +25,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-02-02T13:46:02.203Z"
+      "cacheExpire": "2020-02-03T01:45:53.245Z"
     },
     "rotational-content": {
       "states": [
         {
-          "validFrom": "2020-02-02T11:46:02.203Z",
+          "validFrom": "2020-02-02T23:45:53.245Z",
           "activeEvents": [
 
           ],
@@ -187,14 +187,103 @@
             ],
             "heroStoreEnd": "2020-02-03T00:00:00.000Z"
           }
+        },
+        {
+          "validFrom": "2020-02-03T00:00:00.000Z",
+          "activeEvents": [
+
+          ],
+          "state": {
+            "activeZones": [
+              {
+                "sortPriority": 800,
+                "zoneId": "Zone.Event.GrandArena.Aux.Battleford.Map1",
+                "maxRuns": -1,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "Event.GrandArena",
+                "dynamicTier": -1,
+                "dynamicGoldTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2021-01-01T00:00:00Z",
+                "eventKey": "37m008vr790voua5ie1g0s0pqg[0]0+0"
+              },
+              {
+                "sortPriority": 800,
+                "zoneId": "Zone.Pvp.Sparring1.Map1",
+                "maxRuns": -1,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "Event.GrandArena",
+                "dynamicTier": -1,
+                "dynamicGoldTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2021-01-01T00:00:00Z",
+                "eventKey": "37m008vr790voua5ie1g0s0pqg[1]0+0"
+              },
+              {
+                "sortPriority": 0,
+                "zoneId": "Zone.HallsOfFadedGlory.MapFire1",
+                "maxRuns": 1,
+                "resetCostMtx": 0,
+                "flags": [
+
+                ],
+                "dynamicTier": -1,
+                "dynamicGoldTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2020-02-04T00:00:00Z",
+                "eventKey": "3v7tar55el6m3nj0crh62eloge[0]22+0"
+              },
+              {
+                "sortPriority": 0,
+                "zoneId": "Zone.HallsOfFadedGlory.MapGold1",
+                "maxRuns": 1,
+                "resetCostMtx": 0,
+                "flags": [
+
+                ],
+                "dynamicTier": 1,
+                "dynamicGoldTier": 3,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2020-02-04T00:00:00Z",
+                "eventKey": "6tojdi2dqvmqbeo0st5bvr919m[0]240+0"
+              },
+              {
+                "sortPriority": -100,
+                "zoneId": "Zone.Event.WK.TKVoucher1.Dark.Map1",
+                "maxRuns": 8,
+                "resetCostMtx": 500,
+                "flags": [
+
+                ],
+                "dynamicTier": -1,
+                "dynamicGoldTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2020-02-08T00:00:00Z",
+                "eventKey": "021lv6t1k5dmuuokgcr3cr1m0s[0]48+0"
+              }
+            ],
+            "activeEvents": [
+
+            ],
+            "preregRewardZones": [
+
+            ],
+            "heroStoreEnd": "2020-02-10T00:00:00.000Z"
+          }
         }
       ],
-      "cacheExpire": "2020-02-02T13:46:02.203Z"
+      "cacheExpire": "2020-02-03T01:45:53.245Z"
     },
     "featured-stores-mcp": {
       "states": [
         {
-          "validFrom": "2020-02-02T11:46:02.203Z",
+          "validFrom": "2020-02-02T23:45:53.245Z",
           "activeEvents": [
 
           ],
@@ -207,12 +296,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-02-02T13:46:02.203Z"
+      "cacheExpire": "2020-02-03T01:45:53.245Z"
     },
     "weekly-challenge": {
       "states": [
         {
-          "validFrom": "2020-02-02T11:46:02.203Z",
+          "validFrom": "2020-02-02T23:45:53.245Z",
           "activeEvents": [
 
           ],
@@ -363,14 +452,167 @@
             },
             "namedWeights": "TundraWalkers=1"
           }
+        },
+        {
+          "validFrom": "2020-02-03T00:00:00.000Z",
+          "activeEvents": [
+
+          ],
+          "state": {
+            "phases": [
+              {
+                "zoneId": "Zone.Event.WC.Daily.BossTrio.Map1",
+                "availabilityBegin": "2020-02-03T00:00:00.000Z",
+                "availabilityEnd": "2020-02-10T00:00:00.000Z",
+                "minAccountLevel": 1,
+                "maxAccountLevel": 2147483647,
+                "requirements": {
+                  "maxPartySize": 5,
+                  "minPartySize": 1,
+                  "requirements": [
+                    {
+                      "count": 1,
+                      "heroClass": "AnyClass",
+                      "heroElement": "Water"
+                    }
+                  ],
+                  "excludeClasses": [
+
+                  ],
+                  "excludeElements": [
+
+                  ]
+                }
+              },
+              {
+                "zoneId": "Zone.Event.WC.Daily.BossDuo.Map1",
+                "availabilityBegin": "2020-02-03T00:00:00.000Z",
+                "availabilityEnd": "2020-02-10T00:00:00.000Z",
+                "minAccountLevel": 1,
+                "maxAccountLevel": 2147483647,
+                "requirements": {
+                  "maxPartySize": 5,
+                  "minPartySize": 1,
+                  "requirements": [
+                    {
+                      "count": 1,
+                      "heroClass": "Warrior",
+                      "heroElement": "None"
+                    }
+                  ],
+                  "excludeClasses": [
+
+                  ],
+                  "excludeElements": [
+
+                  ]
+                }
+              },
+              {
+                "zoneId": "Zone.Event.WC.Daily.SuperBoss.Map1",
+                "availabilityBegin": "2020-02-03T00:00:00.000Z",
+                "availabilityEnd": "2020-02-10T00:00:00.000Z",
+                "minAccountLevel": 1,
+                "maxAccountLevel": 2147483647,
+                "requirements": {
+                  "maxPartySize": 5,
+                  "minPartySize": 1,
+                  "requirements": [
+                    {
+                      "count": 1,
+                      "heroClass": "TreasureHunter",
+                      "heroElement": "None"
+                    }
+                  ],
+                  "excludeClasses": [
+
+                  ],
+                  "excludeElements": [
+
+                  ]
+                }
+              },
+              {
+                "zoneId": "Zone.Event.WC.Daily.BossTrio.Map1",
+                "availabilityBegin": "2020-02-03T00:00:00.000Z",
+                "availabilityEnd": "2020-02-10T00:00:00.000Z",
+                "minAccountLevel": 1,
+                "maxAccountLevel": 2147483647,
+                "requirements": {
+                  "maxPartySize": 5,
+                  "minPartySize": 1,
+                  "requirements": [
+                    {
+                      "count": 2,
+                      "heroClass": "Warrior",
+                      "heroElement": "None"
+                    }
+                  ],
+                  "excludeClasses": [
+
+                  ],
+                  "excludeElements": [
+
+                  ]
+                }
+              },
+              {
+                "zoneId": "Zone.Event.WC.Daily.BossDuo.Map1",
+                "availabilityBegin": "2020-02-03T00:00:00.000Z",
+                "availabilityEnd": "2020-02-10T00:00:00.000Z",
+                "minAccountLevel": 1,
+                "maxAccountLevel": 2147483647,
+                "requirements": {
+                  "maxPartySize": 5,
+                  "minPartySize": 1,
+                  "requirements": [
+                    {
+                      "count": 1,
+                      "heroClass": "Warrior",
+                      "heroElement": "None"
+                    },
+                    {
+                      "count": 1,
+                      "heroClass": "TreasureHunter",
+                      "heroElement": "None"
+                    }
+                  ],
+                  "excludeClasses": [
+
+                  ],
+                  "excludeElements": [
+
+                  ]
+                }
+              }
+            ],
+            "activePhases": [
+              "Weekend",
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "eventInstanceId": "70ruue8l0oma4lm9egb3o9koga[0]7",
+            "bossZone": {
+              "zoneId": "Zone.Event.WC.Weekend.BossSuper.1.TundraWalkers.Map1",
+              "availabilityBegin": "2020-02-03T00:00:00.000Z",
+              "availabilityEnd": "2020-02-10T00:00:00.000Z",
+              "minAccountLevel": 1,
+              "maxAccountLevel": 2147483647,
+              "runLimit": 1
+            },
+            "namedWeights": "TundraWalkers=1"
+          }
         }
       ],
-      "cacheExpire": "2020-02-02T13:46:02.203Z"
+      "cacheExpire": "2020-02-03T01:45:53.245Z"
     },
     "battlepass": {
       "states": [
         {
-          "validFrom": "2020-02-02T11:46:02.203Z",
+          "validFrom": "2020-02-02T23:45:53.245Z",
           "activeEvents": [
 
           ],
@@ -380,9 +622,9 @@
           }
         }
       ],
-      "cacheExpire": "2020-02-02T13:46:02.203Z"
+      "cacheExpire": "2020-02-03T01:45:53.245Z"
     }
   },
   "cacheIntervalMins": 15.0,
-  "currentTime": "2020-02-02T12:01:53.750Z"
+  "currentTime": "2020-02-03T00:01:54.141Z"
 }
