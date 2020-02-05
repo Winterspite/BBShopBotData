@@ -3,8 +3,11 @@
 | 1 | 12hr Basic Chest | 0 | Gems |  |
 | 1 | 12hr Treasure Hunt | 0 | Gold |  |
 | Unlimited | Battle Breaker Collection | 0 | RealMoney |  |
+| Unlimited | Battle Pass | 0 | Gems |  |
+| Unlimited | Battle Pass | 0 | RealMoney |  |
 | 1 | Level-Up Pack | 0 | RealMoney |  |
 | Unlimited | Master of the Hoard | 0 | RealMoney |  |
+| Unlimited | Starter Pack | 0 | RealMoney |  |
 | Unlimited | Treasure Hunter Collection | 0 | RealMoney |  |
 | Unlimited | Underworld Trader Collection | 0 | RealMoney |  |
 | Unlimited | Unwavering Guardian Collection | 0 | RealMoney |  |
@@ -35,6 +38,7 @@
 | 1 | Basic Chest | 100 | Gems |  |
 | Unlimited | +1 Team Slot | 150 | Gems |  |
 | 1 | 12hr Elemental Heroes | 350 | Gems |  |
+| 1 | Elemental Heroes | 500 | Gems |  |
 | Unlimited | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
@@ -60,9 +64,8 @@
 | 1 | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
-| 1 | Elemental Heroes | 500 | Gems |  |
+| 2 | Fire Evo Bundle | 600 | Gems |  |
 | Unlimited | Weekly Tickets | 600 | Gems |  |
-| 2 | Super Water Evo Bundle | 1200 | Gems |  |
 | Unlimited | Heroic Chest | 1500 | Gems |  |
 | Unlimited | Mega Magic Chest | 2000 | Gems |  |
 | 1 | Support Gift 1 | 0 | Gems | Marketplace Level 1000 |

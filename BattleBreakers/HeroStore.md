@@ -2,6 +2,7 @@
 | -------- | ----- | ----- | -------- |  ----------- |
 | Unlimited | Pet_VR1_Fire_Mousecat_T04 | 100 | Cloudpuff Cookies |  |
 | Unlimited | Pet_VR1_Nature_LaserDino_T04 | 100 | Cloudpuff Cookies |  |
+| Unlimited | Pet_VR1_Nature_Tarsier_T04 | 100 | Cloudpuff Cookies |  |
 | Unlimited | Sneek [Dark] | 100 | Cloudpuff Cookies |  |
 | Unlimited | Pet_SR1_MenacingMask_Light_T05 | 200 | Cloudpuff Cookies |  |
 | Unlimited | Pet_SR2_SpectralTiger_Fire_T05 | 200 | Cloudpuff Cookies |  |
@@ -23,5 +24,5 @@
 | Unlimited | Cleric_VR1_Light_Protect_T04 | 2000 | Magic Tickets |  |
 | Unlimited | Knight_VR1_Fire_Retaliation_T04 | 2000 | Magic Tickets |  |
 | Unlimited | MartialArtist_VR1_Fire_BleedingPalm_T04 | 2000 | Magic Tickets |  |
-| Unlimited | TreasureHunter_VR2_Water_BullRush_T04 | 2000 | Magic Tickets |  |
 | Unlimited | Archer_SR1_Nature_FlurryOfArrows_T05 | 5000 | Magic Tickets |  |
+| Unlimited | Spellsword_SR2_Fire_ImbueFire_T05 | 5000 | Magic Tickets |  |
