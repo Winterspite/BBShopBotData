@@ -38,6 +38,7 @@
 | 1 | Basic Chest | 100 | Gems |  |
 | Unlimited | +1 Team Slot | 150 | Gems |  |
 | 1 | 12hr Elemental Heroes | 350 | Gems |  |
+| 1 | Elemental Heroes | 500 | Gems |  |
 | Unlimited | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
@@ -63,8 +64,7 @@
 | 1 | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
-| 1 | Elemental Heroes | 500 | Gems |  |
-| 1 | Nature Evo Bundle | 600 | Gems |  |
+| 1 | Dark Evo Bundle | 600 | Gems |  |
 | Unlimited | Weekly Tickets | 600 | Gems |  |
 | Unlimited | Heroic Chest | 1500 | Gems |  |
 | Unlimited | Mega Magic Chest | 2000 | Gems |  |
