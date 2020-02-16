@@ -3,7 +3,7 @@
     "news": {
       "states": [
         {
-          "validFrom": "2020-02-15T23:34:56.361Z",
+          "validFrom": "2020-02-16T11:32:35.964Z",
           "activeEvents": [
 
           ],
@@ -11,12 +11,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-02-16T01:34:56.361Z"
+      "cacheExpire": "2020-02-16T13:32:35.964Z"
     },
     "marketing": {
       "states": [
         {
-          "validFrom": "2020-02-15T23:34:56.361Z",
+          "validFrom": "2020-02-16T11:32:35.964Z",
           "activeEvents": [
 
           ],
@@ -25,357 +25,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-02-16T01:34:56.361Z"
+      "cacheExpire": "2020-02-16T13:32:35.964Z"
     },
     "rotational-content": {
       "states": [
         {
-          "validFrom": "2020-02-15T23:34:56.361Z",
-          "activeEvents": [
-
-          ],
-          "state": {
-            "activeZones": [
-              {
-                "sortPriority": 800,
-                "zoneId": "Zone.Event.GrandArena.Aux.Battleford.Map1",
-                "maxRuns": -1,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "Event.GrandArena",
-                "dynamicTier": 1,
-                "dynamicGoldTier": 1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2021-01-01T00:00:00Z",
-                "eventKey": "37m008vr790voua5ie1g0s0pqg[0]0+0"
-              },
-              {
-                "sortPriority": 800,
-                "zoneId": "Zone.Pvp.Sparring1.Map1",
-                "maxRuns": -1,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "Event.GrandArena",
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2021-01-01T00:00:00Z",
-                "eventKey": "37m008vr790voua5ie1g0s0pqg[1]0+0"
-              },
-              {
-                "sortPriority": 200,
-                "zoneId": "Zone.Event.DarkGenerals.Aboreal.South.Map1",
-                "maxRuns": -1,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "2020_2",
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-03-09T00:00:00Z",
-                "eventKey": "6jrg86fi4fu5o8lu37ruucld4r[0]0+0"
-              },
-              {
-                "sortPriority": 101,
-                "zoneId": "Zone.Event.DarkGenerals.Hive.Map1",
-                "maxRuns": -1,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "2020_2",
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-03-09T00:00:00Z",
-                "eventKey": "6jrg86fi4fu5o8lu37ruucld4r[0]0+1"
-              },
-              {
-                "sortPriority": 98,
-                "zoneId": "Zone.Event.DarkGenerals.Maw.Map1",
-                "maxRuns": -1,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "2020_2",
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-03-09T00:00:00Z",
-                "eventKey": "6jrg86fi4fu5o8lu37ruucld4r[0]0+2"
-              },
-              {
-                "sortPriority": 98,
-                "zoneId": "Zone.Event.DarkGenerals.Infil.Spy.Map1",
-                "maxRuns": 10,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "2020_2",
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-03-09T00:00:00Z",
-                "eventKey": "6jrg86fi4fu5o8lu37ruucld4r[0]0+3"
-              },
-              {
-                "sortPriority": 200,
-                "zoneId": "Zone.Event.DarkGenerals.Tundra.East.Map1",
-                "maxRuns": -1,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "2020_2",
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-03-09T00:00:00Z",
-                "eventKey": "2qffnp3oitfh6i383kg7q67ahg[0]0+0"
-              },
-              {
-                "sortPriority": 100,
-                "zoneId": "Zone.Event.DarkGenerals.Corps.Map1",
-                "maxRuns": -1,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "2020_2",
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-03-09T00:00:00Z",
-                "eventKey": "2qffnp3oitfh6i383kg7q67ahg[0]0+1"
-              },
-              {
-                "sortPriority": 99,
-                "zoneId": "Zone.Event.DarkGenerals.Cathedral.Map1",
-                "maxRuns": -1,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "2020_2",
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-03-09T00:00:00Z",
-                "eventKey": "2qffnp3oitfh6i383kg7q67ahg[0]0+2"
-              },
-              {
-                "sortPriority": 98,
-                "zoneId": "Zone.Event.DarkGenerals.Infil.Subversion.Map1",
-                "maxRuns": 10,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "2020_2",
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-03-09T00:00:00Z",
-                "eventKey": "2qffnp3oitfh6i383kg7q67ahg[0]0+3"
-              },
-              {
-                "sortPriority": 0,
-                "zoneId": "Zone.HallsOfFadedGlory.MapDark2",
-                "maxRuns": 1,
-                "resetCostMtx": 0,
-                "flags": [
-
-                ],
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-02-17T00:00:00Z",
-                "eventKey": "0nlrc6m6iu98guu2jlp8ha07kk[0]49+0"
-              },
-              {
-                "sortPriority": 0,
-                "zoneId": "Zone.HallsOfFadedGlory.MapFire2",
-                "maxRuns": 1,
-                "resetCostMtx": 0,
-                "flags": [
-
-                ],
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-02-17T00:00:00Z",
-                "eventKey": "0nlrc6m6iu98guu2jlp8ha07kk[1]49+0"
-              },
-              {
-                "sortPriority": 0,
-                "zoneId": "Zone.HallsOfFadedGlory.MapLight2",
-                "maxRuns": 1,
-                "resetCostMtx": 0,
-                "flags": [
-
-                ],
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-02-17T00:00:00Z",
-                "eventKey": "0nlrc6m6iu98guu2jlp8ha07kk[2]49+0"
-              },
-              {
-                "sortPriority": 0,
-                "zoneId": "Zone.HallsOfFadedGlory.MapNature2",
-                "maxRuns": 1,
-                "resetCostMtx": 0,
-                "flags": [
-
-                ],
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-02-17T00:00:00Z",
-                "eventKey": "0nlrc6m6iu98guu2jlp8ha07kk[3]49+0"
-              },
-              {
-                "sortPriority": 0,
-                "zoneId": "Zone.HallsOfFadedGlory.MapWater2",
-                "maxRuns": 1,
-                "resetCostMtx": 0,
-                "flags": [
-
-                ],
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-02-17T00:00:00Z",
-                "eventKey": "0nlrc6m6iu98guu2jlp8ha07kk[4]49+0"
-              },
-              {
-                "sortPriority": 0,
-                "zoneId": "Zone.HallsOfFadedGlory.MapGold2",
-                "maxRuns": 1,
-                "resetCostMtx": 0,
-                "flags": [
-
-                ],
-                "dynamicTier": 1,
-                "dynamicGoldTier": 5,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-02-17T00:00:00Z",
-                "eventKey": "0m71b26tij3d9nj40dnfnald5j[0]24+0"
-              },
-              {
-                "sortPriority": 0,
-                "zoneId": "Zone.Event.Weekend.Mfragments.Map1",
-                "maxRuns": 1,
-                "resetCostMtx": 0,
-                "flags": [
-
-                ],
-                "dynamicTier": 1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-02-17T00:00:00Z",
-                "eventKey": "0m71b26tij3d9nj40dnfnald5j[1]24+0"
-              },
-              {
-                "sortPriority": 0,
-                "zoneId": "Zone.Event.Weekend.PowerSources.Map1",
-                "maxRuns": 1,
-                "resetCostMtx": 0,
-                "flags": [
-
-                ],
-                "dynamicTier": 1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-02-17T00:00:00Z",
-                "eventKey": "0m71b26tij3d9nj40dnfnald5j[2]24+0"
-              },
-              {
-                "sortPriority": 300,
-                "zoneId": "Zone.Event.DarkGenerals.Tower.Daily.Map1",
-                "maxRuns": 3,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "2020_2",
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-02-16T00:00:00Z",
-                "eventKey": "7rbp9sr0nn0c3khaaqv1ng6n6l[0]5+0"
-              },
-              {
-                "sortPriority": 300,
-                "zoneId": "Zone.Event.DarkGenerals.Skirmish.Daily.Map1",
-                "maxRuns": 3,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "2020_2",
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-02-16T00:00:00Z",
-                "eventKey": "7rbp9sr0nn0c3khaaqv1ng6n6l[0]5+1"
-              },
-              {
-                "sortPriority": 300,
-                "zoneId": "Zone.Event.DarkGenerals.Vitaformer.Daily.Map1",
-                "maxRuns": 3,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "2020_2",
-                "dynamicTier": 1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-02-16T00:00:00Z",
-                "eventKey": "0j6882okgt3faobmqmiok04n9k[0]12+0"
-              },
-              {
-                "sortPriority": 300,
-                "zoneId": "Zone.Event.DarkGenerals.Glade.Daily.Map1",
-                "maxRuns": 3,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "2020_2",
-                "dynamicTier": 1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-02-16T00:00:00Z",
-                "eventKey": "0j6882okgt3faobmqmiok04n9k[0]12+1"
-              }
-            ],
-            "activeEvents": [
-              {
-                "sortPriority": 999,
-                "eventAsset": "/Game/Campaign/Zones/Events/DarkGenerals/EventDef_DarkGenerals.EventDef_DarkGenerals",
-                "eventId": "2020_2",
-                "expiresAt": "2020-03-09T00:00:00Z"
-              }
-            ],
-            "preregRewardZones": [
-
-            ],
-            "heroStoreEnd": "2020-02-17T00:00:00.000Z",
-            "purchasingEventId": "Event.DarkGenerals"
-          }
-        },
-        {
-          "validFrom": "2020-02-16T00:00:00.000Z",
+          "validFrom": "2020-02-16T11:32:35.964Z",
           "activeEvents": [
 
           ],
@@ -720,12 +375,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-02-16T01:34:56.361Z"
+      "cacheExpire": "2020-02-16T13:32:35.964Z"
     },
     "featured-stores-mcp": {
       "states": [
         {
-          "validFrom": "2020-02-15T23:34:56.361Z",
+          "validFrom": "2020-02-16T11:32:35.964Z",
           "activeEvents": [
 
           ],
@@ -738,12 +393,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-02-16T01:34:56.361Z"
+      "cacheExpire": "2020-02-16T13:32:35.964Z"
     },
     "weekly-challenge": {
       "states": [
         {
-          "validFrom": "2020-02-15T23:34:56.361Z",
+          "validFrom": "2020-02-16T11:32:35.964Z",
           "activeEvents": [
 
           ],
@@ -896,12 +551,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-02-16T01:34:56.361Z"
+      "cacheExpire": "2020-02-16T13:32:35.964Z"
     },
     "battlepass": {
       "states": [
         {
-          "validFrom": "2020-02-15T23:34:56.361Z",
+          "validFrom": "2020-02-16T11:32:35.964Z",
           "activeEvents": [
 
           ],
@@ -911,9 +566,9 @@
           }
         }
       ],
-      "cacheExpire": "2020-02-16T01:34:56.361Z"
+      "cacheExpire": "2020-02-16T13:32:35.964Z"
     }
   },
   "cacheIntervalMins": 15.0,
-  "currentTime": "2020-02-16T00:01:56.489Z"
+  "currentTime": "2020-02-16T12:01:55.903Z"
 }
