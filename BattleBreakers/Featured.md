@@ -64,9 +64,9 @@
 | 1 | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
-| 2 | Fire Evo Bundle | 600 | Gems |  |
 | Unlimited | Weekly Tickets | 600 | Gems |  |
 | Unlimited | Heroic Chest | 1500 | Gems |  |
+| 2 | Super Dark Evo Bundle | 1500 | Gems |  |
 | Unlimited | Mega Magic Chest | 2000 | Gems |  |
 | 1 | Support Gift 1 | 0 | Gems | Marketplace Level 1000 |
 | 1 | Support Gift 3 | 0 | Gems | Marketplace Level 10000 |
