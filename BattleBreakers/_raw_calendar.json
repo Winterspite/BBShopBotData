@@ -3,7 +3,7 @@
     "news": {
       "states": [
         {
-          "validFrom": "2020-03-09T11:33:46.679Z",
+          "validFrom": "2020-03-09T23:37:27.961Z",
           "activeEvents": [
 
           ],
@@ -11,12 +11,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-03-09T13:33:46.679Z"
+      "cacheExpire": "2020-03-10T01:37:27.961Z"
     },
     "marketing": {
       "states": [
         {
-          "validFrom": "2020-03-09T11:33:46.679Z",
+          "validFrom": "2020-03-09T23:37:27.961Z",
           "activeEvents": [
 
           ],
@@ -25,12 +25,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-03-09T13:33:46.679Z"
+      "cacheExpire": "2020-03-10T01:37:27.961Z"
     },
     "rotational-content": {
       "states": [
         {
-          "validFrom": "2020-03-09T11:33:46.679Z",
+          "validFrom": "2020-03-09T23:37:27.961Z",
           "activeEvents": [
 
           ],
@@ -117,14 +117,103 @@
             ],
             "heroStoreEnd": "2020-03-16T00:00:00.000Z"
           }
+        },
+        {
+          "validFrom": "2020-03-10T00:00:00.000Z",
+          "activeEvents": [
+
+          ],
+          "state": {
+            "activeZones": [
+              {
+                "sortPriority": 800,
+                "zoneId": "Zone.Event.GrandArena.Aux.Battleford.Map1",
+                "maxRuns": -1,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "Event.GrandArena",
+                "dynamicTier": 1,
+                "dynamicGoldTier": 1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2021-01-01T00:00:00Z",
+                "eventKey": "37m008vr790voua5ie1g0s0pqg[0]0+0"
+              },
+              {
+                "sortPriority": 800,
+                "zoneId": "Zone.Pvp.Sparring1.Map1",
+                "maxRuns": -1,
+                "resetCostMtx": 0,
+                "flags": [
+                  "IsSpecialEvent"
+                ],
+                "eventId": "Event.GrandArena",
+                "dynamicTier": -1,
+                "dynamicGoldTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2021-01-01T00:00:00Z",
+                "eventKey": "37m008vr790voua5ie1g0s0pqg[1]0+0"
+              },
+              {
+                "sortPriority": -100,
+                "zoneId": "Zone.Event.WK.TKVoucher1.Nature.Map1",
+                "maxRuns": 8,
+                "resetCostMtx": 500,
+                "flags": [
+
+                ],
+                "dynamicTier": -1,
+                "dynamicGoldTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2020-03-14T00:00:00Z",
+                "eventKey": "021lv6t1k5dmuuokgcr3cr1m0s[0]53+0"
+              },
+              {
+                "sortPriority": 0,
+                "zoneId": "Zone.HallsOfFadedGlory.MapWater1",
+                "maxRuns": 1,
+                "resetCostMtx": 0,
+                "flags": [
+
+                ],
+                "dynamicTier": -1,
+                "dynamicGoldTier": -1,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2020-03-11T00:00:00Z",
+                "eventKey": "0qiod0onetlhk65rttvlca31vh[0]27+0"
+              },
+              {
+                "sortPriority": 0,
+                "zoneId": "Zone.HallsOfFadedGlory.MapGold1",
+                "maxRuns": 1,
+                "resetCostMtx": 0,
+                "flags": [
+
+                ],
+                "dynamicTier": 1,
+                "dynamicGoldTier": 3,
+                "dynamicWorldLevel": -1,
+                "expiresAt": "2020-03-11T00:00:00Z",
+                "eventKey": "6tojdi2dqvmqbeo0st5bvr919m[0]266+0"
+              }
+            ],
+            "activeEvents": [
+
+            ],
+            "preregRewardZones": [
+
+            ],
+            "heroStoreEnd": "2020-03-16T00:00:00.000Z"
+          }
         }
       ],
-      "cacheExpire": "2020-03-09T13:33:46.679Z"
+      "cacheExpire": "2020-03-10T01:37:27.961Z"
     },
     "featured-stores-mcp": {
       "states": [
         {
-          "validFrom": "2020-03-09T11:33:46.679Z",
+          "validFrom": "2020-03-09T23:37:27.961Z",
           "activeEvents": [
 
           ],
@@ -137,12 +226,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-03-09T13:33:46.679Z"
+      "cacheExpire": "2020-03-10T01:37:27.961Z"
     },
     "weekly-challenge": {
       "states": [
         {
-          "validFrom": "2020-03-09T11:33:46.679Z",
+          "validFrom": "2020-03-09T23:37:27.961Z",
           "activeEvents": [
 
           ],
@@ -305,12 +394,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-03-09T13:33:46.679Z"
+      "cacheExpire": "2020-03-10T01:37:27.961Z"
     },
     "battlepass": {
       "states": [
         {
-          "validFrom": "2020-03-09T11:33:46.679Z",
+          "validFrom": "2020-03-09T23:37:27.961Z",
           "activeEvents": [
 
           ],
@@ -320,9 +409,9 @@
           }
         }
       ],
-      "cacheExpire": "2020-03-09T13:33:46.679Z"
+      "cacheExpire": "2020-03-10T01:37:27.961Z"
     }
   },
   "cacheIntervalMins": 15.0,
-  "currentTime": "2020-03-09T12:01:58.471Z"
+  "currentTime": "2020-03-10T00:01:58.553Z"
 }
