@@ -3,7 +3,7 @@
     "news": {
       "states": [
         {
-          "validFrom": "2020-03-10T23:33:33.337Z",
+          "validFrom": "2020-03-11T11:34:01.781Z",
           "activeEvents": [
 
           ],
@@ -11,12 +11,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-03-11T01:33:33.337Z"
+      "cacheExpire": "2020-03-11T13:34:01.781Z"
     },
     "limited-time-mode": {
       "states": [
         {
-          "validFrom": "2020-03-10T23:33:33.337Z",
+          "validFrom": "2020-03-11T11:34:01.781Z",
           "activeEvents": [
 
           ],
@@ -28,12 +28,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-03-11T01:33:33.337Z"
+      "cacheExpire": "2020-03-11T13:34:01.781Z"
     },
     "marketing": {
       "states": [
         {
-          "validFrom": "2020-03-10T23:33:33.337Z",
+          "validFrom": "2020-03-11T11:34:01.781Z",
           "activeEvents": [
 
           ],
@@ -42,286 +42,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-03-11T01:33:33.337Z"
+      "cacheExpire": "2020-03-11T13:34:01.781Z"
     },
     "rotational-content": {
       "states": [
         {
-          "validFrom": "2020-03-10T23:33:33.337Z",
-          "activeEvents": [
-
-          ],
-          "state": {
-            "activeZones": [
-              {
-                "sortPriority": 800,
-                "zoneId": "Zone.Event.GrandArena.Aux.Battleford.Map1",
-                "maxRuns": -1,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "Event.GrandArena",
-                "dynamicTier": 1,
-                "dynamicGoldTier": 1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2021-01-01T00:00:00Z",
-                "eventKey": "37m008vr790voua5ie1g0s0pqg[0]0+0"
-              },
-              {
-                "sortPriority": 800,
-                "zoneId": "Zone.Pvp.Sparring1.Map1",
-                "maxRuns": -1,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "Event.GrandArena",
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2021-01-01T00:00:00Z",
-                "eventKey": "37m008vr790voua5ie1g0s0pqg[1]0+0"
-              },
-              {
-                "sortPriority": -100,
-                "zoneId": "Zone.Event.WK.TKVoucher1.Nature.Map1",
-                "maxRuns": 8,
-                "resetCostMtx": 500,
-                "flags": [
-
-                ],
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-03-14T00:00:00Z",
-                "eventKey": "021lv6t1k5dmuuokgcr3cr1m0s[0]53+0"
-              },
-              {
-                "sortPriority": 10,
-                "zoneId": "Zone.Event.NinjasAttack.Pirate.MB.Map1",
-                "maxRuns": 3,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "2018_1",
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-03-16T00:00:00Z",
-                "eventKey": "18qrojbrv7mogea9slh9ocvc57[0]0+0"
-              },
-              {
-                "sortPriority": 10,
-                "zoneId": "Zone.Event.NinjasAttack.Pursuit.MB.Map1",
-                "maxRuns": 3,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "2018_1",
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-03-16T00:00:00Z",
-                "eventKey": "7c5almrauae794u19823ca1q1s[0]0+0"
-              },
-              {
-                "sortPriority": 100,
-                "zoneId": "Zone.Event.NinjasAttack.Pirate.Map1",
-                "maxRuns": -1,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "2018_1",
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-03-30T00:00:00Z",
-                "eventKey": "6dp79cem6uh23ohf16q3g2ooa1[0]0+0"
-              },
-              {
-                "sortPriority": 100,
-                "zoneId": "Zone.Event.NinjasAttack.FourMasters.Spear.Map1",
-                "maxRuns": -1,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "2018_1",
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-03-30T00:00:00Z",
-                "eventKey": "6dp79cem6uh23ohf16q3g2ooa1[0]0+1"
-              },
-              {
-                "sortPriority": 98,
-                "zoneId": "Zone.Event.NinjasAttack.Map4",
-                "maxRuns": -1,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "2018_1",
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-03-30T00:00:00Z",
-                "eventKey": "6kq7m1t2rbr6mj81i5dfoq5ent[0]0+0"
-              },
-              {
-                "sortPriority": 96,
-                "zoneId": "Zone.Event.NinjasAttack.Dojo.Map1",
-                "maxRuns": -1,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "2018_1",
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-03-30T00:00:00Z",
-                "eventKey": "6kq7m1t2rbr6mj81i5dfoq5ent[0]0+1"
-              },
-              {
-                "sortPriority": 96,
-                "zoneId": "Zone.Event.NinjasAttack.FourMasters.Knife.Map1",
-                "maxRuns": -1,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "2018_1",
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-03-30T00:00:00Z",
-                "eventKey": "6kq7m1t2rbr6mj81i5dfoq5ent[0]0+2"
-              },
-              {
-                "sortPriority": 0,
-                "zoneId": "Zone.HallsOfFadedGlory.MapWater1",
-                "maxRuns": 1,
-                "resetCostMtx": 0,
-                "flags": [
-
-                ],
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-03-11T00:00:00Z",
-                "eventKey": "0qiod0onetlhk65rttvlca31vh[0]27+0"
-              },
-              {
-                "sortPriority": 0,
-                "zoneId": "Zone.HallsOfFadedGlory.MapGold1",
-                "maxRuns": 1,
-                "resetCostMtx": 0,
-                "flags": [
-
-                ],
-                "dynamicTier": 1,
-                "dynamicGoldTier": 3,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-03-11T00:00:00Z",
-                "eventKey": "6tojdi2dqvmqbeo0st5bvr919m[0]266+0"
-              },
-              {
-                "sortPriority": 300,
-                "zoneId": "Zone.Event.NinjasAttack.Bloody.Map1",
-                "maxRuns": 3,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "2018_1",
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-03-11T00:00:00Z",
-                "eventKey": "21t6oh1ce6meth06ipn9lpndoq[0]1+0"
-              },
-              {
-                "sortPriority": 300,
-                "zoneId": "Zone.Event.NinjasAttack.Deal.Map1",
-                "maxRuns": 3,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "2018_1",
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-03-11T00:00:00Z",
-                "eventKey": "21t6oh1ce6meth06ipn9lpndoq[0]1+1"
-              },
-              {
-                "sortPriority": 300,
-                "zoneId": "Zone.Event.NinjasAttack.Map2",
-                "maxRuns": 3,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "2018_1",
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-03-11T00:00:00Z",
-                "eventKey": "5vtivlo3v3ip5o12uo4ebvc59v[0]1+0"
-              },
-              {
-                "sortPriority": 300,
-                "zoneId": "Zone.Event.NinjasAttack.Pursuit.Map1",
-                "maxRuns": 3,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "2018_1",
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-03-11T00:00:00Z",
-                "eventKey": "5vtivlo3v3ip5o12uo4ebvc59v[0]1+1"
-              },
-              {
-                "sortPriority": 101,
-                "zoneId": "Zone.Event.NinjasAttack.Beard.Map1",
-                "maxRuns": 5,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-03-11T00:00:00Z",
-                "eventKey": "2feagcmn56j9oqd3nprsocnl5n[0]0+0"
-              }
-            ],
-            "activeEvents": [
-              {
-                "sortPriority": 999,
-                "eventAsset": "/Game/Campaign/Zones/Events/NinjasAttack/EventDef_NinjasAttack.EventDef_NinjasAttack",
-                "eventId": "2018_1",
-                "expiresAt": "2020-03-30T00:00:00Z"
-              }
-            ],
-            "preregRewardZones": [
-
-            ],
-            "heroStoreEnd": "2020-03-16T00:00:00.000Z",
-            "purchasingEventId": "2018_1"
-          }
-        },
-        {
-          "validFrom": "2020-03-11T00:00:00.000Z",
+          "validFrom": "2020-03-11T11:34:01.781Z",
           "activeEvents": [
 
           ],
@@ -581,12 +307,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-03-11T01:33:33.337Z"
+      "cacheExpire": "2020-03-11T13:34:01.781Z"
     },
     "featured-stores-mcp": {
       "states": [
         {
-          "validFrom": "2020-03-10T23:33:33.337Z",
+          "validFrom": "2020-03-11T11:34:01.781Z",
           "activeEvents": [
 
           ],
@@ -599,12 +325,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-03-11T01:33:33.337Z"
+      "cacheExpire": "2020-03-11T13:34:01.781Z"
     },
     "weekly-challenge": {
       "states": [
         {
-          "validFrom": "2020-03-10T23:33:33.337Z",
+          "validFrom": "2020-03-11T11:34:01.781Z",
           "activeEvents": [
 
           ],
@@ -767,12 +493,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-03-11T01:33:33.337Z"
+      "cacheExpire": "2020-03-11T13:34:01.781Z"
     },
     "battlepass": {
       "states": [
         {
-          "validFrom": "2020-03-10T23:33:33.337Z",
+          "validFrom": "2020-03-11T11:34:01.781Z",
           "activeEvents": [
 
           ],
@@ -782,9 +508,9 @@
           }
         }
       ],
-      "cacheExpire": "2020-03-11T01:33:33.337Z"
+      "cacheExpire": "2020-03-11T13:34:01.781Z"
     }
   },
   "cacheIntervalMins": 15.0,
-  "currentTime": "2020-03-11T00:01:58.653Z"
+  "currentTime": "2020-03-11T12:01:58.991Z"
 }
