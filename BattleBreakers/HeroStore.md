@@ -2,6 +2,7 @@
 | -------- | ----- | ----- | -------- |  ----------- |
 | Unlimited | Pet_VR1_Fire_LaserDino_T04 | 100 | Cloudpuff Cookies |  |
 | Unlimited | Pet_VR1_Nature_Mousecat_T04 | 100 | Cloudpuff Cookies |  |
+| Unlimited | Pet_VR2_ClawFrenzy_Fire_T04 | 100 | Cloudpuff Cookies |  |
 | Unlimited | Sneek [Water] | 100 | Cloudpuff Cookies |  |
 | Unlimited | Pet_SR1_Palgrus_Water_T05 | 200 | Cloudpuff Cookies |  |
 | 1 | Chocolate Cloudpuff | 800 | Cloudpuff Cookies |  |
@@ -22,5 +23,5 @@
 | Unlimited | Blademaster_VR1_Dark_SinisterStrike_T04 | 2000 | Magic Tickets |  |
 | Unlimited | Morgan of the Red | 2000 | Magic Tickets |  |
 | Unlimited | Wanderer Yaijan | 2000 | Magic Tickets |  |
-| Unlimited | Noble Slayer | 5000 | Magic Tickets |  |
+| Unlimited | MartialArtist_SR2_Water_DrunkenFist_T05 | 5000 | Magic Tickets |  |
 | Unlimited | Warrior_Starter_Nature_PowerStrike_T04 | 5000 | Magic Tickets |  |
