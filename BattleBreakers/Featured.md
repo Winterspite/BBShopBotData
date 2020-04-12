@@ -63,7 +63,7 @@
 | 1 | Elemental Heroes | 500 | Gems |  |
 | 1 | Elemental Heroes | 500 | Gems |  |
 | Unlimited | Weekly Tickets | 600 | Gems |  |
-| 1 | Elemental Shard Bundle | 1000 | Gems |  |
+| 3 | Elemental Shard Bundle | 1000 | Gems |  |
 | Unlimited | Heroic Chest | 1500 | Gems |  |
 | Unlimited | Mega Magic Chest | 2000 | Gems |  |
 | 1 | HeroBundle | 4500 | Gems |  |
