@@ -3,7 +3,7 @@
     "news": {
       "states": [
         {
-          "validFrom": "2020-04-14T23:45:48.844Z",
+          "validFrom": "2020-04-15T11:32:51.152Z",
           "activeEvents": [
 
           ],
@@ -11,12 +11,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-04-15T01:45:48.844Z"
+      "cacheExpire": "2020-04-15T13:32:51.152Z"
     },
     "limited-time-mode": {
       "states": [
         {
-          "validFrom": "2020-04-14T23:45:48.844Z",
+          "validFrom": "2020-04-15T11:32:51.152Z",
           "activeEvents": [
 
           ],
@@ -28,12 +28,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-04-15T01:45:48.844Z"
+      "cacheExpire": "2020-04-15T13:32:51.152Z"
     },
     "marketing": {
       "states": [
         {
-          "validFrom": "2020-04-14T23:45:48.844Z",
+          "validFrom": "2020-04-15T11:32:51.152Z",
           "activeEvents": [
 
           ],
@@ -42,196 +42,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-04-15T01:45:48.844Z"
+      "cacheExpire": "2020-04-15T13:32:51.152Z"
     },
     "rotational-content": {
       "states": [
         {
-          "validFrom": "2020-04-14T23:45:48.844Z",
-          "activeEvents": [
-
-          ],
-          "state": {
-            "activeZones": [
-              {
-                "sortPriority": 800,
-                "zoneId": "Zone.Event.GrandArena.Aux.Battleford.Map1",
-                "maxRuns": -1,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "Event.GrandArena",
-                "dynamicTier": 1,
-                "dynamicGoldTier": 1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2021-01-01T00:00:00Z",
-                "eventKey": "37m008vr790voua5ie1g0s0pqg[0]0+0"
-              },
-              {
-                "sortPriority": 800,
-                "zoneId": "Zone.Pvp.Sparring1.Map1",
-                "maxRuns": -1,
-                "resetCostMtx": 0,
-                "flags": [
-                  "IsSpecialEvent"
-                ],
-                "eventId": "Event.GrandArena",
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2021-01-01T00:00:00Z",
-                "eventKey": "37m008vr790voua5ie1g0s0pqg[1]0+0"
-              },
-              {
-                "sortPriority": 0,
-                "zoneId": "Zone.Event.GC.SunScarred.Wellhaven.Map1",
-                "maxRuns": 5,
-                "resetCostMtx": 0,
-                "flags": [
-
-                ],
-                "eventId": "Event.GC.SunScarred",
-                "dynamicTier": 1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-04-20T00:00:00Z",
-                "eventKey": "0rgjmqdsdpvf89cep0jci4p8d2[1]0+0"
-              },
-              {
-                "sortPriority": 0,
-                "zoneId": "Zone.Event.GC.SunScarred.Cardinalate.Map1",
-                "maxRuns": 5,
-                "resetCostMtx": 0,
-                "flags": [
-
-                ],
-                "eventId": "Event.GC.SunScarred",
-                "dynamicTier": 1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-04-20T00:00:00Z",
-                "eventKey": "0rgjmqdsdpvf89cep0jci4p8d2[1]0+1"
-              },
-              {
-                "sortPriority": 0,
-                "zoneId": "Zone.Event.GC.SunScarred.Cathedral.Map1",
-                "maxRuns": 5,
-                "resetCostMtx": 0,
-                "flags": [
-
-                ],
-                "eventId": "Event.GC.SunScarred",
-                "dynamicTier": 1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-04-20T00:00:00Z",
-                "eventKey": "0rgjmqdsdpvf89cep0jci4p8d2[1]0+2"
-              },
-              {
-                "sortPriority": 0,
-                "zoneId": "Zone.Event.GC.SunScarred.Conclave.Map1",
-                "maxRuns": 5,
-                "resetCostMtx": 0,
-                "flags": [
-
-                ],
-                "eventId": "Event.GC.SunScarred",
-                "dynamicTier": 1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-04-20T00:00:00Z",
-                "eventKey": "0rgjmqdsdpvf89cep0jci4p8d2[1]0+3"
-              },
-              {
-                "sortPriority": -100,
-                "zoneId": "Zone.Event.BossChallenge.PowerSources.Map1",
-                "maxRuns": 1,
-                "resetCostMtx": 0,
-                "flags": [
-
-                ],
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-04-18T00:00:00Z",
-                "eventKey": "021lv6t1k5dmuuokgcr3cr1m0s[0]58+0"
-              },
-              {
-                "sortPriority": 0,
-                "zoneId": "Zone.Event.GC.SunScarred.Fervor.Map1",
-                "maxRuns": 1,
-                "resetCostMtx": 0,
-                "flags": [
-
-                ],
-                "eventId": "Event.GC.SunScarred",
-                "dynamicTier": 1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-04-15T00:00:00Z",
-                "eventKey": "6qcg4984h3b1a9kvfqspqn720d[0]8+0"
-              },
-              {
-                "sortPriority": 0,
-                "zoneId": "Zone.Event.GC.SunScarred.Redwind.Map1",
-                "maxRuns": 1,
-                "resetCostMtx": 0,
-                "flags": [
-
-                ],
-                "eventId": "Event.GC.SunScarred",
-                "dynamicTier": 1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-04-15T00:00:00Z",
-                "eventKey": "6qcg4984h3b1a9kvfqspqn720d[0]8+1"
-              },
-              {
-                "sortPriority": 0,
-                "zoneId": "Zone.HallsOfFadedGlory.MapWater1",
-                "maxRuns": 1,
-                "resetCostMtx": 0,
-                "flags": [
-
-                ],
-                "dynamicTier": -1,
-                "dynamicGoldTier": -1,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-04-15T00:00:00Z",
-                "eventKey": "0qiod0onetlhk65rttvlca31vh[0]32+0"
-              },
-              {
-                "sortPriority": 0,
-                "zoneId": "Zone.HallsOfFadedGlory.MapGold1",
-                "maxRuns": 1,
-                "resetCostMtx": 0,
-                "flags": [
-
-                ],
-                "dynamicTier": 1,
-                "dynamicGoldTier": 3,
-                "dynamicWorldLevel": -1,
-                "expiresAt": "2020-04-15T00:00:00Z",
-                "eventKey": "6tojdi2dqvmqbeo0st5bvr919m[0]291+0"
-              }
-            ],
-            "activeEvents": [
-              {
-                "sortPriority": 0,
-                "eventAsset": "/Game/Campaign/Zones/Events/GroupedContent/SunScarred/EventDef_SunScarred.EventDef_SunScarred",
-                "eventId": "Event.GC.SunScarred",
-                "expiresAt": "2020-04-20T00:00:00Z"
-              }
-            ],
-            "preregRewardZones": [
-
-            ],
-            "heroStoreEnd": "2020-04-20T00:00:00.000Z"
-          }
-        },
-        {
-          "validFrom": "2020-04-15T00:00:00.000Z",
+          "validFrom": "2020-04-15T11:32:51.152Z",
           "activeEvents": [
 
           ],
@@ -415,12 +231,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-04-15T01:45:48.844Z"
+      "cacheExpire": "2020-04-15T13:32:51.152Z"
     },
     "featured-stores-mcp": {
       "states": [
         {
-          "validFrom": "2020-04-14T23:45:48.844Z",
+          "validFrom": "2020-04-15T11:32:51.152Z",
           "activeEvents": [
 
           ],
@@ -433,12 +249,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-04-15T01:45:48.844Z"
+      "cacheExpire": "2020-04-15T13:32:51.152Z"
     },
     "weekly-challenge": {
       "states": [
         {
-          "validFrom": "2020-04-14T23:45:48.844Z",
+          "validFrom": "2020-04-15T11:32:51.152Z",
           "activeEvents": [
 
           ],
@@ -591,12 +407,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-04-15T01:45:48.844Z"
+      "cacheExpire": "2020-04-15T13:32:51.152Z"
     },
     "battlepass": {
       "states": [
         {
-          "validFrom": "2020-04-14T23:45:48.844Z",
+          "validFrom": "2020-04-15T11:32:51.152Z",
           "activeEvents": [
 
           ],
@@ -606,9 +422,9 @@
           }
         }
       ],
-      "cacheExpire": "2020-04-15T01:45:48.844Z"
+      "cacheExpire": "2020-04-15T13:32:51.152Z"
     }
   },
   "cacheIntervalMins": 15.0,
-  "currentTime": "2020-04-15T00:02:02.290Z"
+  "currentTime": "2020-04-15T12:02:01.465Z"
 }
