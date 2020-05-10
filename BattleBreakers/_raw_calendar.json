@@ -3,7 +3,7 @@
     "news": {
       "states": [
         {
-          "validFrom": "2020-05-09T11:35:16.268Z",
+          "validFrom": "2020-05-09T23:39:48.720Z",
           "activeEvents": [
 
           ],
@@ -11,12 +11,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-05-09T13:35:16.268Z"
+      "cacheExpire": "2020-05-10T01:39:48.720Z"
     },
     "limited-time-mode": {
       "states": [
         {
-          "validFrom": "2020-05-09T11:35:16.268Z",
+          "validFrom": "2020-05-09T23:39:48.720Z",
           "activeEvents": [
 
           ],
@@ -28,12 +28,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-05-09T13:35:16.268Z"
+      "cacheExpire": "2020-05-10T01:39:48.720Z"
     },
     "marketing": {
       "states": [
         {
-          "validFrom": "2020-05-09T11:35:16.268Z",
+          "validFrom": "2020-05-09T23:39:48.720Z",
           "activeEvents": [
 
           ],
@@ -42,12 +42,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-05-09T13:35:16.268Z"
+      "cacheExpire": "2020-05-10T01:39:48.720Z"
     },
     "rotational-content": {
       "states": [
         {
-          "validFrom": "2020-05-09T11:35:16.268Z",
+          "validFrom": "2020-05-09T23:39:48.720Z",
           "activeEvents": [
 
           ],
@@ -563,12 +563,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-05-09T13:35:16.268Z"
+      "cacheExpire": "2020-05-10T01:39:48.720Z"
     },
     "featured-stores-mcp": {
       "states": [
         {
-          "validFrom": "2020-05-09T11:35:16.268Z",
+          "validFrom": "2020-05-09T23:39:48.720Z",
           "activeEvents": [
 
           ],
@@ -581,12 +581,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-05-09T13:35:16.268Z"
+      "cacheExpire": "2020-05-10T01:39:48.720Z"
     },
     "weekly-challenge": {
       "states": [
         {
-          "validFrom": "2020-05-09T11:35:16.268Z",
+          "validFrom": "2020-05-09T23:39:48.720Z",
           "activeEvents": [
 
           ],
@@ -739,12 +739,12 @@
           }
         }
       ],
-      "cacheExpire": "2020-05-09T13:35:16.268Z"
+      "cacheExpire": "2020-05-10T01:39:48.720Z"
     },
     "battlepass": {
       "states": [
         {
-          "validFrom": "2020-05-09T11:35:16.268Z",
+          "validFrom": "2020-05-09T23:39:48.720Z",
           "activeEvents": [
 
           ],
@@ -754,9 +754,9 @@
           }
         }
       ],
-      "cacheExpire": "2020-05-09T13:35:16.268Z"
+      "cacheExpire": "2020-05-10T01:39:48.720Z"
     }
   },
   "cacheIntervalMins": 15.0,
-  "currentTime": "2020-05-09T12:02:04.609Z"
+  "currentTime": "2020-05-10T00:02:04.248Z"
 }
